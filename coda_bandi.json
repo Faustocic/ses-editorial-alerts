@@ -20,9 +20,9 @@
       "scadenza_domanda": "2026-08-06",
       "ora_scadenza": "23:59",
       "prove": null,
-      "stato": "DA SCHEDARE",
+      "stato": "SCHEDATO",
       "fonte": "https://portale.inpa.gov.it/api/media/9ad858ee-a435-4654-afd9-26acbbeef4a1",
-      "note": "VERIFICATO su bando integrale il 14/7 (art. 3: 30 gg, ore 23.59; art. 2 requisiti; art. 8 scritto in due elaborati). Decreto MEF-DGT RR 99 dell'1/7/2026, GU 4a s.s. n. 51 del 7/7/2026, atto 26E03867. Nessuna riserva (art. 1 c. 2). Rettifiche: nessuna al 14/7; GU 53 da ricontrollare domattina. Diario preselettiva in GU del 13/10/2026 (art. 6). Issue GitHub #5."
+      "note": "Scheda pubblicata il 14/7/2026. VERIFICATO su bando integrale (art. 3: 30 gg, ore 23.59; art. 2 requisiti; art. 8 scritto in due elaborati). Decreto MEF-DGT RR 99 dell'1/7/2026, GU 4a s.s. n. 51 del 7/7/2026, atto 26E03867. Nessuna riserva (art. 1 c. 2). Rettifiche: nessuna alla pubblicazione (GU 53 non ancora uscita il 14/7 sera). Diario preselettiva in GU del 13/10/2026 (art. 6). Issue GitHub #5 chiusa."
     }
   ]
 }
