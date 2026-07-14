@@ -1,0 +1,16 @@
+{
+  "_istruzioni": "Coda bandi in formato macchina, letta ogni giorno da concorsi_scadenze.py (alert con etichetta 'scadenzario-concorsi'). Si aggiorna SEMPRE insieme alla tabella dello scadenzario, consegnando ENTRAMBI i file interi (regola: mai patch parziali). Le chiavi che iniziano con _ sono documentazione e vengono ignorate dallo script. Le voci malformate vengono scartate con warning senza bloccare il run.",
+  "_schema": {
+    "id": "identificativo breve e stabile, es. 'asp-me-oss-2026' (usato per il dedup delle issue: non cambiarlo dopo la creazione)",
+    "ente": "denominazione dell'amministrazione — OBBLIGATORIO",
+    "titolo": "posti e profilo in sintesi",
+    "scadenza_domanda": "YYYY-MM-DD — OBBLIGATORIA e presa dal TESTO del bando, mai dalle date redazionali di GU o inPA",
+    "ora_scadenza": "HH:MM come da bando (opzionale ma raccomandata)",
+    "prove": "YYYY-MM-DD della prima prova se nota, altrimenti null",
+    "stato": "DA SCHEDARE | SCHEDATO | REMINDER FATTO | PROVE | GRADUATORIA | ARCHIVIATO",
+    "fonte": "URL del bando integrale (PDF) — la fonte primaria della riga",
+    "note": "rettifiche, riaperture dei termini, particolarità"
+  },
+  "_alert_generati": "reminder a 5 giorni dalla scadenza domanda; pezzo prove a 3 giorni dalla data prove; CONVERSIONE se la scadenza è passata e lo stato è ancora DA SCHEDARE/SCHEDATO/REMINDER FATTO. Gli stati ARCHIVIATO non generano nulla.",
+  "bandi": []
+}
