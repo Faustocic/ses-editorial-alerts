@@ -1,0 +1,107 @@
+# INPS Alert — workflow quotidiano per i cicli "Evergreen Pagamenti" e "Concorsi Pubblici"
+# Posizione nel repo: .github/workflows/inps_alert.yml
+# Nella root del repo vanno: inps_monitor.py, scadenzario_alert.py,
+# concorsi_monitor.py, concorsi_scadenze.py e coda_bandi.json (quest'ultimo
+# è la coda bandi: il workflow lo LEGGE soltanto, si aggiorna in sessione).
+#
+# CORREZIONE 11/7/2026 — la versione precedente eseguiva SOLO inps_monitor.py:
+# scadenzario_alert.py non veniva mai lanciato e seen_scadenzario.json non veniva
+# mai committato. Risultato: le issue con etichetta "scadenzario" (finestre editoriali
+# in apertura) non sono mai state generate.
+#
+# AGGIORNAMENTO 13/7/2026 — aggiunto lo step del monitor concorsi (etichetta
+# "concorsi-alert").
+#
+# AGGIORNAMENTO 14/7/2026 (v3) — aggiunto lo step dell'alert di calendario dei
+# concorsi (concorsi_scadenze.py, etichetta "scadenzario-concorsi") e il commit
+# di seen_concorsi_scadenze.json. Questo file SOSTITUISCE per intero il
+# precedente (regola: mai merge piecemeal).
+
+name: INPS Alert
+
+on:
+  schedule:
+    # 05:30 UTC = 07:30 in Italia con ora legale (06:30 in inverno).
+    # I cron di GitHub possono slittare di qualche minuto: irrilevante qui.
+    - cron: "30 5 * * *"
+  workflow_dispatch: {}   # avvio manuale per il test iniziale
+
+permissions:
+  contents: write   # per committare i file di stato
+  issues: write     # per aprire le issue di alert
+
+concurrency:
+  group: inps-alert
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Esegui il monitor INPS
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python inps_monitor.py
+
+      # Step aggiunto l'11/7/2026. `if: always()` perché un errore del monitor
+      # (rete, rate limit di Google News) non deve impedire gli alert di calendario,
+      # che sono quelli che scandiscono il ritmo editoriale.
+      - name: Esegui l'alert dello scadenzario
+        if: always()
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          if [ -f scadenzario_alert.py ]; then
+            python scadenzario_alert.py
+          else
+            echo "::warning::scadenzario_alert.py non presente nella root del repo: step saltato. Gli alert di finestra editoriale NON verranno generati."
+          fi
+
+      # Step aggiunto il 13/7/2026 — ciclo "Concorsi Pubblici", canale fonti.
+      - name: Esegui il monitor concorsi
+        if: always()
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          if [ -f concorsi_monitor.py ]; then
+            python concorsi_monitor.py
+          else
+            echo "::warning::concorsi_monitor.py non presente nella root del repo: step saltato. Gli alert concorsi NON verranno generati."
+          fi
+
+      # Step aggiunto il 14/7/2026 — ciclo "Concorsi Pubblici", canale calendario.
+      # Legge coda_bandi.json: se il file manca lo script stesso lo segnala
+      # con un warning ed esce pulito.
+      - name: Esegui l'alert scadenze concorsi
+        if: always()
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          if [ -f concorsi_scadenze.py ]; then
+            python concorsi_scadenze.py
+          else
+            echo "::warning::concorsi_scadenze.py non presente nella root del repo: step saltato. I reminder di scadenza concorsi NON verranno generati."
+          fi
+
+      - name: Commit dello stato
+        if: always()
+        run: |
+          git config user.name "inps-alert-bot"
+          git config user.email "actions@users.noreply.github.com"
+          for f in seen_inps.json seen_scadenzario.json seen_concorsi.json seen_concorsi_scadenze.json; do
+            [ -f "$f" ] && git add "$f"
+          done
+          git diff --cached --quiet || git commit -m "inps-alert: aggiorna stato visti"
+          git push
