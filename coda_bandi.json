@@ -12,5 +12,17 @@
     "note": "rettifiche, riaperture dei termini, particolarità"
   },
   "_alert_generati": "reminder a 5 giorni dalla scadenza domanda; pezzo prove a 3 giorni dalla data prove; CONVERSIONE se la scadenza è passata e lo stato è ancora DA SCHEDARE/SCHEDATO/REMINDER FATTO. Gli stati ARCHIVIATO non generano nulla.",
-  "bandi": []
+  "bandi": [
+    {
+      "id": "mef-magistrati-tributari-2026",
+      "ente": "MEF - Dipartimento della Giustizia tributaria",
+      "titolo": "180 posti di magistrato tributario (per esami) + fino a 36 idonei",
+      "scadenza_domanda": "2026-08-06",
+      "ora_scadenza": "23:59",
+      "prove": null,
+      "stato": "DA SCHEDARE",
+      "fonte": "https://portale.inpa.gov.it/api/media/9ad858ee-a435-4654-afd9-26acbbeef4a1",
+      "note": "VERIFICATO su bando integrale il 14/7 (art. 3: 30 gg, ore 23.59; art. 2 requisiti; art. 8 scritto in due elaborati). Decreto MEF-DGT RR 99 dell'1/7/2026, GU 4a s.s. n. 51 del 7/7/2026, atto 26E03867. Nessuna riserva (art. 1 c. 2). Rettifiche: nessuna al 14/7; GU 53 da ricontrollare domattina. Diario preselettiva in GU del 13/10/2026 (art. 6). Issue GitHub #5."
+    }
+  ]
 }
