@@ -46,7 +46,7 @@ jobs:
         with:
           python-version: "3.12"
 
-- name: Esegui il monitor INPS
+      - name: Esegui il monitor INPS
         if: always()
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
