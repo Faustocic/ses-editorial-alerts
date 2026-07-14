@@ -14,8 +14,16 @@
 #
 # AGGIORNAMENTO 14/7/2026 (v3) — aggiunto lo step dell'alert di calendario dei
 # concorsi (concorsi_scadenze.py, etichetta "scadenzario-concorsi") e il commit
-# di seen_concorsi_scadenze.json. Questo file SOSTITUISCE per intero il
-# precedente (regola: mai merge piecemeal).
+# di seen_concorsi_scadenze.json.
+#
+# AGGIORNAMENTO 14/7/2026 (v4) — aggiunto lo step "Esporta la coda issue aperte":
+# l'API GitHub anonima interrogata dai Progetti Claude a inizio sessione è quasi
+# sempre in rate limit (60 req/ora per IP condiviso). Il workflow, già autenticato
+# con il proprio GITHUB_TOKEN, esporta le issue aperte (TUTTE le etichette, quindi
+# entrambi i cicli) in open_issues.json nella root; i Progetti lo leggono via
+# raw.githubusercontent.com, canale senza rate limit API. Il file riflette lo
+# stato all'ultimo run. Questo file SOSTITUISCE per intero il precedente
+# (regola: mai merge piecemeal).
 
 name: INPS Alert
 
@@ -101,13 +109,37 @@ jobs:
             echo "::warning::concorsi_scadenze.py non presente nella root del repo: step saltato. I reminder di scadenza concorsi NON verranno generati."
           fi
 
+      # Step aggiunto il 14/7/2026 (v4). Gira DOPO tutti i monitor, così cattura
+      # anche le issue appena aperte in questo stesso run. `gh` è preinstallato
+      # sui runner e usa il GITHUB_TOKEN del workflow: nessun rate limit anonimo.
+      - name: Esporta la coda issue aperte
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue list --repo "${{ github.repository }}" --state open \
+            --json number,title,labels,createdAt,url \
+            --limit 100 > issues_raw.json
+          python - <<'EOF'
+          import json
+          from datetime import datetime, timezone
+          issues = json.load(open("issues_raw.json"))
+          out = {
+              "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+              "open_issues": issues,
+          }
+          json.dump(out, open("open_issues.json", "w"), ensure_ascii=False, indent=1)
+          print(f"[ok] coda esportata: {len(issues)} issue aperte")
+          EOF
+          rm -f issues_raw.json
+
       - name: Commit dello stato
         if: always()
         run: |
           git config user.name "inps-alert-bot"
           git config user.email "actions@users.noreply.github.com"
-          for f in seen_inps.json seen_scadenzario.json seen_concorsi.json seen_concorsi_scadenze.json; do
+          for f in seen_inps.json seen_scadenzario.json seen_concorsi.json seen_concorsi_scadenze.json open_issues.json; do
             [ -f "$f" ] && git add "$f"
           done
-          git diff --cached --quiet || git commit -m "inps-alert: aggiorna stato visti"
+          git diff --cached --quiet || git commit -m "inps-alert: aggiorna stato visti e coda issue"
           git push
