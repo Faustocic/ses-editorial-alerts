@@ -46,11 +46,17 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Esegui il monitor INPS
+- name: Esegui il monitor INPS
+        if: always()
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-        run: python inps_monitor.py
+        run: |
+          if [ -f inps_monitor.py ]; then
+            python inps_monitor.py
+          else
+            echo "::warning::inps_monitor.py non presente nella root del repo: step saltato. Gli alert INPS NON verranno generati."
+          fi
 
       # Step aggiunto l'11/7/2026. `if: always()` perché un errore del monitor
       # (rete, rate limit di Google News) non deve impedire gli alert di calendario,
