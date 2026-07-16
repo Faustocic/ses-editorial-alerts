@@ -1,6 +1,258 @@
 {
- "generated_at": "2026-07-15T07:29:48+00:00",
+ "generated_at": "2026-07-16T07:36:42+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-07-16T07:36:41Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 58,
+   "title": "[GoogleNews] Lazio, Comune di Ardea: concorso per operatori informatici con licenza media, categorie protette - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/58"
+  },
+  {
+   "createdAt": "2026-07-16T07:36:40Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 57,
+   "title": "[GoogleNews] Calabria, Comune di Trebisacce: concorso per collaboratori amministrativi - letturisti, con licenza media - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/57"
+  },
+  {
+   "createdAt": "2026-07-16T07:36:40Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 56,
+   "title": "[GoogleNews] Asp Umberto I di Pordenone: concorso per 2 posti da oss - Nurse Times",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/56"
+  },
+  {
+   "createdAt": "2026-07-16T07:36:40Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 55,
+   "title": "[GoogleNews] Ministero dell’Agricoltura, nuovo piano assunzioni: 65 posti disponibili nel prossimo triennio - Sicilianews24.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/55"
+  },
+  {
+   "createdAt": "2026-07-16T07:36:39Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 54,
+   "title": "[GoogleNews] Bando Enpam 2026: oltre 600 borse di studio fino a 4.650 euro - Scuolainforma",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/54"
+  },
+  {
+   "createdAt": "2026-07-16T07:36:39Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 53,
+   "title": "[GoogleNews] Selezione Ministero della Giustizia: lavoro per Mediatori penali in Sicilia - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/53"
+  },
+  {
+   "createdAt": "2026-07-16T07:36:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 52,
+   "title": "[GoogleNews] Concorsi e lavoro in Calabria, oltre 170 posti aperti a luglio: bandi, assunzioni e scadenze da non perdere - Calabria 7",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/52"
+  },
+  {
+   "createdAt": "2026-07-16T07:36:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 51,
+   "title": "[GoogleNews] 'Ndrangheta, ex sindaco di Siderno assolto dall’accusa di concorso esterno - Antimafia Duemila",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/51"
+  },
+  {
+   "createdAt": "2026-07-16T07:36:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 50,
+   "title": "[GoogleNews] Concorsi pubblici in Calabria, le assunzioni attive e i bandi in scadenza a luglio: 170 posti disponibili - Calabria Diretta News",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/50"
+  },
+  {
+   "createdAt": "2026-07-16T07:36:37Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 49,
+   "title": "[GoogleNews] Arpa Sicilia, Csa-Cisal: \"Il blocco delle assunzioni mette a rischio controlli ambientali e salute dei cittadini\" - Dedalomultimed",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/49"
+  },
+  {
+   "createdAt": "2026-07-16T07:36:22Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 48,
+   "title": "INPS: Assegno di Inclusione: semplificazioni e aggiornamenti - Portale Inps",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/48"
+  },
+  {
+   "createdAt": "2026-07-16T07:36:22Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 47,
+   "title": "INPS: Assegno sociale e pensione sociale: dichiarazioni di responsabilità - Portale Inps",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/47"
+  },
+  {
+   "createdAt": "2026-07-16T07:36:21Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 46,
+   "title": "INPS: Assegno unico e universale: nuove funzionalità per genitore superstite - Portale Inps",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/46"
+  },
+  {
+   "createdAt": "2026-07-16T07:36:21Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 45,
+   "title": "INPS: Assegno unico e universale: le istruzioni - Portale Inps",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/45"
+  },
+  {
+   "createdAt": "2026-07-16T07:36:20Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 44,
+   "title": "INPS: Direzione Centrale Pensioni Direzione Centrale Comunicazione Direzione Centrale Tecnologia, Informatica e Innovazione Il",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/44"
+  },
+  {
+   "createdAt": "2026-07-16T07:36:20Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 43,
+   "title": "INPS: Online la simulazione importo Assegno unico - Portale Inps",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/43"
+  },
+  {
+   "createdAt": "2026-07-16T07:36:19Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 42,
+   "title": "INPS: Assegno unico e universale: il nuovo servizio di domanda - Portale Inps",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/42"
+  },
+  {
+   "createdAt": "2026-07-16T07:36:19Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 41,
+   "title": "INPS: Casellario delle pensioni: riepilogo obblighi e scadenze per gli enti - Portale Inps",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/41"
+  },
   {
    "createdAt": "2026-07-15T07:29:47Z",
    "labels": [
@@ -434,34 +686,6 @@
    "number": 10,
    "title": "INPS: Assegno di Inclusione 2026: ecco quando arrivano i soldi sulla carta - Portale Inps",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/10"
-  },
-  {
-   "createdAt": "2026-07-14T16:25:21Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 9,
-   "title": "INPS: Pensionati: il cedolino di pensione di giugno 2024 - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/9"
-  },
-  {
-   "createdAt": "2026-07-14T11:18:31Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 8,
-   "title": "[Scadenzario] #C Refresh di metà mese dell'hub + controllo slittamenti — luglio 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/8"
   },
   {
    "createdAt": "2026-07-14T11:12:54Z",
