@@ -13,6 +13,10 @@ GitHub manda la notifica email in automatico (verificare di avere Watch attivo s
 Requisiti: nessuna dipendenza esterna, solo stdlib (Python 3.10+).
 Stato: seen_inps.json nel repo (committato dal workflow dopo ogni run).
 Changelog: 7/7/2026 — aggiunte le keyword dell'incentivo stabilizzazione (circ. INPS 72/2026).
+           16/7/2026 — filtro pubDate sul canale Google News: il feed rimette in circolo
+           anche pagine storiche del portale (es. la news ADI del 17/2/2025 riemersa come
+           issue #48); gli item con data dichiarata più vecchia di MAX_ETA_GIORNI vengono
+           scartati. Senza data, o con data illeggibile, l'item si tiene per prudenza.
 """
 
 import json
@@ -21,6 +25,8 @@ import re
 import sys
 import urllib.request
 import urllib.parse
+from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from html import unescape
 from pathlib import Path
 
@@ -58,6 +64,12 @@ STATE_FILE = Path("seen_inps.json")
 UA = {"User-Agent": "Mozilla/5.0 (compatible; inps-alert/1.0; +editorial monitor)"}
 MAX_ISSUES_PER_RUN = 8  # paracadute anti-flood al primo avvio
 
+# Età massima (in giorni) di un item Google News perché sia considerato una notizia.
+# Il monitor gira ogni mattina: una notizia vera viene vista entro 24 ore, quindi
+# 14 giorni è un margine larghissimo (copre anche indicizzazioni tardive). Tutto ciò
+# che il feed dichiara più vecchio è una pagina storica riemersa, non una novità.
+MAX_ETA_GIORNI = 14
+
 # ----------------------------- FETCH ----------------------------------------
 
 
@@ -70,6 +82,7 @@ def fetch(url: str) -> str:
 def google_news_items() -> list[dict]:
     """Canale 1: RSS di Google News con query mirate su site:inps.it."""
     items = []
+    adesso = datetime.now(timezone.utc)
     for term in TERMS:
         q = urllib.parse.quote(f'"{term}" site:inps.it')
         url = (
@@ -81,13 +94,34 @@ def google_news_items() -> list[dict]:
         except Exception as e:
             print(f"[warn] Google News KO per '{term}': {e}")
             continue
-        for m in re.finditer(
-            r"<item>.*?<title>(.*?)</title>.*?<link>(.*?)</link>", xml, re.S
-        ):
-            title = unescape(re.sub(r"<.*?>", "", m.group(1))).strip()
-            link = unescape(m.group(2)).strip()
-            if title and link:
-                items.append({"title": title, "link": link, "src": "GoogleNews"})
+        for blocco in re.finditer(r"<item>(.*?)</item>", xml, re.S):
+            item = blocco.group(1)
+            m_title = re.search(r"<title>(.*?)</title>", item, re.S)
+            m_link = re.search(r"<link>(.*?)</link>", item, re.S)
+            if not m_title or not m_link:
+                continue
+            title = unescape(re.sub(r"<.*?>", "", m_title.group(1))).strip()
+            link = unescape(m_link.group(1)).strip()
+            if not title or not link:
+                continue
+
+            # Filtro anti-riemersione (16/7/2026): Google News rimette nel feed
+            # anche pagine vecchie del portale INPS. Se l'item dichiara una data
+            # ed è più vecchio di MAX_ETA_GIORNI, non è una notizia: si scarta.
+            # Se la data manca o non si legge, l'item si TIENE: meglio un falso
+            # positivo da chiudere a mano che una notizia vera persa.
+            m_date = re.search(r"<pubDate>(.*?)</pubDate>", item, re.S)
+            if m_date:
+                try:
+                    pub = parsedate_to_datetime(m_date.group(1).strip())
+                    if pub.tzinfo is None:
+                        pub = pub.replace(tzinfo=timezone.utc)
+                    if (adesso - pub).days > MAX_ETA_GIORNI:
+                        continue
+                except Exception:
+                    pass
+
+            items.append({"title": title, "link": link, "src": "GoogleNews"})
     return items
 
 
