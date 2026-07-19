@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-07-18T07:14:25+00:00",
+ "generated_at": "2026-07-19T07:40:10+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-07-19T07:40:09Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 104,
+   "title": "[GoogleNews] Siracusa. Stazione Marittima, 5 progetti ammessi al concorso: si passa alla fase due - SiracusaOggi.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/104"
+  },
+  {
+   "createdAt": "2026-07-19T07:40:09Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 103,
+   "title": "[GoogleNews] Selezioni Formez PA: lavoro al Ministero della Salute a Roma, in Basilicata e da remoto - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/103"
+  },
+  {
+   "createdAt": "2026-07-19T07:40:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 102,
+   "title": "[GoogleNews] Piemonte: assunzioni per coadiutori amministrativi, categorie protette, presso ARPA - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/102"
+  },
+  {
+   "createdAt": "2026-07-19T07:40:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 101,
+   "title": "[GoogleNews] Città Metropolitana di Reggio Calabria: selezione per laureati, progetto finanziato dal Ministero dell'Ambiente - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/101"
+  },
+  {
+   "createdAt": "2026-07-19T07:40:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 100,
+   "title": "[GoogleNews] Nuova Stazione marittima a Siracusa, ammessi 5 progetti nel concorso architettonico - Messina in diretta",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/100"
+  },
+  {
+   "createdAt": "2026-07-19T07:40:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 99,
+   "title": "[GoogleNews] Concorso OSS Puglia – Come superare la prova pratica - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/99"
+  },
+  {
+   "createdAt": "2026-07-19T07:40:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 98,
+   "title": "[GoogleNews] Concorso Vice Ispettori Polizia di Stato 2026 da 1000 posti: Rinviato il diario della prova orale - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/98"
+  },
+  {
+   "createdAt": "2026-07-19T07:40:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 97,
+   "title": "[GoogleNews] Concorso Comune Milano Agenti Polizia Locale 2026: 8 posti a tempo indeterminato - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/97"
+  },
+  {
+   "createdAt": "2026-07-19T07:40:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 96,
+   "title": "[GoogleNews] Concorsi in arrivo Carabinieri, Polizia, GdF e Vigili del Fuoco 2026: Decreto del Presidente del Consiglio dei Ministri - Concorsa",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/96"
+  },
+  {
+   "createdAt": "2026-07-19T07:40:06Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 95,
+   "title": "[GoogleNews] Progressioni Ministero Giustizia Da Assistenti a Funzionari 2026 - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/95"
+  },
   {
    "createdAt": "2026-07-18T07:14:22Z",
    "labels": [
