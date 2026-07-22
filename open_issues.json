@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-07-21T07:54:55+00:00",
+ "generated_at": "2026-07-22T07:55:09+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-07-22T07:55:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 135,
+   "title": "[GoogleNews] Città Metropolitana di Torino: concorso per amministrativi laureati, basta la laurea triennale - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/135"
+  },
+  {
+   "createdAt": "2026-07-22T07:55:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 134,
+   "title": "[GoogleNews] Lombardia, Comune di Busto Arsizio: concorso per nuove assunzioni di educatori - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/134"
+  },
+  {
+   "createdAt": "2026-07-22T07:55:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 133,
+   "title": "[GoogleNews] Conservatorio di Reggio Calabria: concorso per operatori (ex bidelli), personale ATA - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/133"
+  },
+  {
+   "createdAt": "2026-07-22T07:55:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 132,
+   "title": "[GoogleNews] Città Metropolitana di Reggio Calabria, selezione per 8 esperti laureati: incarichi di lavoro autonomo per il progetto Goals Metro",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/132"
+  },
+  {
+   "createdAt": "2026-07-22T07:55:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 131,
+   "title": "[GoogleNews] ‘Ti Sbullu!’, a Palazzo Campanella la Commissione di valutazione del concorso – Notizie - gazzettadireggio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/131"
+  },
+  {
+   "createdAt": "2026-07-22T07:55:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 130,
+   "title": "[GoogleNews] Teatri Riflessi Festival 2026, proclamati a Zafferana Etnea i vincitori dell’undicesima edizione del Concorso Internazionale di Co",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/130"
+  },
+  {
+   "createdAt": "2026-07-22T07:55:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 129,
+   "title": "[GoogleNews] Concorso infermieri Liguria ASL 4 Chiavari da 100 posti: ecco le graduatorie finali - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/129"
+  },
+  {
+   "createdAt": "2026-07-22T07:55:06Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 128,
+   "title": "[GoogleNews] Concorso Presidenza del Consiglio Specialisti 2026 da 32 posti: Prova scritta in corso oggi! - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/128"
+  },
+  {
+   "createdAt": "2026-07-22T07:55:06Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 127,
+   "title": "[GoogleNews] Concorso Esperti Ministero dell’Interno da 20 posti – Graduatoria finale di merito - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/127"
+  },
+  {
+   "createdAt": "2026-07-22T07:55:06Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 126,
+   "title": "[GoogleNews] Assunzioni Sanità in Sardegna 2026: 1500 posti in arrivo tra infermieri e medici - Approvato il piano anche per l'Estero - Concors",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/126"
+  },
   {
    "createdAt": "2026-07-21T07:54:54Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 33,
    "title": "[GoogleNews] ASP Palermo, Intravaia (Fi): \"Riaprire il confronto sulla stabilizzazione degli ex lavoratori Covid\" - ilSicilia.it",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/33"
-  },
-  {
-   "createdAt": "2026-07-15T07:29:44Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 32,
-   "title": "[GoogleNews] Aeroporto di Palermo: assunzioni per 7 impiegati diplomati, nuovo Bando GESAP - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/32"
-  },
-  {
-   "createdAt": "2026-07-15T07:29:43Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 31,
-   "title": "[GoogleNews] La Regione Calabria rafforza il Concorso dei Madonnari: l’assessore Micheli presiederà la Giuria tecnica - - Inquieto Notizie",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/31"
-  },
-  {
-   "createdAt": "2026-07-15T07:29:29Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 30,
-   "title": "INPS: Rivalutazione dell'importo dell'assegno sociale e del Reddito di Inclusione. - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/30"
-  },
-  {
-   "createdAt": "2026-07-15T07:29:28Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 29,
-   "title": "INPS: Video guida per genitori con domanda o pagamento dell'Assegno unico e universale bloccati - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/29"
-  },
-  {
-   "createdAt": "2026-07-15T07:29:28Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 28,
-   "title": "INPS: Assegno unico e universale: dati aggiornati a febbraio 2026 - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/28"
-  },
-  {
-   "createdAt": "2026-07-15T07:29:27Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 27,
-   "title": "INPS: Direzione Centrale Comunicazione Direzione Centrale Pensioni Direzione Centrale Tecnologia, Informatica e Innovazione Il",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/27"
-  },
-  {
-   "createdAt": "2026-07-14T16:25:43Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 22,
-   "title": "[GoogleNews] Aumentati i posti del Concorso Agenzia Entrate Addetti Riscossione - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/22"
-  },
-  {
-   "createdAt": "2026-07-14T16:25:43Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 21,
-   "title": "[GoogleNews] Concorso Agenzia delle Entrate 2026: in arrivo 335 posti da Assistente - LeggiOggi",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/21"
-  },
-  {
-   "createdAt": "2026-07-14T16:25:42Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 20,
-   "title": "[GoogleNews] Confermato il concorso da 335 posti per assistenti diplomati all'Agenzia delle Entrate tramite DPCM - Simone Concorsi",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/20"
-  },
-  {
-   "createdAt": "2026-07-14T16:25:42Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 19,
-   "title": "[GoogleNews] L'Istituto Comprensivo Casalinuovo Catanzaro Sud premiato al Concorso Nazionale dell'associazione \"Nel Nome del Rispetto\" - Giorna",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/19"
   }
  ]
 }
