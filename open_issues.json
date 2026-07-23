@@ -1,6 +1,174 @@
 {
- "generated_at": "2026-07-22T07:55:09+00:00",
+ "generated_at": "2026-07-23T07:57:38+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-07-23T07:57:37Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 147,
+   "title": "[GoogleNews] Comune di Varese: concorso per assistenti sociali, tempo indeterminato - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/147"
+  },
+  {
+   "createdAt": "2026-07-23T07:57:37Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 146,
+   "title": "[GoogleNews] Comune di San Donato Milanese: concorso per assistenti sociali, lavoro tempo indeterminato - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/146"
+  },
+  {
+   "createdAt": "2026-07-23T07:57:36Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 145,
+   "title": "[GoogleNews] “Il Borgo più bello d’Italia in uno scatto”, aperto il concorso fotografico di Petralia Soprana - BlogSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/145"
+  },
+  {
+   "createdAt": "2026-07-23T07:57:36Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 144,
+   "title": "[GoogleNews] Concorso Tenenti Ufficiali Guardia di Finanza 2026 da 12 posti: In attesa di pubblicazione della graduatoria finale di merito - Co",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/144"
+  },
+  {
+   "createdAt": "2026-07-23T07:57:35Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 143,
+   "title": "[GoogleNews] Concorso per Operatori Socio Sanitari a Padova Azienda Zero 2026: 84 posti a tempo pieno e indeterminato - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/143"
+  },
+  {
+   "createdAt": "2026-07-23T07:57:35Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 142,
+   "title": "[GoogleNews] Selezione Short List artisti e collettivi qualificati USRC Abruzzo - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/142"
+  },
+  {
+   "createdAt": "2026-07-23T07:57:34Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 141,
+   "title": "[GoogleNews] Concorso RIPAM Unico Valutazione Politiche pubbliche 2026 da 294 posti: Pubblicati gli esiti e i punteggi della prova scritta per ",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/141"
+  },
+  {
+   "createdAt": "2026-07-23T07:57:34Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 140,
+   "title": "[GoogleNews] Concorso Assistenti Ministero dell'Interno 2026: 347 posti di lavoro in arrivo autorizzate le assunzioni - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/140"
+  },
+  {
+   "createdAt": "2026-07-23T07:57:33Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 139,
+   "title": "[GoogleNews] Formez Riforma della Disabilità e Formazione Attiva 2026 - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/139"
+  },
+  {
+   "createdAt": "2026-07-23T07:57:33Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 138,
+   "title": "[GoogleNews] Concorso ASST Ospedale Niguarda Infermieri e Tecnici Sanitari 2026: 9 posti a tempo indeterminato - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/138"
+  },
+  {
+   "createdAt": "2026-07-23T07:57:18Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 137,
+   "title": "INPS: ADI (Assegno di Inclusione): dal 1° agosto al via le nuove domande di rinnovo - Portale Inps",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/137"
+  },
+  {
+   "createdAt": "2026-07-23T07:57:17Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 136,
+   "title": "INPS: 4063 - ADI (Assegno di Inclusione): dal 1° agosto al via le nuove domande di rinnovo. INPS chiarisce modalità e gestione",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/136"
+  },
   {
    "createdAt": "2026-07-22T07:55:08Z",
    "labels": [
@@ -1232,174 +1400,6 @@
    "number": 46,
    "title": "INPS: Assegno unico e universale: nuove funzionalità per genitore superstite - Portale Inps",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/46"
-  },
-  {
-   "createdAt": "2026-07-16T07:36:21Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 45,
-   "title": "INPS: Assegno unico e universale: le istruzioni - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/45"
-  },
-  {
-   "createdAt": "2026-07-16T07:36:20Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 44,
-   "title": "INPS: Direzione Centrale Pensioni Direzione Centrale Comunicazione Direzione Centrale Tecnologia, Informatica e Innovazione Il",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/44"
-  },
-  {
-   "createdAt": "2026-07-16T07:36:20Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 43,
-   "title": "INPS: Online la simulazione importo Assegno unico - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/43"
-  },
-  {
-   "createdAt": "2026-07-16T07:36:19Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 42,
-   "title": "INPS: Assegno unico e universale: il nuovo servizio di domanda - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/42"
-  },
-  {
-   "createdAt": "2026-07-15T07:29:47Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 40,
-   "title": "[GoogleNews] Concorso Comune Civitavecchia Istruttori Amministrativi 2025: Ecco i vincitori - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/40"
-  },
-  {
-   "createdAt": "2026-07-15T07:29:47Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 39,
-   "title": "[GoogleNews] Maxi concorso INPS 2026: 1.695 posti a tempo indeterminato anche in Calabria. Requisiti, domande e bando - quicosenza",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/39"
-  },
-  {
-   "createdAt": "2026-07-15T07:29:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 38,
-   "title": "[GoogleNews] Concorsi pubblici luglio 2026, scadono oltre 2.500 posti a tempo indeterminato anche col diploma: ecco quali - Brocardi.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/38"
-  },
-  {
-   "createdAt": "2026-07-15T07:29:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 37,
-   "title": "[GoogleNews] Agenzia delle Dogane, in arrivo 1.363 assunzioni: nuovi concorsi per diplomati e laureati in tutta Italia - concorsipubblici.net",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/37"
-  },
-  {
-   "createdAt": "2026-07-15T07:29:45Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 36,
-   "title": "[GoogleNews] ATA 24 Mesi 2026/2027, Pubblicazione delle graduatorie provvisorie e definitive: ecco gli AVVISI degli Uffici Scolastici territori",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/36"
-  },
-  {
-   "createdAt": "2026-07-15T07:29:45Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 35,
-   "title": "[GoogleNews] Concorso Consiglio Regionale Veneto Funzionari da 5 posti: Ecco i vincitori - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/35"
-  },
-  {
-   "createdAt": "2026-07-15T07:29:44Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 34,
-   "title": "[GoogleNews] Concorsi pubblici, bandi in scadenza nella settimana dal 6 al 12 Luglio 2026 - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/34"
-  },
-  {
-   "createdAt": "2026-07-15T07:29:44Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 33,
-   "title": "[GoogleNews] ASP Palermo, Intravaia (Fi): \"Riaprire il confronto sulla stabilizzazione degli ex lavoratori Covid\" - ilSicilia.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/33"
   }
  ]
 }
