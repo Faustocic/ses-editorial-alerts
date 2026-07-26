@@ -1,6 +1,174 @@
 {
- "generated_at": "2026-07-25T07:33:09+00:00",
+ "generated_at": "2026-07-26T07:55:33+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-07-26T07:55:31Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 182,
+   "title": "[GoogleNews] Servizi sociali, 39 nuove assunzioni nel Distretto - Free Press Online",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/182"
+  },
+  {
+   "createdAt": "2026-07-26T07:55:30Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 181,
+   "title": "[GoogleNews] Privatizzazione aeroporto di Catania: analisi del Pd su bilancio Sac e bando - Meridionews",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/181"
+  },
+  {
+   "createdAt": "2026-07-26T07:55:30Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 180,
+   "title": "[GoogleNews] Azienda Zero Calabria: concorsi per 44 posti, infermieri e tecnici. Assunzioni a tempo indeterminato - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/180"
+  },
+  {
+   "createdAt": "2026-07-26T07:55:29Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 179,
+   "title": "[GoogleNews] Nuovo concorso Formez Abruzzo per 50 Istruttori amministrativi, contabili e tecnici nel 2026: assunzioni presso Comuni e Regione -",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/179"
+  },
+  {
+   "createdAt": "2026-07-26T07:55:29Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 178,
+   "title": "[GoogleNews] Istituto Spallanzani di Roma: concorso per 10 assistenti amministrativi, assunzioni per diplomati - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/178"
+  },
+  {
+   "createdAt": "2026-07-26T07:55:29Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 177,
+   "title": "[GoogleNews] Provincia di Ancona: concorso per funzionari contabili, anche con laurea triennale - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/177"
+  },
+  {
+   "createdAt": "2026-07-26T07:55:28Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 176,
+   "title": "[GoogleNews] \"Puca\", il corto girato nell’area grecanica in concorso a Venezia - Meraviglie di Calabria",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/176"
+  },
+  {
+   "createdAt": "2026-07-26T07:55:28Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 175,
+   "title": "[GoogleNews] Concorso Magistrati Ordinari Ministero Giustizia da 450 posti: Tracce estratte e Modifica Commissione esaminatrice - Concorsando.i",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/175"
+  },
+  {
+   "createdAt": "2026-07-26T07:55:27Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 174,
+   "title": "[GoogleNews] Concorso Specialisti Presidenza del Consiglio dei Ministri 2026 da 130 posti: Come prepararsi - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/174"
+  },
+  {
+   "createdAt": "2026-07-26T07:55:27Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 173,
+   "title": "[GoogleNews] Concorso Consiglio Regione Lombardia da 12 posti: Graduatorie finali e Scorrimenti - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/173"
+  },
+  {
+   "createdAt": "2026-07-26T07:55:10Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 172,
+   "title": "[Scadenzario] #1 Pagamenti INPS (hub) — agosto 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/172"
+  },
+  {
+   "createdAt": "2026-07-26T07:55:10Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 171,
+   "title": "[Scadenzario] #2 Pensioni — agosto 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/171"
+  },
   {
    "createdAt": "2026-07-25T07:33:08Z",
    "labels": [
@@ -1232,174 +1400,6 @@
    "number": 83,
    "title": "INPS: Roma, 17 luglio 2026 Casellario delle pensioni: obblighi e scadenze per gli enti erogatori Con il Messaggio n. 2354 del ",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/83"
-  },
-  {
-   "createdAt": "2026-07-18T07:14:04Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 82,
-   "title": "INPS: Campagna RED 2023: sospensione delle prestazioni collegate al reddito - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/82"
-  },
-  {
-   "createdAt": "2026-07-17T07:33:26Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 81,
-   "title": "[GoogleNews] Concorsi universitari: come cambia il reclutamento dei docenti - News Istruzione",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/81"
-  },
-  {
-   "createdAt": "2026-07-17T07:33:26Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 80,
-   "title": "[GoogleNews] Il Comitato del Partito del Dipartimento di Logistica e Tecnica (Scuola Ufficiali dell'Aeronautica Militare) ha organizzato con su",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/80"
-  },
-  {
-   "createdAt": "2026-07-17T07:33:25Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 79,
-   "title": "[GoogleNews] Reclutamento docenti: cosa cambia per le assunzioni 2026/27 - News Istruzione",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/79"
-  },
-  {
-   "createdAt": "2026-07-17T07:33:25Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 78,
-   "title": "[GoogleNews] UST FOGGIA: ESITI ATTRIBUZIONE PROVINCIA VINCITORI PROCEDURE CONCORSUALI E GAE- SI PASSA ALLA FASE 2 SCELTA SEDE SCOLASTICA - flp ",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/78"
-  },
-  {
-   "createdAt": "2026-07-17T07:33:25Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 77,
-   "title": "[GoogleNews] Percorsi sostegno INDIRE: \"Lo stesso studio legale difende tesi opposte sul punteggio nelle GPS e nel concorso PNRR3\" - Scuolainfo",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/77"
-  },
-  {
-   "createdAt": "2026-07-17T07:33:24Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 76,
-   "title": "[GoogleNews] IL LICEO GALILEI VANONI DI NARDÒ CONQUISTA LA PUGLIA: PRIMO POSTO AL CONCORSO “PALESTRE DELLE BUONE PRATICHE” - PugliaLive",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/76"
-  },
-  {
-   "createdAt": "2026-07-17T07:33:24Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 75,
-   "title": "[GoogleNews] Mobilità dirigenti scolastici, in Campania accantonati sette posti per gli idonei del concorso - Voce della Scuola",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/75"
-  },
-  {
-   "createdAt": "2026-07-17T07:33:23Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 74,
-   "title": "[GoogleNews] A Palazzo Vidoni gli allievi dell'11° Corso-concorso SNA - Ministro per la Pubblica Amministrazione",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/74"
-  },
-  {
-   "createdAt": "2026-07-17T07:33:23Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 73,
-   "title": "[GoogleNews] Regione Valle d’Aosta: assunzioni per ausiliari e OSS con licenza media - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/73"
-  },
-  {
-   "createdAt": "2026-07-17T07:33:23Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 72,
-   "title": "[GoogleNews] Autorità Garante Disabilità: concorso per diplomati, Assistenti di Segreteria. Bando 2026 - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/72"
-  },
-  {
-   "createdAt": "2026-07-17T07:33:08Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 71,
-   "title": "INPS: Assegno unico e universale: l’Osservatorio con i dati di maggio 2026 - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/71"
   }
  ]
 }
