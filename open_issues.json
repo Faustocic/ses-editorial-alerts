@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-07-28T08:00:34+00:00",
+ "generated_at": "2026-07-29T08:05:34+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-07-29T08:05:33Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 212,
+   "title": "[GoogleNews] Concorso Camera dei Deputati Ragionieri da 20 posti: Prove scritte il 9, 10 e 11 settembre 2026 a Roma - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/212"
+  },
+  {
+   "createdAt": "2026-07-29T08:05:33Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 211,
+   "title": "[GoogleNews] Concorso Dirigente Tecnico nel Comune di Pozzuoli 2026: Nuovi esiti e i punteggi della prova preselettiva ricalcolati - Concorsand",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/211"
+  },
+  {
+   "createdAt": "2026-07-29T08:05:32Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 210,
+   "title": "[GoogleNews] Concorso Generale Ufficio dell'Unione Europea Funzionari Amministratori EPSO 1490 posti: oltre 174.000 candidati da tutta l'UE - C",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/210"
+  },
+  {
+   "createdAt": "2026-07-29T08:05:32Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 209,
+   "title": "[GoogleNews] Concorso Comune Como Istruttori Tecnici e Polizia Locale 2026: 5 posti a tempo indeterminato - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/209"
+  },
+  {
+   "createdAt": "2026-07-29T08:05:31Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 208,
+   "title": "[GoogleNews] Concorso Comune Cesano Maderno Agenti Polizia Locale 2026: 4 posti per diplomati - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/208"
+  },
+  {
+   "createdAt": "2026-07-29T08:05:31Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 207,
+   "title": "[GoogleNews] Concorso Città di Torino Istruttori Direttivi Amministrativi 2026: 2 posti per laureati - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/207"
+  },
+  {
+   "createdAt": "2026-07-29T08:05:30Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 206,
+   "title": "[GoogleNews] Concorso Comune Praia a Mare Istruttori Amministrativi Diplomati 2026: 14 posti a tempo determinato e Part-time - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/206"
+  },
+  {
+   "createdAt": "2026-07-29T08:05:30Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 205,
+   "title": "[GoogleNews] Concorso Comune Ferrara Funzionari Tecnici 2026: 4 posti per laureati - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/205"
+  },
+  {
+   "createdAt": "2026-07-29T08:05:29Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 204,
+   "title": "[GoogleNews] Concorso Comune Varese Assistenti Sociali 2026: 4 posti a tempo indeterminato - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/204"
+  },
+  {
+   "createdAt": "2026-07-29T08:05:29Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 203,
+   "title": "[GoogleNews] Concorso Regione Veneto Istruttori Tecnici 2026: 5 posti a tempo indeterminato - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/203"
+  },
   {
    "createdAt": "2026-07-28T08:00:33Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 113,
    "title": "[GoogleNews] Concorso Ufficiali Marina Militare Nomina Diretta da 18 posti: Terminate le prove orali il 26 giugno 2026 - Concorsando.it",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/113"
-  },
-  {
-   "createdAt": "2026-07-20T08:25:05Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 112,
-   "title": "[GoogleNews] Concorso Marina Allievi Ufficiali AUPC e AUFP 2026: 239 posti - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/112"
-  },
-  {
-   "createdAt": "2026-07-20T08:25:05Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 111,
-   "title": "[GoogleNews] Concorso OSS Ghirlandina Modena da 14 posti: Nominati i vincitori - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/111"
-  },
-  {
-   "createdAt": "2026-07-20T08:25:04Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 110,
-   "title": "[GoogleNews] Concorso Unione Tresinaro Secchia Istruttori Amministrativi : ecco gli esiti finali - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/110"
-  },
-  {
-   "createdAt": "2026-07-20T08:25:04Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 109,
-   "title": "[GoogleNews] Concorso ARCS Udine OSS 2026: 38 posti nel Servizio Sanitario Regionale del Friuli Venezia Giulia - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/109"
-  },
-  {
-   "createdAt": "2026-07-20T08:25:04Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 108,
-   "title": "[GoogleNews] Concorso Monza Istruttori e Funzionari 2026: 15 posti nella Provincia per laureati e diplomati - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/108"
-  },
-  {
-   "createdAt": "2026-07-20T08:25:03Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 107,
-   "title": "[GoogleNews] Concorso Agenzia delle Entrate Assistenti Gestionali Categorie Protette da 622 posti: Quasi 14mila domande! Ecco come prepararsi -",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/107"
-  },
-  {
-   "createdAt": "2026-07-20T08:25:03Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 106,
-   "title": "[GoogleNews] Concorso Comune di Passignano sul Trasimeno funzionari tecnici 2026: 2 posti per laureati - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/106"
-  },
-  {
-   "createdAt": "2026-07-20T08:25:02Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 105,
-   "title": "[GoogleNews] Concorsi Regione Siciliana: Scopri i Tuoi Risultati - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/105"
-  },
-  {
-   "createdAt": "2026-07-19T07:40:09Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 104,
-   "title": "[GoogleNews] Siracusa. Stazione Marittima, 5 progetti ammessi al concorso: si passa alla fase due - SiracusaOggi.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/104"
-  },
-  {
-   "createdAt": "2026-07-19T07:40:09Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 103,
-   "title": "[GoogleNews] Selezioni Formez PA: lavoro al Ministero della Salute a Roma, in Basilicata e da remoto - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/103"
   }
  ]
 }
