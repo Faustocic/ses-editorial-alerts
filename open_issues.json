@@ -1,6 +1,258 @@
 {
- "generated_at": "2026-07-29T08:05:34+00:00",
+ "generated_at": "2026-07-30T07:55:08+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-07-30T07:55:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 230,
+   "title": "[GoogleNews] Tra sacro e vissuto, al via il concorso internazionale dei Madonnari-Città di Taurianova - ReggioToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/230"
+  },
+  {
+   "createdAt": "2026-07-30T07:55:06Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 229,
+   "title": "[GoogleNews] Comune di Reggio Calabria – Notizie – Graduatoria provvisoria – Avviso pubblico – - gazzettadireggio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/229"
+  },
+  {
+   "createdAt": "2026-07-30T07:55:06Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 228,
+   "title": "[GoogleNews] Messina, al via il bando TARI 2026: domande per esenzione e riduzione fino al 31 agosto - Città di Messina",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/228"
+  },
+  {
+   "createdAt": "2026-07-30T07:55:06Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 227,
+   "title": "[GoogleNews] Concorso Unione Comuni Bassa Romagna Psicologi 2026: Ecco la graduatoria di merito - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/227"
+  },
+  {
+   "createdAt": "2026-07-30T07:55:05Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 226,
+   "title": "[GoogleNews] Concorsando.it - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/226"
+  },
+  {
+   "createdAt": "2026-07-30T07:55:05Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 225,
+   "title": "[GoogleNews] Concorso Segretari Parlamentari Senato della Repubblica 2026: 30 posti per laureati - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/225"
+  },
+  {
+   "createdAt": "2026-07-30T07:55:05Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 224,
+   "title": "[GoogleNews] Concorso INPS Insegnanti 2026 San Bartolomeo di Sansepolcro: Come prepararsi e Nomina della Commissione - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/224"
+  },
+  {
+   "createdAt": "2026-07-30T07:55:05Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 223,
+   "title": "[GoogleNews] Ars, stop al blocco delle assunzioni: infornata in Seus e Ast - la Repubblica",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/223"
+  },
+  {
+   "createdAt": "2026-07-30T07:55:04Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 222,
+   "title": "[GoogleNews] Concorsi INPS 2026-2028: PIAO aggiornato per oltre 7500 assunzioni - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/222"
+  },
+  {
+   "createdAt": "2026-07-30T07:55:04Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 221,
+   "title": "[GoogleNews] Frana di Niscemi, dalla Regione Sicilia bonus da 70 mila euro al dirigente che per la Procura avrebbe concorso al disastro - Corri",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/221"
+  },
+  {
+   "createdAt": "2026-07-30T07:54:54Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 220,
+   "title": "[Scadenzario] #10 Rimborsi 730 — agosto 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/220"
+  },
+  {
+   "createdAt": "2026-07-30T07:54:53Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 219,
+   "title": "[Scadenzario] #8 SFL — agosto 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/219"
+  },
+  {
+   "createdAt": "2026-07-30T07:54:53Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 218,
+   "title": "[Scadenzario] #6 ADI — agosto 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/218"
+  },
+  {
+   "createdAt": "2026-07-30T07:54:52Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 217,
+   "title": "[Scadenzario] #5 Assegno unico — agosto 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/217"
+  },
+  {
+   "createdAt": "2026-07-30T07:54:52Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 216,
+   "title": "[Scadenzario] #4 NASpI — agosto 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/216"
+  },
+  {
+   "createdAt": "2026-07-30T07:54:52Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 215,
+   "title": "INPS: online i dati dell'Osservatorio CIG-NASPI - inps.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/215"
+  },
+  {
+   "createdAt": "2026-07-30T07:54:51Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 214,
+   "title": "INPS: 4068 - INPS: online i dati dell'Osservatorio CIG-NASPI | Dettaglio Comunicato Stampa - inps.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/214"
+  },
+  {
+   "createdAt": "2026-07-30T07:54:51Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 213,
+   "title": "INPS: Revoca quattordicesima su pensioni della Gestione privata nel 2021 - inps.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/213"
+  },
   {
    "createdAt": "2026-07-29T08:05:33Z",
    "labels": [
@@ -1148,258 +1400,6 @@
    "number": 131,
    "title": "[GoogleNews] ‘Ti Sbullu!’, a Palazzo Campanella la Commissione di valutazione del concorso – Notizie - gazzettadireggio.com",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/131"
-  },
-  {
-   "createdAt": "2026-07-22T07:55:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 130,
-   "title": "[GoogleNews] Teatri Riflessi Festival 2026, proclamati a Zafferana Etnea i vincitori dell’undicesima edizione del Concorso Internazionale di Co",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/130"
-  },
-  {
-   "createdAt": "2026-07-22T07:55:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 129,
-   "title": "[GoogleNews] Concorso infermieri Liguria ASL 4 Chiavari da 100 posti: ecco le graduatorie finali - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/129"
-  },
-  {
-   "createdAt": "2026-07-22T07:55:06Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 128,
-   "title": "[GoogleNews] Concorso Presidenza del Consiglio Specialisti 2026 da 32 posti: Prova scritta in corso oggi! - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/128"
-  },
-  {
-   "createdAt": "2026-07-22T07:55:06Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 127,
-   "title": "[GoogleNews] Concorso Esperti Ministero dell’Interno da 20 posti – Graduatoria finale di merito - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/127"
-  },
-  {
-   "createdAt": "2026-07-22T07:55:06Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 126,
-   "title": "[GoogleNews] Assunzioni Sanità in Sardegna 2026: 1500 posti in arrivo tra infermieri e medici - Approvato il piano anche per l'Estero - Concors",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/126"
-  },
-  {
-   "createdAt": "2026-07-21T07:54:54Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 125,
-   "title": "[GoogleNews] Esame Consulente Finanziario - Come studiare la banca dati - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/125"
-  },
-  {
-   "createdAt": "2026-07-21T07:54:54Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 124,
-   "title": "[GoogleNews] Concorso Segretari Comunali COA 2024: Abbinamenti e News - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/124"
-  },
-  {
-   "createdAt": "2026-07-21T07:54:54Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 123,
-   "title": "[GoogleNews] Concorso Maestre Comune di Napoli 2026 da 41 posti: Esito prove - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/123"
-  },
-  {
-   "createdAt": "2026-07-21T07:54:53Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 122,
-   "title": "[GoogleNews] Concorso Istruttori Direttivi Informatici Comune di Napoli da 2 posti 2026: Esiti finali - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/122"
-  },
-  {
-   "createdAt": "2026-07-21T07:54:53Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 121,
-   "title": "[GoogleNews] Concorso Cetraro nel Comune per Istruttori di Polizia Locale 2026: 4 posti per diplomati - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/121"
-  },
-  {
-   "createdAt": "2026-07-21T07:54:53Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 120,
-   "title": "[GoogleNews] Concorso Ministero Cultura (MIC) Assistenti RIPAM da 1800 posti - Prove non prima di Ottobre 2026 - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/120"
-  },
-  {
-   "createdAt": "2026-07-21T07:54:52Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 119,
-   "title": "[GoogleNews] Concorso a Trebisacce per Collaboratori e Letturisti Amministrativi 2026: 3 posti a tempo indeterminato - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/119"
-  },
-  {
-   "createdAt": "2026-07-21T07:54:52Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 118,
-   "title": "[GoogleNews] Concorso Assistenti Sociali Comune di Belluno 2026: 2 posti per assunzione a tempo determinato e pieno - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/118"
-  },
-  {
-   "createdAt": "2026-07-21T07:54:52Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 117,
-   "title": "[GoogleNews] Concorso nel Comune di Cefalù per Addetti Cucina e Mensa 2026: 2 posti a tempo pieno e indeterminato - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/117"
-  },
-  {
-   "createdAt": "2026-07-21T07:54:51Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 116,
-   "title": "[GoogleNews] Concorso a San Donato Milanese per Assistenti Sociali 2026: 2 posti a tempo indeterminato - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/116"
-  },
-  {
-   "createdAt": "2026-07-21T07:54:39Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 115,
-   "title": "INPS: Pensionati: il cedolino di pensione di agosto 2026 - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/115"
-  },
-  {
-   "createdAt": "2026-07-20T08:25:06Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 114,
-   "title": "[GoogleNews] Concorso INRCA Ancona Collaboratori Amministrativi 2026 da 24 posti: Ecco le date - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/114"
-  },
-  {
-   "createdAt": "2026-07-20T08:25:06Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 113,
-   "title": "[GoogleNews] Concorso Ufficiali Marina Militare Nomina Diretta da 18 posti: Terminate le prove orali il 26 giugno 2026 - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/113"
   }
  ]
 }
