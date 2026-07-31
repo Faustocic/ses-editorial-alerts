@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-07-30T07:55:08+00:00",
+ "generated_at": "2026-07-31T08:16:44+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-07-31T08:16:42Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 240,
+   "title": "[GoogleNews] Caos parcheggi, al foro di Catania l'esclusiva sui contenziosi. Chi ha scritto il bando? Festa spieghi - Orticalab",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/240"
+  },
+  {
+   "createdAt": "2026-07-31T08:16:42Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 239,
+   "title": "[GoogleNews] Concorso Internazionale dei Madonnari - Città di Taurianova, presentata la giuria dell'11ª edizione - IlMetropolitano.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/239"
+  },
+  {
+   "createdAt": "2026-07-31T08:16:41Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 238,
+   "title": "[GoogleNews] Concorso Tecnici Prevenzione Regione Calabria in Azienda Zero 2026: 18 posti per laureati a tempo indeterminato - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/238"
+  },
+  {
+   "createdAt": "2026-07-31T08:16:41Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 237,
+   "title": "[GoogleNews] Concorsi ATA 2026: tutti i Bandi in arrivo e quando escono - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/237"
+  },
+  {
+   "createdAt": "2026-07-31T08:16:41Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 236,
+   "title": "[GoogleNews] Concorso ATA 24 mesi 2026: tutti i dettagli sui bandi in uscita - concorsi-pubblici.org",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/236"
+  },
+  {
+   "createdAt": "2026-07-31T08:16:40Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 235,
+   "title": "[GoogleNews] Piano Sanitario Regionale da 2.750 assunzioni stabili: posti per medici, infermieri, OSS e amministrativi - concorsipubblici.net",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/235"
+  },
+  {
+   "createdAt": "2026-07-31T08:16:40Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 234,
+   "title": "[GoogleNews] Concorsi Sanità Sicilia: in arrivo Bandi per 2.750 posti - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/234"
+  },
+  {
+   "createdAt": "2026-07-31T08:16:40Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 233,
+   "title": "[GoogleNews] Un concorso aperto a tutte le arti - ticinonotizie.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/233"
+  },
+  {
+   "createdAt": "2026-07-31T08:16:39Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 232,
+   "title": "[GoogleNews] Concorso Marescialli Esercito a Nomina Diretta da 40 posti: Decreto di Graduatoria finale - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/232"
+  },
+  {
+   "createdAt": "2026-07-31T08:16:39Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 231,
+   "title": "[GoogleNews] Concorso Dirigenti Autorità di Regolazione dei Trasporti 2026: 3 posti con qualifica di Direttore a Torino e Roma - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/231"
+  },
   {
    "createdAt": "2026-07-30T07:55:07Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 141,
    "title": "[GoogleNews] Concorso RIPAM Unico Valutazione Politiche pubbliche 2026 da 294 posti: Pubblicati gli esiti e i punteggi della prova scritta per ",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/141"
-  },
-  {
-   "createdAt": "2026-07-23T07:57:34Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 140,
-   "title": "[GoogleNews] Concorso Assistenti Ministero dell'Interno 2026: 347 posti di lavoro in arrivo autorizzate le assunzioni - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/140"
-  },
-  {
-   "createdAt": "2026-07-23T07:57:33Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 139,
-   "title": "[GoogleNews] Formez Riforma della Disabilità e Formazione Attiva 2026 - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/139"
-  },
-  {
-   "createdAt": "2026-07-23T07:57:33Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 138,
-   "title": "[GoogleNews] Concorso ASST Ospedale Niguarda Infermieri e Tecnici Sanitari 2026: 9 posti a tempo indeterminato - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/138"
-  },
-  {
-   "createdAt": "2026-07-23T07:57:18Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 137,
-   "title": "INPS: ADI (Assegno di Inclusione): dal 1° agosto al via le nuove domande di rinnovo - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/137"
-  },
-  {
-   "createdAt": "2026-07-23T07:57:17Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 136,
-   "title": "INPS: 4063 - ADI (Assegno di Inclusione): dal 1° agosto al via le nuove domande di rinnovo. INPS chiarisce modalità e gestione",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/136"
-  },
-  {
-   "createdAt": "2026-07-22T07:55:08Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 135,
-   "title": "[GoogleNews] Città Metropolitana di Torino: concorso per amministrativi laureati, basta la laurea triennale - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/135"
-  },
-  {
-   "createdAt": "2026-07-22T07:55:08Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 134,
-   "title": "[GoogleNews] Lombardia, Comune di Busto Arsizio: concorso per nuove assunzioni di educatori - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/134"
-  },
-  {
-   "createdAt": "2026-07-22T07:55:08Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 133,
-   "title": "[GoogleNews] Conservatorio di Reggio Calabria: concorso per operatori (ex bidelli), personale ATA - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/133"
-  },
-  {
-   "createdAt": "2026-07-22T07:55:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 132,
-   "title": "[GoogleNews] Città Metropolitana di Reggio Calabria, selezione per 8 esperti laureati: incarichi di lavoro autonomo per il progetto Goals Metro",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/132"
-  },
-  {
-   "createdAt": "2026-07-22T07:55:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 131,
-   "title": "[GoogleNews] ‘Ti Sbullu!’, a Palazzo Campanella la Commissione di valutazione del concorso – Notizie - gazzettadireggio.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/131"
   }
  ]
 }
