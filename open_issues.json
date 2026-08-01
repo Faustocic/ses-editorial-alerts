@@ -1,6 +1,160 @@
 {
- "generated_at": "2026-07-31T08:16:44+00:00",
+ "generated_at": "2026-08-01T07:42:09+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-08-01T07:42:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACuO0VfA",
+     "name": "scadenzario-concorsi",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 251,
+   "title": "[Scadenze] Domande MEF - Dipartimento della Giustizia tributaria — entro 06/08",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/251"
+  },
+  {
+   "createdAt": "2026-08-01T07:42:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 250,
+   "title": "[GoogleNews] Bando \"FFABR UniMe Giovani Ricercatori 2026\" - Università degli Studi di Messina",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/250"
+  },
+  {
+   "createdAt": "2026-08-01T07:42:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 249,
+   "title": "[GoogleNews] Terre Sicane Wine Fest, gran finale con premiazione Concorso enologico - castelvetranoselinunte.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/249"
+  },
+  {
+   "createdAt": "2026-08-01T07:42:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 248,
+   "title": "[GoogleNews] Reggio: 70enne sfrattata e 180 famiglie senza casa, nonostante l’alloggio assegnato con il bando 2019 - CityNow",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/248"
+  },
+  {
+   "createdAt": "2026-08-01T07:42:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 247,
+   "title": "[GoogleNews] Concorso internazionale dei madonnari di Taurianova: presentata la giuria - ReggioToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/247"
+  },
+  {
+   "createdAt": "2026-08-01T07:42:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 246,
+   "title": "[GoogleNews] Messina, firmati a palazzo Zanca i contratti per 20 nuove assunzioni nell’Ambito Territoriale Sociale D26 - StrettoWeb",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/246"
+  },
+  {
+   "createdAt": "2026-08-01T07:42:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 245,
+   "title": "[GoogleNews] Messina, al via il bando TARI 2026: domande per esenzione e riduzione fino al 31 agosto - comune.messina.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/245"
+  },
+  {
+   "createdAt": "2026-08-01T07:42:06Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 244,
+   "title": "[GoogleNews] Lavoro Sicilia: in arrivo 2.750 assunzioni nella Sanità - LiveUniCT – Notizie su Catania e Università",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/244"
+  },
+  {
+   "createdAt": "2026-08-01T07:42:06Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 243,
+   "title": "[GoogleNews] Concorso INPS Funzionari Laureati PECS 2026: 1.695 posti - Ecco come prepararsi alla preselezione e alla prova scritta - Concorsan",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/243"
+  },
+  {
+   "createdAt": "2026-08-01T07:42:06Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 242,
+   "title": "[GoogleNews] Concorso funzionari Regione Siciliana, il Tar accoglie i ricorsi di due candidati - Canicatti Web Notizie",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/242"
+  },
+  {
+   "createdAt": "2026-08-01T07:42:05Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 241,
+   "title": "[GoogleNews] Assunzioni e Concorsi nella Sanità Siciliana 2026: In arrivo 2.750 nuovi posti di lavoro - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/241"
+  },
   {
    "createdAt": "2026-07-31T08:16:42Z",
    "labels": [
@@ -1246,160 +1400,6 @@
    "number": 152,
    "title": "[GoogleNews] Concorso AIFA Funzionari Tecnici da 2 posti: Come prepararsi al colloquio - Concorsando.it",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/152"
-  },
-  {
-   "createdAt": "2026-07-24T07:54:15Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 151,
-   "title": "[GoogleNews] Concorso OSS Campania 1274 posti: Esiti delle sessioni di prova orale in via di pubblicazione - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/151"
-  },
-  {
-   "createdAt": "2026-07-24T07:54:14Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 150,
-   "title": "[GoogleNews] Concorso Comune Casoria Istruttori Amministrativi 2026: 5 posti a tempo indeterminato - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/150"
-  },
-  {
-   "createdAt": "2026-07-24T07:54:14Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 149,
-   "title": "[GoogleNews] Concorso ASMEL 2026: Bando in arrivo per l'aggiornamento annuale degli elenchi utilizzati da oltre 1.000 amministrazioni - Concors",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/149"
-  },
-  {
-   "createdAt": "2026-07-24T07:54:01Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 148,
-   "title": "INPS: PENSIONI, IL DETTAGLIO DEL CEDOLINO DI AGOSTO: PAGAMENTI, CONGUAGLI 730 E VERIFICHE REDDITUALI - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/148"
-  },
-  {
-   "createdAt": "2026-07-23T07:57:37Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 147,
-   "title": "[GoogleNews] Comune di Varese: concorso per assistenti sociali, tempo indeterminato - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/147"
-  },
-  {
-   "createdAt": "2026-07-23T07:57:37Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 146,
-   "title": "[GoogleNews] Comune di San Donato Milanese: concorso per assistenti sociali, lavoro tempo indeterminato - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/146"
-  },
-  {
-   "createdAt": "2026-07-23T07:57:36Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 145,
-   "title": "[GoogleNews] “Il Borgo più bello d’Italia in uno scatto”, aperto il concorso fotografico di Petralia Soprana - BlogSicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/145"
-  },
-  {
-   "createdAt": "2026-07-23T07:57:36Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 144,
-   "title": "[GoogleNews] Concorso Tenenti Ufficiali Guardia di Finanza 2026 da 12 posti: In attesa di pubblicazione della graduatoria finale di merito - Co",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/144"
-  },
-  {
-   "createdAt": "2026-07-23T07:57:35Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 143,
-   "title": "[GoogleNews] Concorso per Operatori Socio Sanitari a Padova Azienda Zero 2026: 84 posti a tempo pieno e indeterminato - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/143"
-  },
-  {
-   "createdAt": "2026-07-23T07:57:35Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 142,
-   "title": "[GoogleNews] Selezione Short List artisti e collettivi qualificati USRC Abruzzo - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/142"
-  },
-  {
-   "createdAt": "2026-07-23T07:57:34Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 141,
-   "title": "[GoogleNews] Concorso RIPAM Unico Valutazione Politiche pubbliche 2026 da 294 posti: Pubblicati gli esiti e i punteggi della prova scritta per ",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/141"
   }
  ]
 }
