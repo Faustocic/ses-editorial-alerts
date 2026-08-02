@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-08-01T07:42:09+00:00",
+ "generated_at": "2026-08-02T07:49:57+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-08-02T07:49:55Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 261,
+   "title": "[GoogleNews] Elenchi regionali 2026, le graduatorie [AGGIORNATO Veneto dopo cancellazione docenti assunti] - Orizzonte Scuola Notizie",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/261"
+  },
+  {
+   "createdAt": "2026-08-02T07:49:54Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 260,
+   "title": "[GoogleNews] Concorso funzionari Regione Siciliana, il Tar accoglie i ricorsi: candidati reinseriti in graduatoria per domande fuori bando - Ca",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/260"
+  },
+  {
+   "createdAt": "2026-08-02T07:49:54Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 259,
+   "title": "[GoogleNews] Ars, via libera ai concorsi per Ast e Seus: sbloccate 380 assunzioni - CanaleSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/259"
+  },
+  {
+   "createdAt": "2026-08-02T07:49:54Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 258,
+   "title": "[GoogleNews] Nuove assunzioni nella sanità della Regione Sicilia 2026: bandi in arrivo - lentepubblica.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/258"
+  },
+  {
+   "createdAt": "2026-08-02T07:49:53Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 257,
+   "title": "[GoogleNews] Bando ufficiale per la richiesta di acquisizione di progetti aventi finalità di promozione territoriale per l’anno 2026 - Comune d",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/257"
+  },
+  {
+   "createdAt": "2026-08-02T07:49:53Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 256,
+   "title": "[GoogleNews] Proroga Bando di concorso “Palermo rifiorisce con Santa Rosalia” terza edizione - Comune di Palermo",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/256"
+  },
+  {
+   "createdAt": "2026-08-02T07:49:53Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 255,
+   "title": "[GoogleNews] Sfrattata a 70 anni benché vincitrice del bando: l'emergenza casa travolge un'anziana a Reggio Calabria - Calabria Diretta News",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/255"
+  },
+  {
+   "createdAt": "2026-08-02T07:49:52Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 254,
+   "title": "[GoogleNews] A Taurianova al via la nuova edizione del Concorso Internazionale dei Madonnari · ilreggino.it - Il Reggino",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/254"
+  },
+  {
+   "createdAt": "2026-08-02T07:49:52Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 253,
+   "title": "[GoogleNews] Nuove assunzioni nei servizi sociali del Comune di Messina - lecodelsud.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/253"
+  },
+  {
+   "createdAt": "2026-08-02T07:49:51Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 252,
+   "title": "[GoogleNews] Concorso per agente tecnico esattore autostradale: Il Cas dovrà pagare una dipendente - AMnotizie.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/252"
+  },
   {
    "createdAt": "2026-08-01T07:42:08Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 162,
    "title": "[GoogleNews] Concorso Infermieri ASM Matera e Potenza 2026 da 263 posti: Come studiare la banca dati ufficiale (Nominata la commissione d'esame",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/162"
-  },
-  {
-   "createdAt": "2026-07-25T07:33:04Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 161,
-   "title": "[GoogleNews] Concorso IRCCS Profili Sanitari Milano 2026: 12 posti per Tecnici Sanitari e Infermieri - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/161"
-  },
-  {
-   "createdAt": "2026-07-25T07:32:48Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 160,
-   "title": "[Scadenzario] #9 Scadenze fiscali — agosto 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/160"
-  },
-  {
-   "createdAt": "2026-07-25T07:32:48Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 159,
-   "title": "INPS: PENSIONI, IL DETTAGLIO DEL CEDOLINO DI AGOSTO: PAGAMENTI, CONGUAGLI 730 E VERIFICHE REDDITUALI - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/159"
-  },
-  {
-   "createdAt": "2026-07-24T07:54:17Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 158,
-   "title": "[GoogleNews] Napoli, Comune di Lacco Ameno: assunzioni per diplomati, lavoro nell'Ufficio di Staff del Sindaco - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/158"
-  },
-  {
-   "createdAt": "2026-07-24T07:54:16Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 157,
-   "title": "[GoogleNews] Comune di Padova: concorso pubblico per l’assunzione di psicologi - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/157"
-  },
-  {
-   "createdAt": "2026-07-24T07:54:16Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 156,
-   "title": "[GoogleNews] IRCCS San Gerardo di Monza: concorso per assistenti amministrativi diplomati - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/156"
-  },
-  {
-   "createdAt": "2026-07-24T07:54:16Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 155,
-   "title": "[GoogleNews] Puglia, Comune di Veglie: concorso per diplomati, assunzioni categorie protette - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/155"
-  },
-  {
-   "createdAt": "2026-07-24T07:54:16Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 154,
-   "title": "[GoogleNews] Concorso da incubo al PalaBova, Fp Cgil Calabria: ‘Un test di sopravvivenza, non una prova di merito’ - CityNow",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/154"
-  },
-  {
-   "createdAt": "2026-07-24T07:54:15Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 153,
-   "title": "[GoogleNews] Con tutti i concorsi ancora in corso ci saranno comunque supplenze da GPS? - Zazoom Social News",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/153"
-  },
-  {
-   "createdAt": "2026-07-24T07:54:15Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 152,
-   "title": "[GoogleNews] Concorso AIFA Funzionari Tecnici da 2 posti: Come prepararsi al colloquio - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/152"
   }
  ]
 }
