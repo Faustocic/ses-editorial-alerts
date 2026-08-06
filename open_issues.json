@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-08-05T08:02:28+00:00",
+ "generated_at": "2026-08-06T08:01:42+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-08-06T08:01:41Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 308,
+   "title": "[GoogleNews] Soccorso istruttorio nei concorsi pubblici - Le Autonomie",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/308"
+  },
+  {
+   "createdAt": "2026-08-06T08:01:40Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 307,
+   "title": "[GoogleNews] Lazio, Provincia di Frosinone: concorsi per assunzioni di diplomati e laureati (amministrativi, tecnici, bibliotecari) - Ti Consig",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/307"
+  },
+  {
+   "createdAt": "2026-08-06T08:01:39Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 306,
+   "title": "[GoogleNews] Sicilia, Ordine Farmacisti Enna: concorso per assistenti amministrativi diplomati - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/306"
+  },
+  {
+   "createdAt": "2026-08-06T08:01:39Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 305,
+   "title": "[GoogleNews] ASP Catania: selezione pubblica per direttore della UOC Patologia Clinica del Presidio Ospedaliero di Caltagirone - Secondamano",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/305"
+  },
+  {
+   "createdAt": "2026-08-06T08:01:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 304,
+   "title": "[GoogleNews] Capo Gallo e Isola delle Femmine in uno scatto: al via il concorso per fotografi amatoriali - PalermoToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/304"
+  },
+  {
+   "createdAt": "2026-08-06T08:01:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 303,
+   "title": "[GoogleNews] Taurianova incorona Andrea Grespi all’11° Concorso Internazionale dei Madonnari - Telemia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/303"
+  },
+  {
+   "createdAt": "2026-08-06T08:01:37Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 302,
+   "title": "[GoogleNews] Concorsi scuola 2026: bandi in uscita e selezioni in corso - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/302"
+  },
+  {
+   "createdAt": "2026-08-06T08:01:37Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 301,
+   "title": "[GoogleNews] Capo Gallo – Isola delle Femmine: un concorso fotografico per raccontare le meraviglie dell’area marina protetta - BlogSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/301"
+  },
+  {
+   "createdAt": "2026-08-06T08:01:36Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 300,
+   "title": "[GoogleNews] Regione, pubblicate le graduatorie per le progressioni dei dipendenti - livesicilia.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/300"
+  },
+  {
+   "createdAt": "2026-08-06T08:01:36Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 299,
+   "title": "[GoogleNews] Seus 118, al via le assunzioni: 103 posti subito e altri 237 in arrivo - CanaleSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/299"
+  },
   {
    "createdAt": "2026-08-05T08:02:27Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 209,
    "title": "[GoogleNews] Concorso Comune Como Istruttori Tecnici e Polizia Locale 2026: 5 posti a tempo indeterminato - Concorsando.it",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/209"
-  },
-  {
-   "createdAt": "2026-07-29T08:05:31Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 208,
-   "title": "[GoogleNews] Concorso Comune Cesano Maderno Agenti Polizia Locale 2026: 4 posti per diplomati - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/208"
-  },
-  {
-   "createdAt": "2026-07-29T08:05:31Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 207,
-   "title": "[GoogleNews] Concorso Città di Torino Istruttori Direttivi Amministrativi 2026: 2 posti per laureati - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/207"
-  },
-  {
-   "createdAt": "2026-07-29T08:05:30Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 206,
-   "title": "[GoogleNews] Concorso Comune Praia a Mare Istruttori Amministrativi Diplomati 2026: 14 posti a tempo determinato e Part-time - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/206"
-  },
-  {
-   "createdAt": "2026-07-29T08:05:30Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 205,
-   "title": "[GoogleNews] Concorso Comune Ferrara Funzionari Tecnici 2026: 4 posti per laureati - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/205"
-  },
-  {
-   "createdAt": "2026-07-29T08:05:29Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 204,
-   "title": "[GoogleNews] Concorso Comune Varese Assistenti Sociali 2026: 4 posti a tempo indeterminato - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/204"
-  },
-  {
-   "createdAt": "2026-07-29T08:05:29Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 203,
-   "title": "[GoogleNews] Concorso Regione Veneto Istruttori Tecnici 2026: 5 posti a tempo indeterminato - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/203"
-  },
-  {
-   "createdAt": "2026-07-28T08:00:33Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 202,
-   "title": "[GoogleNews] Concorsi Pubblici Agosto 2026 per 3000 assunzioni: elenco dei Bandi con tutte le scadenze - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/202"
-  },
-  {
-   "createdAt": "2026-07-28T08:00:32Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 201,
-   "title": "[GoogleNews] Concorso AIFA da 16 posti: nominata la commissione d'esame, criteri orale ed elenchi ammessi - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/201"
-  },
-  {
-   "createdAt": "2026-07-28T08:00:32Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 200,
-   "title": "[GoogleNews] Iniziativa Carta INPS: Un Contest per Creativi - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/200"
-  },
-  {
-   "createdAt": "2026-07-28T08:00:32Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 199,
-   "title": "[GoogleNews] Concorso Assistenti Amministrativi Spallanzani INMI 2026: 10 posti per diplomati a tempo indeterminato - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/199"
   }
  ]
 }
