@@ -1,6 +1,160 @@
 {
- "generated_at": "2026-08-06T08:01:42+00:00",
+ "generated_at": "2026-08-07T06:47:25+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-08-07T06:47:24Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACuO0VfA",
+     "name": "scadenzario-concorsi",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 319,
+   "title": "[Scadenze] CONVERTIRE MEF - Dipartimento della Giustizia tributaria — domande chiuse il 06/08",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/319"
+  },
+  {
+   "createdAt": "2026-08-07T06:47:24Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 318,
+   "title": "[GoogleNews] ENEA Regione Lazio: assunzioni per operatori con licenza media - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/318"
+  },
+  {
+   "createdAt": "2026-08-07T06:47:23Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 317,
+   "title": "[GoogleNews] Comune di Fara In Sabina: concorso per autisti - operai, assunzioni a tempo indeterminato nel Lazio - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/317"
+  },
+  {
+   "createdAt": "2026-08-07T06:47:23Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 316,
+   "title": "[GoogleNews] Concorso MAECI per docenti da destinare all’estero. Uscito il Bando 2026, tutte le novità - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/316"
+  },
+  {
+   "createdAt": "2026-08-07T06:47:22Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 315,
+   "title": "[GoogleNews] Umbria, Comune di Torgiano: concorso per tecnici diplomati, assunzioni a tempo indeterminato - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/315"
+  },
+  {
+   "createdAt": "2026-08-07T06:47:21Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 314,
+   "title": "[GoogleNews] Università Roma Tre: concorso per Funzionari, comunicazione e marketing, con qualsiasi laurea - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/314"
+  },
+  {
+   "createdAt": "2026-08-07T06:47:21Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 313,
+   "title": "[GoogleNews] Ordine Architetti Treviso: concorso per assistenti diplomati, lavoro di segreteria amministrativa - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/313"
+  },
+  {
+   "createdAt": "2026-08-07T06:47:20Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 312,
+   "title": "[GoogleNews] Blocco delle assunzioni nella sanità, CIMO-FESMED: “Senza personale a rischio l’efficienza del sistema” - Siracusa Press",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/312"
+  },
+  {
+   "createdAt": "2026-08-07T06:47:20Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 311,
+   "title": "[GoogleNews] Puglia, Provincia di Taranto: concorso pubblico per funzionari - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/311"
+  },
+  {
+   "createdAt": "2026-08-07T06:47:19Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 310,
+   "title": "[GoogleNews] L’ASP di Enna non si ferma quindici nuove assunzioni tra sanitari e amministrativi - 94018.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/310"
+  },
+  {
+   "createdAt": "2026-08-07T06:47:19Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 309,
+   "title": "[GoogleNews] Regione, pubblicate le graduatorie per le progressioni dei dipendenti - LiveSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/309"
+  },
   {
    "createdAt": "2026-08-06T08:01:41Z",
    "labels": [
@@ -1246,160 +1400,6 @@
    "number": 220,
    "title": "[Scadenzario] #10 Rimborsi 730 — agosto 2026",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/220"
-  },
-  {
-   "createdAt": "2026-07-30T07:54:53Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 219,
-   "title": "[Scadenzario] #8 SFL — agosto 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/219"
-  },
-  {
-   "createdAt": "2026-07-30T07:54:53Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 218,
-   "title": "[Scadenzario] #6 ADI — agosto 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/218"
-  },
-  {
-   "createdAt": "2026-07-30T07:54:52Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 217,
-   "title": "[Scadenzario] #5 Assegno unico — agosto 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/217"
-  },
-  {
-   "createdAt": "2026-07-30T07:54:52Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 216,
-   "title": "[Scadenzario] #4 NASpI — agosto 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/216"
-  },
-  {
-   "createdAt": "2026-07-30T07:54:52Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 215,
-   "title": "INPS: online i dati dell'Osservatorio CIG-NASPI - inps.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/215"
-  },
-  {
-   "createdAt": "2026-07-30T07:54:51Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 214,
-   "title": "INPS: 4068 - INPS: online i dati dell'Osservatorio CIG-NASPI | Dettaglio Comunicato Stampa - inps.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/214"
-  },
-  {
-   "createdAt": "2026-07-30T07:54:51Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 213,
-   "title": "INPS: Revoca quattordicesima su pensioni della Gestione privata nel 2021 - inps.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/213"
-  },
-  {
-   "createdAt": "2026-07-29T08:05:33Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 212,
-   "title": "[GoogleNews] Concorso Camera dei Deputati Ragionieri da 20 posti: Prove scritte il 9, 10 e 11 settembre 2026 a Roma - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/212"
-  },
-  {
-   "createdAt": "2026-07-29T08:05:33Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 211,
-   "title": "[GoogleNews] Concorso Dirigente Tecnico nel Comune di Pozzuoli 2026: Nuovi esiti e i punteggi della prova preselettiva ricalcolati - Concorsand",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/211"
-  },
-  {
-   "createdAt": "2026-07-29T08:05:32Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 210,
-   "title": "[GoogleNews] Concorso Generale Ufficio dell'Unione Europea Funzionari Amministratori EPSO 1490 posti: oltre 174.000 candidati da tutta l'UE - C",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/210"
-  },
-  {
-   "createdAt": "2026-07-29T08:05:32Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 209,
-   "title": "[GoogleNews] Concorso Comune Como Istruttori Tecnici e Polizia Locale 2026: 5 posti a tempo indeterminato - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/209"
   }
  ]
 }
