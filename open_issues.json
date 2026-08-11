@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-08-10T06:52:06+00:00",
+ "generated_at": "2026-08-11T06:28:04+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-08-11T06:28:02Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 361,
+   "title": "[GoogleNews] Chi supera il periodo di prova non sarà più cancellato dalle GM di altro concorso. Accolta la proposta della CISL Scuola - CISL Sc",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/361"
+  },
+  {
+   "createdAt": "2026-08-11T06:28:02Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 360,
+   "title": "[GoogleNews] Dirigenti scolastici: pubblicato il decreto con il contingente delle assunzioni per il 2026/2027 - uilscuola",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/360"
+  },
+  {
+   "createdAt": "2026-08-11T06:28:02Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 359,
+   "title": "[GoogleNews] Concorso straordinario docenti: dal “Ter” 2023 al PNRR3 e oltre - Docenti.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/359"
+  },
+  {
+   "createdAt": "2026-08-11T06:28:01Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 358,
+   "title": "[GoogleNews] Concorso da 38 posti nel Nord Italia a tempo indeterminato | tra i requisiti la terza media - Zazoom Social News",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/358"
+  },
+  {
+   "createdAt": "2026-08-11T06:28:01Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 357,
+   "title": "[GoogleNews] Roma, Conservatorio Santa Cecilia: concorso per informatici (personale ATA) - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/357"
+  },
+  {
+   "createdAt": "2026-08-11T06:28:00Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 356,
+   "title": "[GoogleNews] Concorsi pubblici in scadenza nella settimana di Ferragosto 2026 - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/356"
+  },
+  {
+   "createdAt": "2026-08-11T06:28:00Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 355,
+   "title": "[GoogleNews] Concorso Regione Calabria, oltre 700 idonei ancora in attesa: «Gli scorrimenti sono possibili, perché non si procede? - ReggioTV",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/355"
+  },
+  {
+   "createdAt": "2026-08-11T06:28:00Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 354,
+   "title": "[GoogleNews] Sanità, la FP Cgil denuncia: “Emergenza-urgenza al collasso, ambulanze senza medici e assunzioni bloccate” - CalabriaInforma",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/354"
+  },
+  {
+   "createdAt": "2026-08-11T06:27:59Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 353,
+   "title": "[GoogleNews] Concorso per i vigili urbani a Melilli nel caos, il Tar ordina nuovi esami orali - Canicatti Web Notizie",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/353"
+  },
+  {
+   "createdAt": "2026-08-11T06:27:59Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 352,
+   "title": "[GoogleNews] Animaphix 2026: tutti i premiati del concorso internazionale - afNews.info: Fumetti, bande dessinée, comics, manga, animazione, Ti",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/352"
+  },
   {
    "createdAt": "2026-08-10T06:52:05Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 262,
    "title": "[GoogleNews] Miss Italia, a Priolo Gargallo la selezione regionale siciliana⁹ - SiracusaOggi.it",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/262"
-  },
-  {
-   "createdAt": "2026-08-02T07:49:55Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 261,
-   "title": "[GoogleNews] Elenchi regionali 2026, le graduatorie [AGGIORNATO Veneto dopo cancellazione docenti assunti] - Orizzonte Scuola Notizie",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/261"
-  },
-  {
-   "createdAt": "2026-08-02T07:49:54Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 260,
-   "title": "[GoogleNews] Concorso funzionari Regione Siciliana, il Tar accoglie i ricorsi: candidati reinseriti in graduatoria per domande fuori bando - Ca",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/260"
-  },
-  {
-   "createdAt": "2026-08-02T07:49:54Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 259,
-   "title": "[GoogleNews] Ars, via libera ai concorsi per Ast e Seus: sbloccate 380 assunzioni - CanaleSicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/259"
-  },
-  {
-   "createdAt": "2026-08-02T07:49:54Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 258,
-   "title": "[GoogleNews] Nuove assunzioni nella sanità della Regione Sicilia 2026: bandi in arrivo - lentepubblica.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/258"
-  },
-  {
-   "createdAt": "2026-08-02T07:49:53Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 257,
-   "title": "[GoogleNews] Bando ufficiale per la richiesta di acquisizione di progetti aventi finalità di promozione territoriale per l’anno 2026 - Comune d",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/257"
-  },
-  {
-   "createdAt": "2026-08-02T07:49:53Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 256,
-   "title": "[GoogleNews] Proroga Bando di concorso “Palermo rifiorisce con Santa Rosalia” terza edizione - Comune di Palermo",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/256"
-  },
-  {
-   "createdAt": "2026-08-02T07:49:53Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 255,
-   "title": "[GoogleNews] Sfrattata a 70 anni benché vincitrice del bando: l'emergenza casa travolge un'anziana a Reggio Calabria - Calabria Diretta News",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/255"
-  },
-  {
-   "createdAt": "2026-08-02T07:49:52Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 254,
-   "title": "[GoogleNews] A Taurianova al via la nuova edizione del Concorso Internazionale dei Madonnari · ilreggino.it - Il Reggino",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/254"
-  },
-  {
-   "createdAt": "2026-08-02T07:49:52Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 253,
-   "title": "[GoogleNews] Nuove assunzioni nei servizi sociali del Comune di Messina - lecodelsud.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/253"
-  },
-  {
-   "createdAt": "2026-08-02T07:49:51Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 252,
-   "title": "[GoogleNews] Concorso per agente tecnico esattore autostradale: Il Cas dovrà pagare una dipendente - AMnotizie.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/252"
   }
  ]
 }
