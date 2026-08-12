@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-08-11T06:28:04+00:00",
+ "generated_at": "2026-08-12T06:53:51+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-08-12T06:53:50Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 371,
+   "title": "[GoogleNews] Regione Basilicata: assunzioni per Addetti al protocollo e smistamento documenti, categorie protette - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/371"
+  },
+  {
+   "createdAt": "2026-08-12T06:53:49Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 370,
+   "title": "[GoogleNews] Assunzioni scuola 2026/2027, autorizzate oltre 61 mila immissioni in ruolo: posti disponibili, decreti e prossimi concorsi - conco",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/370"
+  },
+  {
+   "createdAt": "2026-08-12T06:53:49Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 369,
+   "title": "[GoogleNews] Selezioni Ministero della Giustizia: lavoro per medici, psicologi ed esperti in servizio sociale - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/369"
+  },
+  {
+   "createdAt": "2026-08-12T06:53:48Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 368,
+   "title": "[GoogleNews] INPS: selezione pubblica per medici, lavoro in Calabria - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/368"
+  },
+  {
+   "createdAt": "2026-08-12T06:53:48Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 367,
+   "title": "[GoogleNews] Emilia-Romagna, assunzioni a tempo indeterminato per addetti all’accoglienza sanitaria: basta l’obbligo scolastico - concorsi-pubb",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/367"
+  },
+  {
+   "createdAt": "2026-08-12T06:53:47Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 366,
+   "title": "[GoogleNews] Azienda Zero Calabria: concorso per 31 tecnici sanitari di laboratorio biomedico - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/366"
+  },
+  {
+   "createdAt": "2026-08-12T06:53:47Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 365,
+   "title": "[GoogleNews] Beni confiscati alla mafia, la strada si allunga: il Comune di Catania lancia un terzo bando per l’affido - QdS",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/365"
+  },
+  {
+   "createdAt": "2026-08-12T06:53:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 364,
+   "title": "[GoogleNews] Regione Calabria: assunzione per manutentore del verde con licenza media o scuola dell'obbligo - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/364"
+  },
+  {
+   "createdAt": "2026-08-12T06:53:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 363,
+   "title": "[GoogleNews] Concorso Azienda Zero Calabria Tecnici laboratorio biomedico 2026: 31 posti a tempo indeterminato - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/363"
+  },
+  {
+   "createdAt": "2026-08-12T06:53:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 362,
+   "title": "[GoogleNews] Il concorso per scrittori e critici appassionati di architettura - Sky Arte",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/362"
+  },
   {
    "createdAt": "2026-08-11T06:28:02Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 272,
    "title": "INPS: Roma, 3 agosto 2026 INPS, online l'Osservatorio semestrale su Assegno di Inclusione e Supporto Formazione Lavoro - inps.",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/272"
-  },
-  {
-   "createdAt": "2026-08-03T08:48:44Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 271,
-   "title": "[GoogleNews] Incarichi dirigenziali sanitari e giurisdizione: la comparazione non diventa concorso - Salvis Juribus",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/271"
-  },
-  {
-   "createdAt": "2026-08-03T08:48:43Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 270,
-   "title": "[GoogleNews] Oltre 2.700 assunzioni nella sanità in Sicilia: tutti i concorsi e i bandi attivi in questo momento - QdS",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/270"
-  },
-  {
-   "createdAt": "2026-08-03T08:48:43Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 269,
-   "title": "[GoogleNews] Immissioni in ruolo docenti 2026/27: ancora convocazioni per scorrimento da concorso [AGGIORNATO] - Orizzonte Scuola Notizie",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/269"
-  },
-  {
-   "createdAt": "2026-08-03T08:48:43Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 268,
-   "title": "[GoogleNews] Elenchi regionali 2026/27, la pubblicazione delle graduatorie (con RETTIFICHE) - Scuolainforma",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/268"
-  },
-  {
-   "createdAt": "2026-08-03T08:48:42Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 267,
-   "title": "[GoogleNews] Concorsi pubblici in scadenza nella settimana dal 3 al 9 Agosto 2026 per oltre 1700 posti - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/267"
-  },
-  {
-   "createdAt": "2026-08-03T08:48:42Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 266,
-   "title": "[GoogleNews] Priolo Gargallo, stasera la selezione siciliana di Miss Italia in largo dell'Autonomia Comunale - Siracusa Press",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/266"
-  },
-  {
-   "createdAt": "2026-08-03T08:48:41Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 265,
-   "title": "[GoogleNews] Fondi per la pesca, la graduatoria dei progetti finanziati in Sicilia - LiveSicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/265"
-  },
-  {
-   "createdAt": "2026-08-03T08:48:41Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 264,
-   "title": "[GoogleNews] COSFEL Ministero dell’Interno 2026 – La Commissione approva ulteriori 470 assunzioni a Luglio - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/264"
-  },
-  {
-   "createdAt": "2026-08-03T08:48:41Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 263,
-   "title": "[GoogleNews] Concorso Consiglio Regionale Lazio Funzionari, Istruttori e Dirigenti 2026: 13 posti tra profili tecnici e amministrativi - Concor",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/263"
-  },
-  {
-   "createdAt": "2026-08-03T08:48:40Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 262,
-   "title": "[GoogleNews] Miss Italia, a Priolo Gargallo la selezione regionale siciliana⁹ - SiracusaOggi.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/262"
   }
  ]
 }
