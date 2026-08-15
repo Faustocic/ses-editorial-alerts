@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-08-14T06:55:09+00:00",
+ "generated_at": "2026-08-15T05:51:56+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-08-15T05:51:55Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 403,
+   "title": "[GoogleNews] ATAC Civitanova: assunzioni per addetti al centralino con licenza media, disabili nelle Marche - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/403"
+  },
+  {
+   "createdAt": "2026-08-15T05:51:55Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 402,
+   "title": "[GoogleNews] Regione Marche: assunzioni per centralinisti e autisti con licenza media - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/402"
+  },
+  {
+   "createdAt": "2026-08-15T05:51:54Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 401,
+   "title": "[GoogleNews] Lazio, Progetto Ambiente: concorso per impiegato, assunzione a tempo indeterminato - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/401"
+  },
+  {
+   "createdAt": "2026-08-15T05:51:54Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 400,
+   "title": "[GoogleNews] Puglia, Mobilità e Trasporti Molfetta: concorso per conducenti scuolabus e per accompagnatori studenti - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/400"
+  },
+  {
+   "createdAt": "2026-08-15T05:51:54Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 399,
+   "title": "[GoogleNews] Provincia di Livorno: selezioni pubbliche per assunzioni di diplomati e laureati - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/399"
+  },
+  {
+   "createdAt": "2026-08-15T05:51:54Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 398,
+   "title": "[GoogleNews] Milano, Comune di Rozzano: concorso per assunzioni di assistenti sociali, tempo indeterminato - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/398"
+  },
+  {
+   "createdAt": "2026-08-15T05:51:53Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 397,
+   "title": "[GoogleNews] Il TAR Catania: annulla ancora una volta la commissione del concorso per ricercatore in Botanica avviato nel 2010 - siciliaogginot",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/397"
+  },
+  {
+   "createdAt": "2026-08-15T05:51:53Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 396,
+   "title": "[GoogleNews] Reggio Emilia: concorso per 8 assunzioni di diplomati presso varie sedi di lavoro, tempo indeterminato - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/396"
+  },
+  {
+   "createdAt": "2026-08-15T05:51:53Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 395,
+   "title": "[GoogleNews] Concorso Unione Colline Matildiche Istruttori Amministrativi 2026: 8 posti per a tempo indeterminato - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/395"
+  },
+  {
+   "createdAt": "2026-08-15T05:51:52Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 394,
+   "title": "[GoogleNews] Ricercatore botanica: TAR annulla ancora commissione concorso - Sicilia ON Press",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/394"
+  },
   {
    "createdAt": "2026-08-14T06:55:09Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 304,
    "title": "[GoogleNews] Capo Gallo e Isola delle Femmine in uno scatto: al via il concorso per fotografi amatoriali - PalermoToday",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/304"
-  },
-  {
-   "createdAt": "2026-08-06T08:01:38Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 303,
-   "title": "[GoogleNews] Taurianova incorona Andrea Grespi all’11° Concorso Internazionale dei Madonnari - Telemia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/303"
-  },
-  {
-   "createdAt": "2026-08-06T08:01:37Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 302,
-   "title": "[GoogleNews] Concorsi scuola 2026: bandi in uscita e selezioni in corso - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/302"
-  },
-  {
-   "createdAt": "2026-08-06T08:01:37Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 301,
-   "title": "[GoogleNews] Capo Gallo – Isola delle Femmine: un concorso fotografico per raccontare le meraviglie dell’area marina protetta - BlogSicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/301"
-  },
-  {
-   "createdAt": "2026-08-06T08:01:36Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 300,
-   "title": "[GoogleNews] Regione, pubblicate le graduatorie per le progressioni dei dipendenti - livesicilia.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/300"
-  },
-  {
-   "createdAt": "2026-08-06T08:01:36Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 299,
-   "title": "[GoogleNews] Seus 118, al via le assunzioni: 103 posti subito e altri 237 in arrivo - CanaleSicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/299"
-  },
-  {
-   "createdAt": "2026-08-05T08:02:27Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 298,
-   "title": "[GoogleNews] Concorsi anche ad agosto in Sicilia, ecco bandi e selezioni in scadenza - QdS",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/298"
-  },
-  {
-   "createdAt": "2026-08-05T08:02:26Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 297,
-   "title": "[GoogleNews] Il Tar di Catania accoglie il ricorso sul concorso per i Vigili Urbani: annullata la graduatoria - Siracusa Press",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/297"
-  },
-  {
-   "createdAt": "2026-08-05T08:02:26Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 296,
-   "title": "[GoogleNews] Concorso Melilli/2. Con la graduatoria azzerata dal Tar, che destino avrà chi è stato assunto? - La Civetta di Minerva",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/296"
-  },
-  {
-   "createdAt": "2026-08-05T08:02:25Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 295,
-   "title": "[GoogleNews] Melilli | Il Tar accoglie in parte il ricorso di alcuni candidati del concorso per 10 vigili urbani del 2024 - webmarte.tv",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/295"
-  },
-  {
-   "createdAt": "2026-08-05T08:02:25Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 294,
-   "title": "[GoogleNews] CONCORSO VV.UU. MELILLI, IL TAR ANNULLA LA GRADUATORIA - La Civetta di Minerva",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/294"
   }
  ]
 }
