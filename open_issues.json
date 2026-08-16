@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-08-15T05:51:56+00:00",
+ "generated_at": "2026-08-16T05:54:28+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-08-16T05:54:26Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 413,
+   "title": "[GoogleNews] Conservatorio di Vicenza: selezione per psicologi, 70 euro l’ora - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/413"
+  },
+  {
+   "createdAt": "2026-08-16T05:54:25Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 412,
+   "title": "[GoogleNews] Ministero della Giustizia - Archivio Notarile Ferrara: assunzione per ausiliario con licenza media - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/412"
+  },
+  {
+   "createdAt": "2026-08-16T05:54:25Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 411,
+   "title": "[GoogleNews] Sanità, Azienda Zero lancia i nuovi concorsi: si cercano 111 medici specialisti - noidicalabria.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/411"
+  },
+  {
+   "createdAt": "2026-08-16T05:54:24Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 410,
+   "title": "[GoogleNews] Campania, Comune di Procida: assunzioni per diplomati, istruttori amministrativi - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/410"
+  },
+  {
+   "createdAt": "2026-08-16T05:54:24Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 409,
+   "title": "[GoogleNews] Marche: assunzioni per addetti all'accoglienza (front office e portineria) con licenza media, tempo indeterminato - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/409"
+  },
+  {
+   "createdAt": "2026-08-16T05:54:24Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 408,
+   "title": "[GoogleNews] ISIA di Urbino: concorso per funzionari, basta la laurea triennale - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/408"
+  },
+  {
+   "createdAt": "2026-08-16T05:54:23Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 407,
+   "title": "[GoogleNews] Concorso ARUS Istruttori Amministrativi 2026: 12 posti per diplomati - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/407"
+  },
+  {
+   "createdAt": "2026-08-16T05:54:22Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 406,
+   "title": "[GoogleNews] Calabria, Comune di Rogliano: concorsi per funzionari, assunzioni a tempo indeterminato - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/406"
+  },
+  {
+   "createdAt": "2026-08-16T05:54:22Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 405,
+   "title": "[GoogleNews] Il Comune di Serra cerca un agronomo: pubblicato l’avviso di selezione - Il Meridio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/405"
+  },
+  {
+   "createdAt": "2026-08-16T05:54:21Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 404,
+   "title": "[GoogleNews] Botanica, concorso fermo dal 2010: il TAR di Catania annulla di nuovo la commissione - ilSicilia.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/404"
+  },
   {
    "createdAt": "2026-08-15T05:51:55Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 314,
    "title": "[GoogleNews] Università Roma Tre: concorso per Funzionari, comunicazione e marketing, con qualsiasi laurea - ticonsiglio.com",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/314"
-  },
-  {
-   "createdAt": "2026-08-07T06:47:21Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 313,
-   "title": "[GoogleNews] Ordine Architetti Treviso: concorso per assistenti diplomati, lavoro di segreteria amministrativa - ticonsiglio.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/313"
-  },
-  {
-   "createdAt": "2026-08-07T06:47:20Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 312,
-   "title": "[GoogleNews] Blocco delle assunzioni nella sanità, CIMO-FESMED: “Senza personale a rischio l’efficienza del sistema” - Siracusa Press",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/312"
-  },
-  {
-   "createdAt": "2026-08-07T06:47:20Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 311,
-   "title": "[GoogleNews] Puglia, Provincia di Taranto: concorso pubblico per funzionari - ticonsiglio.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/311"
-  },
-  {
-   "createdAt": "2026-08-07T06:47:19Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 310,
-   "title": "[GoogleNews] L’ASP di Enna non si ferma quindici nuove assunzioni tra sanitari e amministrativi - 94018.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/310"
-  },
-  {
-   "createdAt": "2026-08-07T06:47:19Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 309,
-   "title": "[GoogleNews] Regione, pubblicate le graduatorie per le progressioni dei dipendenti - LiveSicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/309"
-  },
-  {
-   "createdAt": "2026-08-06T08:01:41Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 308,
-   "title": "[GoogleNews] Soccorso istruttorio nei concorsi pubblici - Le Autonomie",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/308"
-  },
-  {
-   "createdAt": "2026-08-06T08:01:40Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 307,
-   "title": "[GoogleNews] Lazio, Provincia di Frosinone: concorsi per assunzioni di diplomati e laureati (amministrativi, tecnici, bibliotecari) - Ti Consig",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/307"
-  },
-  {
-   "createdAt": "2026-08-06T08:01:39Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 306,
-   "title": "[GoogleNews] Sicilia, Ordine Farmacisti Enna: concorso per assistenti amministrativi diplomati - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/306"
-  },
-  {
-   "createdAt": "2026-08-06T08:01:39Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 305,
-   "title": "[GoogleNews] ASP Catania: selezione pubblica per direttore della UOC Patologia Clinica del Presidio Ospedaliero di Caltagirone - Secondamano",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/305"
-  },
-  {
-   "createdAt": "2026-08-06T08:01:38Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 304,
-   "title": "[GoogleNews] Capo Gallo e Isola delle Femmine in uno scatto: al via il concorso per fotografi amatoriali - PalermoToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/304"
   }
  ]
 }
