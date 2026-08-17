@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-08-16T05:54:28+00:00",
+ "generated_at": "2026-08-17T06:01:02+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-08-17T06:01:01Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 423,
+   "title": "[GoogleNews] Campania, Comune di Caposele: concorso per laureati in economia - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/423"
+  },
+  {
+   "createdAt": "2026-08-17T06:01:01Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 422,
+   "title": "[GoogleNews] Regione Puglia: assunzioni per operatori con licenza media presso asili nidi - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/422"
+  },
+  {
+   "createdAt": "2026-08-17T06:01:00Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 421,
+   "title": "[GoogleNews] INGV: concorsi per diplomati a Roma, assunzioni a tempo indeterminato - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/421"
+  },
+  {
+   "createdAt": "2026-08-17T06:00:59Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 420,
+   "title": "[GoogleNews] Ospedali, assunzioni per Coadiutori amministrativi: obbligo scolastico, tempo indeterminato e stipendio oltre 20.000 euro - concor",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/420"
+  },
+  {
+   "createdAt": "2026-08-17T06:00:57Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 419,
+   "title": "[GoogleNews] Veneto, Comune di Valeggio Sul Mincio: concorso per tecnici (geometri o periti), lavoro a tempo indeterminato - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/419"
+  },
+  {
+   "createdAt": "2026-08-17T06:00:57Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 418,
+   "title": "[GoogleNews] Puglia, Comune di Ascoli Satriano: concorso per diplomati - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/418"
+  },
+  {
+   "createdAt": "2026-08-17T06:00:56Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 417,
+   "title": "[GoogleNews] Viabilità agricola, approvata graduatoria provvisoria: 170 comuni finanziati - Regione Calabria",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/417"
+  },
+  {
+   "createdAt": "2026-08-17T06:00:56Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 416,
+   "title": "[GoogleNews] Il Comune di Melicucco stabilizza otto tirocinanti TIS: dal 1° luglio assunzioni a tempo indeterminato e rafforzamento dell’organi",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/416"
+  },
+  {
+   "createdAt": "2026-08-17T06:00:56Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 415,
+   "title": "[GoogleNews] “Concorso nazionale di poesia per la pace”: da Gambarie un urlo di dolore - ReggioToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/415"
+  },
+  {
+   "createdAt": "2026-08-17T06:00:55Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 414,
+   "title": "[GoogleNews] TAR Catania annulla ancora una volta la commissione del concorso per ricercatore in Botanica avviato nel 2010 - Canicatti Web Noti",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/414"
+  },
   {
    "createdAt": "2026-08-16T05:54:26Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 324,
    "title": "[GoogleNews] ASPEM Narni: concorso per operai, assunzioni a tempo indeterminato in Umbria - Ti Consiglio",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/324"
-  },
-  {
-   "createdAt": "2026-08-08T06:07:25Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 323,
-   "title": "[GoogleNews] Mafia e appalti, condannato per concorso esterno a Messina, Scirocco di nuovo arrestato - La Sicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/323"
-  },
-  {
-   "createdAt": "2026-08-08T06:07:24Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 322,
-   "title": "[GoogleNews] Concorsi Sanità Sicilia 2026: in arrivo quasi 3mila assunzioni. Profili, requisiti e come partecipare - concorsi-pubblici.org",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/322"
-  },
-  {
-   "createdAt": "2026-08-08T06:06:12Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 321,
-   "title": "[Scadenzario] #C Refresh di metà mese dell'hub + controllo slittamenti — agosto 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/321"
-  },
-  {
-   "createdAt": "2026-08-08T06:06:11Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 320,
-   "title": "[Scadenzario] #21 ADI: rinnovo e prima mensilità al 50% — agosto 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/320"
-  },
-  {
-   "createdAt": "2026-08-07T06:47:24Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACuO0VfA",
-     "name": "scadenzario-concorsi",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 319,
-   "title": "[Scadenze] CONVERTIRE MEF - Dipartimento della Giustizia tributaria — domande chiuse il 06/08",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/319"
-  },
-  {
-   "createdAt": "2026-08-07T06:47:24Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 318,
-   "title": "[GoogleNews] ENEA Regione Lazio: assunzioni per operatori con licenza media - ticonsiglio.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/318"
-  },
-  {
-   "createdAt": "2026-08-07T06:47:23Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 317,
-   "title": "[GoogleNews] Comune di Fara In Sabina: concorso per autisti - operai, assunzioni a tempo indeterminato nel Lazio - ticonsiglio.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/317"
-  },
-  {
-   "createdAt": "2026-08-07T06:47:23Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 316,
-   "title": "[GoogleNews] Concorso MAECI per docenti da destinare all’estero. Uscito il Bando 2026, tutte le novità - ticonsiglio.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/316"
-  },
-  {
-   "createdAt": "2026-08-07T06:47:22Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 315,
-   "title": "[GoogleNews] Umbria, Comune di Torgiano: concorso per tecnici diplomati, assunzioni a tempo indeterminato - ticonsiglio.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/315"
-  },
-  {
-   "createdAt": "2026-08-07T06:47:21Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 314,
-   "title": "[GoogleNews] Università Roma Tre: concorso per Funzionari, comunicazione e marketing, con qualsiasi laurea - ticonsiglio.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/314"
   }
  ]
 }
