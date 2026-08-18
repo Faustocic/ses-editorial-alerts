@@ -1,6 +1,160 @@
 {
- "generated_at": "2026-08-17T06:01:02+00:00",
+ "generated_at": "2026-08-18T05:55:50+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-08-18T05:55:48Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 434,
+   "title": "[GoogleNews] USR PUGLIA: CONCORSO INFANZIA 2025-CDC ADAA – SOSTEGNO INFANZIA. INTEGRAZIONE DELLA GRADUATORIA DI MERITO PER SURROGA – REGIONE PU",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/434"
+  },
+  {
+   "createdAt": "2026-08-18T05:55:48Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 433,
+   "title": "[GoogleNews] Concorsi docenti dopo il PNRR, ma il doppio canale di reclutamento che fine ha fatto? - Scuolainforma",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/433"
+  },
+  {
+   "createdAt": "2026-08-18T05:55:48Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 432,
+   "title": "[GoogleNews] ASREM Molise: concorso per 16 infermieri, assunzioni a tempo indeterminato - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/432"
+  },
+  {
+   "createdAt": "2026-08-18T05:55:47Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 431,
+   "title": "[GoogleNews] ASP Progetto Persona: concorsi per 14 infermieri e OSS, lavoro in Emilia Romagna - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/431"
+  },
+  {
+   "createdAt": "2026-08-18T05:55:47Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 430,
+   "title": "[GoogleNews] Marche: assunzione per coadiutore amministrativo con scuola dell’obbligo o licenza media - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/430"
+  },
+  {
+   "createdAt": "2026-08-18T05:55:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 429,
+   "title": "[GoogleNews] Puglia, Comune di Carmiano: concorso per diplomati, assunzione a tempo indeterminato - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/429"
+  },
+  {
+   "createdAt": "2026-08-18T05:55:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 428,
+   "title": "[GoogleNews] Concorso ASST Brianza Sanitari 2026: 8 posti a tempo indeterminato - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/428"
+  },
+  {
+   "createdAt": "2026-08-18T05:55:45Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 427,
+   "title": "[GoogleNews] Concorsi e assunzioni PA Agosto 2026: Oltre 3mila posti di lavoro - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/427"
+  },
+  {
+   "createdAt": "2026-08-18T05:55:45Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 426,
+   "title": "[GoogleNews] Concorsi pubblici, bandi in scadenza nella settimana dal 17 al 23 Agosto 2026 - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/426"
+  },
+  {
+   "createdAt": "2026-08-18T05:55:44Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 425,
+   "title": "[GoogleNews] Concorso ASP Progetto Persona OSS e Infermieri 2026: 14 posti a tempo indeterminato - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/425"
+  },
+  {
+   "createdAt": "2026-08-18T05:55:26Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 424,
+   "title": "[Scadenzario] #3 Cedolino pensione — settembre 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/424"
+  },
   {
    "createdAt": "2026-08-17T06:01:01Z",
    "labels": [
@@ -1246,160 +1400,6 @@
    "number": 335,
    "title": "[GoogleNews] ARPA Lombardia: concorso per collaboratori tecnici, assunzione a tempo indeterminato - Ti Consiglio",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/335"
-  },
-  {
-   "createdAt": "2026-08-09T06:08:39Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 334,
-   "title": "[GoogleNews] Concorsi Pubblici Agosto 2026: profili, requisiti, prove e come presentare la domanda - concorsi-pubblici.org",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/334"
-  },
-  {
-   "createdAt": "2026-08-09T06:08:39Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 333,
-   "title": "[GoogleNews] Sanità calabrese, Azienda Zero avvia nuovi concorsi: 137 assunzioni tra medici, tecnici e ingegneri - noidicalabria.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/333"
-  },
-  {
-   "createdAt": "2026-08-09T06:08:39Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 332,
-   "title": "[GoogleNews] Sanità in Sicilia, in arrivo 2.750 assunzioni: tutti i concorsi attivi nelle Asp dell’Isola - Sicilianews24.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/332"
-  },
-  {
-   "createdAt": "2026-08-08T06:07:28Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 331,
-   "title": "[GoogleNews] Concorso Sanità Calabria 2026, 137 nuovi posti tra medici, ingegneri e tecnici per rafforzare ospedali e territorio - InfoOggi",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/331"
-  },
-  {
-   "createdAt": "2026-08-08T06:07:28Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 330,
-   "title": "[GoogleNews] Regione Calabria, 8 assunzioni a tempo indeterminato per coadiutori amministrativi all’ASP di Vibo Valentia - concorsi-pubblici.or",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/330"
-  },
-  {
-   "createdAt": "2026-08-08T06:07:27Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 329,
-   "title": "[GoogleNews] Regione Calabria: assunzioni per coadiutori amministrativi con licenza media, ASP Vibo Valentia - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/329"
-  },
-  {
-   "createdAt": "2026-08-08T06:07:27Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 328,
-   "title": "[GoogleNews] Idonei dei concorsi: “La proposta di legge è ferma da quattro mesi, la politica ci ascolti” - Catanzaro Informa",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/328"
-  },
-  {
-   "createdAt": "2026-08-08T06:07:26Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 327,
-   "title": "[GoogleNews] Regione Piemonte: concorsi per 15 funzionari e istruttori, nuove assunzioni di laureati e diplomati. Bandi 2026 - antoniodepoli.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/327"
-  },
-  {
-   "createdAt": "2026-08-08T06:07:26Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 326,
-   "title": "[GoogleNews] Toscana, Comune di Grosseto: concorso per bibliotecari, assunzione a tempo indeterminato - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/326"
-  },
-  {
-   "createdAt": "2026-08-08T06:07:25Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 325,
-   "title": "[GoogleNews] Campania, Comune di Qualiano: concorso per funzionari giuridico amministrativi - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/325"
-  },
-  {
-   "createdAt": "2026-08-08T06:07:25Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 324,
-   "title": "[GoogleNews] ASPEM Narni: concorso per operai, assunzioni a tempo indeterminato in Umbria - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/324"
   }
  ]
 }
