@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-08-18T05:55:50+00:00",
+ "generated_at": "2026-08-19T05:56:50+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-08-19T05:56:49Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 444,
+   "title": "[GoogleNews] Concorso docenti: nuovi scorrimenti in Friuli Venezia Giulia - News Istruzione",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/444"
+  },
+  {
+   "createdAt": "2026-08-19T05:56:48Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 443,
+   "title": "[GoogleNews] Posti mini call veloce 2026, in quali regioni e per quali classi di concorso? Lo schema in aggiornamento - Tecnica della Scuola",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/443"
+  },
+  {
+   "createdAt": "2026-08-19T05:56:48Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 442,
+   "title": "[GoogleNews] Concorso Aeronautica Allievi Ufficiali AUPC e AUFP 2026: 50 posti per diplomati e laureati - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/442"
+  },
+  {
+   "createdAt": "2026-08-19T05:56:47Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 441,
+   "title": "[GoogleNews] Borse di studio 2026 per studenti messe a concorso dall'associazione \"Nel Sorriso di Valeria\" - Comune di San Miniato",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/441"
+  },
+  {
+   "createdAt": "2026-08-19T05:56:47Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 440,
+   "title": "[GoogleNews] Concorso STEM: quali materie e classi di concorso rientrano? - Docenti.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/440"
+  },
+  {
+   "createdAt": "2026-08-19T05:56:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 439,
+   "title": "[GoogleNews] Assunzioni pubbliche 2026: quali sono le posizioni aperte? - La Legge per tutti",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/439"
+  },
+  {
+   "createdAt": "2026-08-19T05:56:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 438,
+   "title": "[GoogleNews] Sicilia, Conservatorio di Catania: selezioni pubbliche per docenti in varie materie - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/438"
+  },
+  {
+   "createdAt": "2026-08-19T05:56:45Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 437,
+   "title": "[GoogleNews] Selezioni Miss Italia Calabria: sul podio anche una reggina - ReggioToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/437"
+  },
+  {
+   "createdAt": "2026-08-19T05:56:44Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 436,
+   "title": "[GoogleNews] Lo scandalo del concorso che aveva già i vincitori all'ospedale Civico di Palermo - TAG24 by Unicusano",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/436"
+  },
+  {
+   "createdAt": "2026-08-19T05:56:44Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 435,
+   "title": "[GoogleNews] AST – UGL Sicilia: Bene lo sblocco delle assunzioni. Primo passo per dignità dei lavoratori ed efficienza di servizio - canicattiw",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/435"
+  },
   {
    "createdAt": "2026-08-18T05:55:48Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 345,
    "title": "[GoogleNews] Sanità in Calabria, oltre 2.700 domande per 525 posti tra infermieri e OSS: boom di partecipazione ai concorsi di Azienda Zero e g",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/345"
-  },
-  {
-   "createdAt": "2026-08-10T06:52:03Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 344,
-   "title": "[GoogleNews] Comune di Pordenone: concorso per manutentori (operai), assunzioni a tempo indeterminato - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/344"
-  },
-  {
-   "createdAt": "2026-08-10T06:52:03Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 343,
-   "title": "[GoogleNews] ERSAF: concorso pubblico per un Funzionario dei servizi all’ambiente e al territorio - Secondamano",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/343"
-  },
-  {
-   "createdAt": "2026-08-10T06:52:03Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 342,
-   "title": "[GoogleNews] ASP Agrigento: in arrivo concorso per assumere nove veterinari - Sicilia ON Press",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/342"
-  },
-  {
-   "createdAt": "2026-08-09T06:08:41Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 341,
-   "title": "[GoogleNews] Università Politecnica delle Marche: concorso per collaboratori, lavoro per diplomati - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/341"
-  },
-  {
-   "createdAt": "2026-08-09T06:08:41Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 340,
-   "title": "[GoogleNews] Regione Emilia Romagna: assunzioni per 10 addetti all'accoglienza con licenza media o scuola dell'obbligo - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/340"
-  },
-  {
-   "createdAt": "2026-08-09T06:08:41Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 339,
-   "title": "[GoogleNews] Comune di Milano: concorso per 16 istruttori direttivi servizi tecnici, assunzioni per laureati anche con laurea triennale - Ti Co",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/339"
-  },
-  {
-   "createdAt": "2026-08-09T06:08:40Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 338,
-   "title": "[GoogleNews] Roma, Comune di Palestrina: concorso per istruttori amministrativo contabili, basta avere il diploma - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/338"
-  },
-  {
-   "createdAt": "2026-08-09T06:08:40Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 337,
-   "title": "[GoogleNews] Ministero della Salute, Selezioni pubbliche Formez PA: opportunità per diplomati e laureati - concorsi-pubblici.org",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/337"
-  },
-  {
-   "createdAt": "2026-08-09T06:08:40Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 336,
-   "title": "[GoogleNews] Provincia di Frosinone, cinque concorsi per diplomati e laureati: assunzioni in diversi profili - concorsi-pubblici.org",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/336"
-  },
-  {
-   "createdAt": "2026-08-09T06:08:40Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 335,
-   "title": "[GoogleNews] ARPA Lombardia: concorso per collaboratori tecnici, assunzione a tempo indeterminato - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/335"
   }
  ]
 }
