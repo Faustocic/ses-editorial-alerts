@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-08-19T05:56:50+00:00",
+ "generated_at": "2026-08-20T05:57:39+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-08-20T05:57:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 454,
+   "title": "[GoogleNews] Stop ai concorsi per docenti, Pittoni: \"Bandi solo per graduatorie vuote, non c’è ancora alcuna decisione sulla lunghezza della pa",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/454"
+  },
+  {
+   "createdAt": "2026-08-20T05:57:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 453,
+   "title": "[GoogleNews] Concorso Camera di Commercio Firenze 2026 – 4 posti a tempo indeterminato - concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/453"
+  },
+  {
+   "createdAt": "2026-08-20T05:57:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 452,
+   "title": "[GoogleNews] Concorsi docenti, Pittoni (Lega): \"Bandi solo per graduatorie vuote\" - Orizzonte Scuola Notizie",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/452"
+  },
+  {
+   "createdAt": "2026-08-20T05:57:37Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 451,
+   "title": "[GoogleNews] Concorsi docenti, possibili nuovi bandi \"mirati\" per le classi di concorso con più posti vacanti? - Scuolainforma",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/451"
+  },
+  {
+   "createdAt": "2026-08-20T05:57:37Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 450,
+   "title": "[GoogleNews] Concorsi e assunzioni: 67 bandi in Gazzetta, scuola in testa - News Istruzione",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/450"
+  },
+  {
+   "createdAt": "2026-08-20T05:57:36Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 449,
+   "title": "[GoogleNews] Valle d’Aosta: assunzioni per collaboratore amministrativo e per OSS - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/449"
+  },
+  {
+   "createdAt": "2026-08-20T05:57:36Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 448,
+   "title": "[GoogleNews] Università Milano Bicocca: concorsi per assunzioni di diplomati e laureati - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/448"
+  },
+  {
+   "createdAt": "2026-08-20T05:57:35Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 447,
+   "title": "[GoogleNews] ARUS Campania: concorso per 12 diplomati, istruttori amministrativi - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/447"
+  },
+  {
+   "createdAt": "2026-08-20T05:57:35Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 446,
+   "title": "[GoogleNews] Liguria, Comune di Ventimiglia: concorso per assistenti sociali, lavoro a tempo indeterminato - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/446"
+  },
+  {
+   "createdAt": "2026-08-20T05:57:35Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 445,
+   "title": "[GoogleNews] Concorso AUSL Parma Collaboratori Amministrativi 2026 - 5 posti a tempo indeterminato - concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/445"
+  },
   {
    "createdAt": "2026-08-19T05:56:49Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 355,
    "title": "[GoogleNews] Concorso Regione Calabria, oltre 700 idonei ancora in attesa: «Gli scorrimenti sono possibili, perché non si procede? - ReggioTV",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/355"
-  },
-  {
-   "createdAt": "2026-08-11T06:28:00Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 354,
-   "title": "[GoogleNews] Sanità, la FP Cgil denuncia: “Emergenza-urgenza al collasso, ambulanze senza medici e assunzioni bloccate” - CalabriaInforma",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/354"
-  },
-  {
-   "createdAt": "2026-08-11T06:27:59Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 353,
-   "title": "[GoogleNews] Concorso per i vigili urbani a Melilli nel caos, il Tar ordina nuovi esami orali - Canicatti Web Notizie",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/353"
-  },
-  {
-   "createdAt": "2026-08-11T06:27:59Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 352,
-   "title": "[GoogleNews] Animaphix 2026: tutti i premiati del concorso internazionale - afNews.info: Fumetti, bande dessinée, comics, manga, animazione, Ti",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/352"
-  },
-  {
-   "createdAt": "2026-08-10T06:52:05Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 351,
-   "title": "[GoogleNews] Concorso Scuole Militari 2026 Esercito, Marina e Aeronautica da 270 posti: Pubblicate le graduatorie - concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/351"
-  },
-  {
-   "createdAt": "2026-08-10T06:52:05Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 350,
-   "title": "[GoogleNews] Scuola: approvata la graduatoria finale del corso-concorso per 20 nuovi dirigenti scolastici - Ufficio Stampa della Provincia auto",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/350"
-  },
-  {
-   "createdAt": "2026-08-10T06:52:05Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 349,
-   "title": "[GoogleNews] ASL Verbano Cusio Ossola: concorso per infermieri, lavoro a tempo indeterminato - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/349"
-  },
-  {
-   "createdAt": "2026-08-10T06:52:04Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 348,
-   "title": "[GoogleNews] Casa di Riposo di Legnago: concorso per OSS, lavoro a tempo indeterminato in Veneto - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/348"
-  },
-  {
-   "createdAt": "2026-08-10T06:52:04Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 347,
-   "title": "[GoogleNews] Veneto, La CASA di Schio: concorso per 10 OSS, tempo indeterminato - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/347"
-  },
-  {
-   "createdAt": "2026-08-10T06:52:04Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 346,
-   "title": "[GoogleNews] Regione Veneto: assunzioni per 6 coadiutori amministrativi con licenza media, lavoro a tempo indeterminato - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/346"
-  },
-  {
-   "createdAt": "2026-08-10T06:52:03Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 345,
-   "title": "[GoogleNews] Sanità in Calabria, oltre 2.700 domande per 525 posti tra infermieri e OSS: boom di partecipazione ai concorsi di Azienda Zero e g",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/345"
   }
  ]
 }
