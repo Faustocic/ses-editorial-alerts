@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-08-20T05:57:39+00:00",
+ "generated_at": "2026-08-21T05:58:27+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-08-21T05:58:26Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 464,
+   "title": "[GoogleNews] Giotto guida il ritorno a scuola con un concorso che unisce creatività e grandi premi - Distribuzione Moderna",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/464"
+  },
+  {
+   "createdAt": "2026-08-21T05:58:26Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 463,
+   "title": "[GoogleNews] Concorsi pubblici, oltre 3.700 assunzioni nella Pubblica amministrazione: i posti e dove saranno i nuovi bandi - Fanpage",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/463"
+  },
+  {
+   "createdAt": "2026-08-21T05:58:26Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 462,
+   "title": "[GoogleNews] Concorso Provincia Sondrio Istruttori Amministrativi 2026: 4 posti per diplomati - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/462"
+  },
+  {
+   "createdAt": "2026-08-21T05:58:25Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 461,
+   "title": "[GoogleNews] Basilicata, Conservatorio di Potenza: selezioni per docenti in varie materie - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/461"
+  },
+  {
+   "createdAt": "2026-08-21T05:58:25Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 460,
+   "title": "[GoogleNews] Toscana, Teatro della Pergola: assunzione per operaio tecnico di palcoscenico, selezione pubblica - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/460"
+  },
+  {
+   "createdAt": "2026-08-21T05:58:24Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 459,
+   "title": "[GoogleNews] AUSL Parma: concorso per collaboratori amministrativi, lavoro per avvocati, tempo indeterminato - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/459"
+  },
+  {
+   "createdAt": "2026-08-21T05:58:24Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 458,
+   "title": "[GoogleNews] Liguria, Comune di Rapallo: concorso per funzionari amministrativi, basta la laurea triennale - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/458"
+  },
+  {
+   "createdAt": "2026-08-21T05:58:24Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 457,
+   "title": "[GoogleNews] Basilicata, Comune di Ruvo del Monte: concorso per amministrativo, rivolto a diplomati - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/457"
+  },
+  {
+   "createdAt": "2026-08-21T05:58:23Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 456,
+   "title": "[GoogleNews] Concorso per Funzionario amministrativo al Comune di Foggia, rinviata al 10 settembre l’ultima prova in asincrono - Stato Quotidia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/456"
+  },
+  {
+   "createdAt": "2026-08-21T05:58:23Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 455,
+   "title": "[GoogleNews] Concorso funzionario a Foggia, prova orale rinviata al 10 settembre per l'Etna - FoggiaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/455"
+  },
   {
    "createdAt": "2026-08-20T05:57:38Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 365,
    "title": "[GoogleNews] Beni confiscati alla mafia, la strada si allunga: il Comune di Catania lancia un terzo bando per l’affido - QdS",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/365"
-  },
-  {
-   "createdAt": "2026-08-12T06:53:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 364,
-   "title": "[GoogleNews] Regione Calabria: assunzione per manutentore del verde con licenza media o scuola dell'obbligo - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/364"
-  },
-  {
-   "createdAt": "2026-08-12T06:53:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 363,
-   "title": "[GoogleNews] Concorso Azienda Zero Calabria Tecnici laboratorio biomedico 2026: 31 posti a tempo indeterminato - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/363"
-  },
-  {
-   "createdAt": "2026-08-12T06:53:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 362,
-   "title": "[GoogleNews] Il concorso per scrittori e critici appassionati di architettura - Sky Arte",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/362"
-  },
-  {
-   "createdAt": "2026-08-11T06:28:02Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 361,
-   "title": "[GoogleNews] Chi supera il periodo di prova non sarà più cancellato dalle GM di altro concorso. Accolta la proposta della CISL Scuola - CISL Sc",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/361"
-  },
-  {
-   "createdAt": "2026-08-11T06:28:02Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 360,
-   "title": "[GoogleNews] Dirigenti scolastici: pubblicato il decreto con il contingente delle assunzioni per il 2026/2027 - uilscuola",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/360"
-  },
-  {
-   "createdAt": "2026-08-11T06:28:02Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 359,
-   "title": "[GoogleNews] Concorso straordinario docenti: dal “Ter” 2023 al PNRR3 e oltre - Docenti.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/359"
-  },
-  {
-   "createdAt": "2026-08-11T06:28:01Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 358,
-   "title": "[GoogleNews] Concorso da 38 posti nel Nord Italia a tempo indeterminato | tra i requisiti la terza media - Zazoom Social News",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/358"
-  },
-  {
-   "createdAt": "2026-08-11T06:28:01Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 357,
-   "title": "[GoogleNews] Roma, Conservatorio Santa Cecilia: concorso per informatici (personale ATA) - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/357"
-  },
-  {
-   "createdAt": "2026-08-11T06:28:00Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 356,
-   "title": "[GoogleNews] Concorsi pubblici in scadenza nella settimana di Ferragosto 2026 - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/356"
-  },
-  {
-   "createdAt": "2026-08-11T06:28:00Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 355,
-   "title": "[GoogleNews] Concorso Regione Calabria, oltre 700 idonei ancora in attesa: «Gli scorrimenti sono possibili, perché non si procede? - ReggioTV",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/355"
   }
  ]
 }
