@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-08-21T05:58:27+00:00",
+ "generated_at": "2026-08-22T05:54:11+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-08-22T05:54:10Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 474,
+   "title": "[GoogleNews] DSGA, immissioni in ruolo 2026/27 al via: come avvengono. Prima la procedura valutativa, poi il concorso ordinario. Gli avvisi USR",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/474"
+  },
+  {
+   "createdAt": "2026-08-22T05:54:09Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 473,
+   "title": "[GoogleNews] USR PUGLIA: ESITI TURNO IV IMMISSIONI IN RUOLO PERSONALE DOCENTE A.S. 2026/2027 -SCORRIMENTO GRADUATORIA CONCORSO - flp scuola fog",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/473"
+  },
+  {
+   "createdAt": "2026-08-22T05:54:09Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 472,
+   "title": "[GoogleNews] Concorso insegnanti 2026 requisiti e bandi: cosa è davvero aperto - Docenti.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/472"
+  },
+  {
+   "createdAt": "2026-08-22T05:54:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 471,
+   "title": "[GoogleNews] Concorso OSS ASP di Parma 2026 - 14 posti a tempo indeterminato - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/471"
+  },
+  {
+   "createdAt": "2026-08-22T05:54:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 470,
+   "title": "[GoogleNews] INPS: selezione pubblica per medici fiscali, lavoro in Liguria - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/470"
+  },
+  {
+   "createdAt": "2026-08-22T05:54:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 469,
+   "title": "[GoogleNews] Sardegna, Comune di Simaxis: concorso per istruttori amministrativi contabili, diplomati - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/469"
+  },
+  {
+   "createdAt": "2026-08-22T05:54:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 468,
+   "title": "[GoogleNews] Comune di Cremona: concorsi per 13 diplomati e laureati, tempo indeterminato - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/468"
+  },
+  {
+   "createdAt": "2026-08-22T05:54:06Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 467,
+   "title": "[GoogleNews] Comune di Foggia, concorso per Funzionario amministrativo: rinviata al 10 settembre ultima prova in asincrono - lattacco.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/467"
+  },
+  {
+   "createdAt": "2026-08-22T05:54:06Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 466,
+   "title": "[GoogleNews] Concorso a Foggia, la prova orale slitta al 10 settembre a causa dell'eruzione dell'Etna - CataniaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/466"
+  },
+  {
+   "createdAt": "2026-08-22T05:54:05Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 465,
+   "title": "[GoogleNews] Concorso Ministero Economia Finanze 2026 da 548 posti nel MEF - Nomina commissione e Come prepararti - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/465"
+  },
   {
    "createdAt": "2026-08-21T05:58:26Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 375,
    "title": "[GoogleNews] La scrittrice Maria Assunta Oddi premiata nel Concorso Internazionale di poesia inedita “Stromboli l'Isola dei Poeti” - Espression",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/375"
-  },
-  {
-   "createdAt": "2026-08-13T06:56:51Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 374,
-   "title": "[GoogleNews] Concorso pubblico per esami per l'assunzione di n. 46 agenti del Corpo Forestale della Regione Siciliana - | Regione Siciliana",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/374"
-  },
-  {
-   "createdAt": "2026-08-13T06:56:34Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 373,
-   "title": "INPS: Pensioni della Gestione pubblica: conclusa la verifica reddituale 2024 - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/373"
-  },
-  {
-   "createdAt": "2026-08-13T06:56:34Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 372,
-   "title": "INPS: Pensami – PENSione A MIsura: online la nuova versione del simulatore - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/372"
-  },
-  {
-   "createdAt": "2026-08-12T06:53:50Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 371,
-   "title": "[GoogleNews] Regione Basilicata: assunzioni per Addetti al protocollo e smistamento documenti, categorie protette - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/371"
-  },
-  {
-   "createdAt": "2026-08-12T06:53:49Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 370,
-   "title": "[GoogleNews] Assunzioni scuola 2026/2027, autorizzate oltre 61 mila immissioni in ruolo: posti disponibili, decreti e prossimi concorsi - conco",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/370"
-  },
-  {
-   "createdAt": "2026-08-12T06:53:49Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 369,
-   "title": "[GoogleNews] Selezioni Ministero della Giustizia: lavoro per medici, psicologi ed esperti in servizio sociale - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/369"
-  },
-  {
-   "createdAt": "2026-08-12T06:53:48Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 368,
-   "title": "[GoogleNews] INPS: selezione pubblica per medici, lavoro in Calabria - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/368"
-  },
-  {
-   "createdAt": "2026-08-12T06:53:48Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 367,
-   "title": "[GoogleNews] Emilia-Romagna, assunzioni a tempo indeterminato per addetti all’accoglienza sanitaria: basta l’obbligo scolastico - concorsi-pubb",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/367"
-  },
-  {
-   "createdAt": "2026-08-12T06:53:47Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 366,
-   "title": "[GoogleNews] Azienda Zero Calabria: concorso per 31 tecnici sanitari di laboratorio biomedico - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/366"
-  },
-  {
-   "createdAt": "2026-08-12T06:53:47Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 365,
-   "title": "[GoogleNews] Beni confiscati alla mafia, la strada si allunga: il Comune di Catania lancia un terzo bando per l’affido - QdS",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/365"
   }
  ]
 }
