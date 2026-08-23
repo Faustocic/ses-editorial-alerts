@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-08-22T05:54:11+00:00",
+ "generated_at": "2026-08-23T05:55:37+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-08-23T05:55:34Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 484,
+   "title": "[GoogleNews] Concorsi docenti, le precisazioni di Mario Pittoni: \"Bandi solo se le graduatorie sono vuote\" - Scuolainforma",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/484"
+  },
+  {
+   "createdAt": "2026-08-23T05:55:34Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 483,
+   "title": "[GoogleNews] Supplenze da GPS: nomine, province, punteggi e divari tra territori e classi di concorso. Lo studio dell'osservatorio ScuolaGo - T",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/483"
+  },
+  {
+   "createdAt": "2026-08-23T05:55:34Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 482,
+   "title": "[GoogleNews] Concorsi docenti, vincitori ancora a casa: “Il merito vale solo quando conviene?” - Scuolainforma",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/482"
+  },
+  {
+   "createdAt": "2026-08-23T05:55:34Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 481,
+   "title": "[GoogleNews] Cose da pazzi, anzi, peggio del 2015. Adesso basta con i concorsi fasulli - Tecnica della Scuola",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/481"
+  },
+  {
+   "createdAt": "2026-08-23T05:55:33Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 480,
+   "title": "[GoogleNews] SCUOLA / Busciglio e Peruzzi tra i nuovi presidi vincitori di concorso - TargatoCN",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/480"
+  },
+  {
+   "createdAt": "2026-08-23T05:55:33Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 479,
+   "title": "[GoogleNews] Concorsi pubblici, 199 i posti a bando tra Università, sanità e PA. Scopri dove e come fare domanda: scadenze il 27, 29 e 31 agost",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/479"
+  },
+  {
+   "createdAt": "2026-08-23T05:55:33Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 478,
+   "title": "[GoogleNews] Cerda, arte ed eleganza a cavallo: stasera il primo concorso “Arte, Eleganza e Sicilianità” - Dedalomultimedia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/478"
+  },
+  {
+   "createdAt": "2026-08-23T05:55:32Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 477,
+   "title": "[GoogleNews] Dichiarazione Ferdinando Cusimano (FI) – Partanna Mondello, rifiuti abbandonati e presenza di ratti: «Servizi allo sfascio, la giu",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/477"
+  },
+  {
+   "createdAt": "2026-08-23T05:55:32Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 476,
+   "title": "[GoogleNews] EPSO Concorsi e selezioni per lavorare nell’Unione Europea e come candidarsi - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/476"
+  },
+  {
+   "createdAt": "2026-08-23T05:55:32Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 475,
+   "title": "[GoogleNews] Enel assume a Roma, Milano e Catania: tempo indeterminato e stipendi fino a 53.000 euro - concorsipubblici.net",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/475"
+  },
   {
    "createdAt": "2026-08-22T05:54:10Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 385,
    "title": "[GoogleNews] Reggio Calabria, Festa di Madonna 2026: il Comune pubblica il bando per le bancarelle | INFO UTILI - StrettoWeb",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/385"
-  },
-  {
-   "createdAt": "2026-08-14T06:55:06Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 384,
-   "title": "[GoogleNews] Notizie - Avviso - Selezione pubblica per l'assegnazione di posteggi per l'attività fieristica in zona Pentimele in occasione dell",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/384"
-  },
-  {
-   "createdAt": "2026-08-13T06:56:56Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 383,
-   "title": "[GoogleNews] EGRIB: concorso per autisti e addetti al protocollo, in Basilicata - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/383"
-  },
-  {
-   "createdAt": "2026-08-13T06:56:56Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 382,
-   "title": "[GoogleNews] Sanità in Calabria. Azienda Zero lancia i nuovi concorsi, si cercano 111 medici: ecco le specializzazioni - informacalabria.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/382"
-  },
-  {
-   "createdAt": "2026-08-13T06:56:55Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 381,
-   "title": "[GoogleNews] Concorso Comune Capua Funzionari Tecnici e Amministrativi 2026: 3 posti a tempo indeterminato - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/381"
-  },
-  {
-   "createdAt": "2026-08-13T06:56:55Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 380,
-   "title": "[GoogleNews] Concorso Infermieri ASST Rhodense 2026: 10 posti a tempo indeterminato - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/380"
-  },
-  {
-   "createdAt": "2026-08-13T06:56:54Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 379,
-   "title": "[GoogleNews] Concorso Comune Sant'Anastasia Amministrativi 2026: 5 posti per Esperti, Funzionari e Istruttori - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/379"
-  },
-  {
-   "createdAt": "2026-08-13T06:56:54Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 378,
-   "title": "[GoogleNews] Sanità, concorsi di agosto: posti, requisiti e stipendi - Italia Informa",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/378"
-  },
-  {
-   "createdAt": "2026-08-13T06:56:53Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 377,
-   "title": "[GoogleNews] AST - UGL Sicilia: Bene lo sblocco delle assunzioni. Un primo passo per la dignità dei lavoratori e l’efficienza del servizio - Si",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/377"
-  },
-  {
-   "createdAt": "2026-08-13T06:56:52Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 376,
-   "title": "[GoogleNews] AST, UGL Sicilia: «Bene lo sblocco delle assunzioni, ora servono nuovi concorsi» - paesietneioggi.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/376"
-  },
-  {
-   "createdAt": "2026-08-13T06:56:52Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 375,
-   "title": "[GoogleNews] La scrittrice Maria Assunta Oddi premiata nel Concorso Internazionale di poesia inedita “Stromboli l'Isola dei Poeti” - Espression",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/375"
   }
  ]
 }
