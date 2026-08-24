@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-08-23T05:55:37+00:00",
+ "generated_at": "2026-08-24T06:03:59+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-08-24T06:03:58Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 494,
+   "title": "[GoogleNews] Concorsi docenti in 'standby': \"Ancora nessuna decisione sulla lunghezza dell'eventuale pausa\" - Scuolainforma",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/494"
+  },
+  {
+   "createdAt": "2026-08-24T06:03:58Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 493,
+   "title": "[GoogleNews] Docenti di ruolo e graduatorie PNRR: chi supera l’anno di prova mantiene la graduatoria del concorso successivo? - Scuolainforma",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/493"
+  },
+  {
+   "createdAt": "2026-08-24T06:03:58Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 492,
+   "title": "[GoogleNews] Graduatorie dei concorsi, stop alla cancellazione dopo la conferma in ruolo. Pillole di Question Time - Orizzonte Scuola Notizie",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/492"
+  },
+  {
+   "createdAt": "2026-08-24T06:03:57Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 491,
+   "title": "[GoogleNews] Supplenze docenti, le classi di concorso con meno candidati e il punteggio per essere chiamati dalla I fascia GPS - Scuolainforma",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/491"
+  },
+  {
+   "createdAt": "2026-08-24T06:03:57Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 490,
+   "title": "[GoogleNews] Classi di concorso in esubero 2026: effetti sulle assunzioni - Docenti.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/490"
+  },
+  {
+   "createdAt": "2026-08-24T06:03:57Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 489,
+   "title": "[GoogleNews] Docente vince il concorso su posto comune, non vuole abbandonare l'alunno con disabilità ma non può: lui scrive a Valditara - Tecn",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/489"
+  },
+  {
+   "createdAt": "2026-08-24T06:03:56Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 488,
+   "title": "[GoogleNews] Calabria, sanità venduta. Il Nue 112 nel mirino delle procure è diventato un problema: ecco perché nessuno può vincere quel concor",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/488"
+  },
+  {
+   "createdAt": "2026-08-24T06:03:56Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 487,
+   "title": "[GoogleNews] Idonei concorsi Calabria, cresce il sostegno alla battaglia per lo scorrimento delle graduatorie: la CISL apre il confronto sulla ",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/487"
+  },
+  {
+   "createdAt": "2026-08-24T06:03:56Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 486,
+   "title": "[GoogleNews] Concorso Ordine Farmacisti Enna per assistenti amministrativi - Lavoro e Concorsi",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/486"
+  },
+  {
+   "createdAt": "2026-08-24T06:03:55Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 485,
+   "title": "[GoogleNews] Reggio, la denuncia di un lettore: ‘Carcassa di cinghiale abbandonata da giorni sulla Ga-Ga’ - CityNow",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/485"
+  },
   {
    "createdAt": "2026-08-23T05:55:34Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 395,
    "title": "[GoogleNews] Concorso Unione Colline Matildiche Istruttori Amministrativi 2026: 8 posti per a tempo indeterminato - Concorsando.it",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/395"
-  },
-  {
-   "createdAt": "2026-08-15T05:51:52Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 394,
-   "title": "[GoogleNews] Ricercatore botanica: TAR annulla ancora commissione concorso - Sicilia ON Press",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/394"
-  },
-  {
-   "createdAt": "2026-08-14T06:55:09Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 393,
-   "title": "[GoogleNews] Selezioni pubbliche ISIA Urbino: lavoro per docenti in varie discipline, nelle Marche - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/393"
-  },
-  {
-   "createdAt": "2026-08-14T06:55:08Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 392,
-   "title": "[GoogleNews] Concorso Comune di Trieste: assunzioni per 12 istruttori tecnico manutentivi, geometri o periti edili - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/392"
-  },
-  {
-   "createdAt": "2026-08-14T06:55:08Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 391,
-   "title": "[GoogleNews] Puglia, Comune di Corato: selezioni per amministrativi, assunzioni di diplomati e laureati - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/391"
-  },
-  {
-   "createdAt": "2026-08-14T06:55:08Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 390,
-   "title": "[GoogleNews] Regione Umbria: concorso per 10 funzionari, basta la laurea triennale, stipendio 25mila euro - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/390"
-  },
-  {
-   "createdAt": "2026-08-14T06:55:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 389,
-   "title": "[GoogleNews] Comune di Milano: concorso per Archivisti, assunzioni a tempo indeterminato - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/389"
-  },
-  {
-   "createdAt": "2026-08-14T06:55:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 388,
-   "title": "[GoogleNews] ALES – Ministero Cultura: assunzioni per diplomati in Calabria e Lazio - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/388"
-  },
-  {
-   "createdAt": "2026-08-14T06:55:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 387,
-   "title": "[GoogleNews] Concorso Comune Modena Istruttori Polizia Locale da 18 posti – Ecco la graduatoria finale - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/387"
-  },
-  {
-   "createdAt": "2026-08-14T06:55:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 386,
-   "title": "[GoogleNews] Concorso Regione Umbria Funzionari Economici-Finanziari 2026: 10 posti a tempo indeterminato - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/386"
-  },
-  {
-   "createdAt": "2026-08-14T06:55:06Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 385,
-   "title": "[GoogleNews] Reggio Calabria, Festa di Madonna 2026: il Comune pubblica il bando per le bancarelle | INFO UTILI - StrettoWeb",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/385"
   }
  ]
 }
