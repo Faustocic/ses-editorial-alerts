@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-08-27T16:39:31+00:00",
+ "generated_at": "2026-08-28T17:37:55+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-08-28T17:37:53Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 544,
+   "title": "[GoogleNews] Concorsi Settembre 2026: 24 Bandi Disponibili per oltre 1200 posti - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/544"
+  },
+  {
+   "createdAt": "2026-08-28T17:37:53Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 543,
+   "title": "[GoogleNews] Concorso RIPAM Coesione sud 2026 per 882 Specialisti tecnici: Bando, requisiti, domanda - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/543"
+  },
+  {
+   "createdAt": "2026-08-28T17:37:53Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 542,
+   "title": "[GoogleNews] Concorso RIPAM: 882 posti a tempo indeterminato al Sud per specialisti tecnici, opportunità anche in Sicilia - QdS",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/542"
+  },
+  {
+   "createdAt": "2026-08-28T17:37:52Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 541,
+   "title": "[GoogleNews] Concorsi Isernia 2026 non scaduti – Tutti i bandi nella provincia - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/541"
+  },
+  {
+   "createdAt": "2026-08-28T17:37:51Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 540,
+   "title": "[GoogleNews] Concorso Sud 2026: 882 posti nella PA - TGWEBAI",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/540"
+  },
+  {
+   "createdAt": "2026-08-28T17:37:51Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 539,
+   "title": "[GoogleNews] Concorso Sud 2026, si cercano 882 specialisti tecnici negli enti locali - lentepubblica.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/539"
+  },
+  {
+   "createdAt": "2026-08-28T17:37:50Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 538,
+   "title": "[GoogleNews] Online il bando Ripam, si cercano tecnici per le amministrazioni del Mezzogiorno: maxi-concorso per 882 specialisti - Il Mattino",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/538"
+  },
+  {
+   "createdAt": "2026-08-28T17:37:50Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 537,
+   "title": "[GoogleNews] Mense scolastiche a Messina, c'è il bando per il nuovo anno - RTP - Gazzetta del Sud",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/537"
+  },
+  {
+   "createdAt": "2026-08-28T17:37:49Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 536,
+   "title": "[GoogleNews] Concorsi Pubblici Settembre 2026 per 1600 assunzioni: elenco dei Bandi con tutte le scadenze - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/536"
+  },
+  {
+   "createdAt": "2026-08-28T17:37:48Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 535,
+   "title": "[GoogleNews] Bucalo ( FdI): \"Grande opportunità per la Sicilia il bando RIPAM Coesione\". Come partecipare - l'Eco del Sud",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/535"
+  },
   {
    "createdAt": "2026-08-27T16:39:30Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 445,
    "title": "[GoogleNews] Concorso AUSL Parma Collaboratori Amministrativi 2026 - 5 posti a tempo indeterminato - concorsando.it",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/445"
-  },
-  {
-   "createdAt": "2026-08-19T05:56:49Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 444,
-   "title": "[GoogleNews] Concorso docenti: nuovi scorrimenti in Friuli Venezia Giulia - News Istruzione",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/444"
-  },
-  {
-   "createdAt": "2026-08-19T05:56:48Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 443,
-   "title": "[GoogleNews] Posti mini call veloce 2026, in quali regioni e per quali classi di concorso? Lo schema in aggiornamento - Tecnica della Scuola",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/443"
-  },
-  {
-   "createdAt": "2026-08-19T05:56:48Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 442,
-   "title": "[GoogleNews] Concorso Aeronautica Allievi Ufficiali AUPC e AUFP 2026: 50 posti per diplomati e laureati - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/442"
-  },
-  {
-   "createdAt": "2026-08-19T05:56:47Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 441,
-   "title": "[GoogleNews] Borse di studio 2026 per studenti messe a concorso dall'associazione \"Nel Sorriso di Valeria\" - Comune di San Miniato",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/441"
-  },
-  {
-   "createdAt": "2026-08-19T05:56:47Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 440,
-   "title": "[GoogleNews] Concorso STEM: quali materie e classi di concorso rientrano? - Docenti.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/440"
-  },
-  {
-   "createdAt": "2026-08-19T05:56:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 439,
-   "title": "[GoogleNews] Assunzioni pubbliche 2026: quali sono le posizioni aperte? - La Legge per tutti",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/439"
-  },
-  {
-   "createdAt": "2026-08-19T05:56:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 438,
-   "title": "[GoogleNews] Sicilia, Conservatorio di Catania: selezioni pubbliche per docenti in varie materie - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/438"
-  },
-  {
-   "createdAt": "2026-08-19T05:56:45Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 437,
-   "title": "[GoogleNews] Selezioni Miss Italia Calabria: sul podio anche una reggina - ReggioToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/437"
-  },
-  {
-   "createdAt": "2026-08-19T05:56:44Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 436,
-   "title": "[GoogleNews] Lo scandalo del concorso che aveva già i vincitori all'ospedale Civico di Palermo - TAG24 by Unicusano",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/436"
-  },
-  {
-   "createdAt": "2026-08-19T05:56:44Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 435,
-   "title": "[GoogleNews] AST – UGL Sicilia: Bene lo sblocco delle assunzioni. Primo passo per dignità dei lavoratori ed efficienza di servizio - canicattiw",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/435"
   }
  ]
 }
