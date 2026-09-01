@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-08-31T11:45:44+00:00",
+ "generated_at": "2026-09-01T10:21:00+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-09-01T10:20:59Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 590,
+   "title": "[GoogleNews] Ospedale di Verona: assunzioni per 10 coadiutori amministrativi con scuola dell’obbligo - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/590"
+  },
+  {
+   "createdAt": "2026-09-01T10:20:59Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 589,
+   "title": "[GoogleNews] Conservatorio di Musica di Pesaro: selezioni per l’assunzione di docenti - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/589"
+  },
+  {
+   "createdAt": "2026-09-01T10:20:59Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 588,
+   "title": "[GoogleNews] Policlinico di Palermo: 29 assunzioni a tempo indeterminato per amministrativi - concorsi-pubblici.org",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/588"
+  },
+  {
+   "createdAt": "2026-09-01T10:20:58Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 587,
+   "title": "[GoogleNews] Salerno, Comune di Castelnuovo Cilento: concorso per diplomati e laureati - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/587"
+  },
+  {
+   "createdAt": "2026-09-01T10:20:58Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 586,
+   "title": "[GoogleNews] Comune di Busto Arsizio: concorsi per diplomati e laureati, ambito amministrativo - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/586"
+  },
+  {
+   "createdAt": "2026-09-01T10:20:58Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 585,
+   "title": "[GoogleNews] Concorso Comune Nettuno Licenze NCC da 15 autorizzazioni: la nomina della commissione è in corso e le prove si avvicineranno - con",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/585"
+  },
+  {
+   "createdAt": "2026-09-01T10:20:57Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 584,
+   "title": "[GoogleNews] Calabria, Conservatorio di musica di Cosenza: concorsi per docenti, assunzioni a tempo indeterminato - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/584"
+  },
+  {
+   "createdAt": "2026-09-01T10:20:57Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 583,
+   "title": "[GoogleNews] Concorsi pubblici, tutti i bandi in scadenza a settembre 2026 - tg24.sky.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/583"
+  },
+  {
+   "createdAt": "2026-09-01T10:20:56Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 582,
+   "title": "[GoogleNews] Sicilia. Concorsi, il 22 e 23 settembre le prove asincrone per le candidate in gravidanza. Ingala: «Doveroso tutelare la maternità",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/582"
+  },
+  {
+   "createdAt": "2026-09-01T10:20:56Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 581,
+   "title": "[GoogleNews] Concorsi regionali, prove rinviate per 50 candidate in gravidanza: nuove date il 22 e 23 settembre - NewSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/581"
+  },
   {
    "createdAt": "2026-08-31T11:45:43Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 491,
    "title": "[GoogleNews] Supplenze docenti, le classi di concorso con meno candidati e il punteggio per essere chiamati dalla I fascia GPS - Scuolainforma",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/491"
-  },
-  {
-   "createdAt": "2026-08-24T06:03:57Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 490,
-   "title": "[GoogleNews] Classi di concorso in esubero 2026: effetti sulle assunzioni - Docenti.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/490"
-  },
-  {
-   "createdAt": "2026-08-24T06:03:57Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 489,
-   "title": "[GoogleNews] Docente vince il concorso su posto comune, non vuole abbandonare l'alunno con disabilità ma non può: lui scrive a Valditara - Tecn",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/489"
-  },
-  {
-   "createdAt": "2026-08-24T06:03:56Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 488,
-   "title": "[GoogleNews] Calabria, sanità venduta. Il Nue 112 nel mirino delle procure è diventato un problema: ecco perché nessuno può vincere quel concor",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/488"
-  },
-  {
-   "createdAt": "2026-08-24T06:03:56Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 487,
-   "title": "[GoogleNews] Idonei concorsi Calabria, cresce il sostegno alla battaglia per lo scorrimento delle graduatorie: la CISL apre il confronto sulla ",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/487"
-  },
-  {
-   "createdAt": "2026-08-24T06:03:56Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 486,
-   "title": "[GoogleNews] Concorso Ordine Farmacisti Enna per assistenti amministrativi - Lavoro e Concorsi",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/486"
-  },
-  {
-   "createdAt": "2026-08-24T06:03:55Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 485,
-   "title": "[GoogleNews] Reggio, la denuncia di un lettore: ‘Carcassa di cinghiale abbandonata da giorni sulla Ga-Ga’ - CityNow",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/485"
-  },
-  {
-   "createdAt": "2026-08-23T05:55:34Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 484,
-   "title": "[GoogleNews] Concorsi docenti, le precisazioni di Mario Pittoni: \"Bandi solo se le graduatorie sono vuote\" - Scuolainforma",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/484"
-  },
-  {
-   "createdAt": "2026-08-23T05:55:34Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 483,
-   "title": "[GoogleNews] Supplenze da GPS: nomine, province, punteggi e divari tra territori e classi di concorso. Lo studio dell'osservatorio ScuolaGo - T",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/483"
-  },
-  {
-   "createdAt": "2026-08-23T05:55:34Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 482,
-   "title": "[GoogleNews] Concorsi docenti, vincitori ancora a casa: “Il merito vale solo quando conviene?” - Scuolainforma",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/482"
-  },
-  {
-   "createdAt": "2026-08-23T05:55:34Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 481,
-   "title": "[GoogleNews] Cose da pazzi, anzi, peggio del 2015. Adesso basta con i concorsi fasulli - Tecnica della Scuola",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/481"
   }
  ]
 }
