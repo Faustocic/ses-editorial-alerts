@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-09-01T10:21:00+00:00",
+ "generated_at": "2026-09-02T09:49:38+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-09-02T09:49:36Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 600,
+   "title": "[GoogleNews] Concorsi pubblici in Sicilia, il 22 e 23 settembre le prove asincrone per le candidate in gravidanza - CataniaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/600"
+  },
+  {
+   "createdAt": "2026-09-02T09:49:36Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 599,
+   "title": "[GoogleNews] Concorso Infermieri Pio Albergo Trivulzio a Milano da 20 posti: Nessun candidato alla prova orale, la procedura è andata deserta -",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/599"
+  },
+  {
+   "createdAt": "2026-09-02T09:49:35Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 598,
+   "title": "[GoogleNews] Pio Albergo Trivulzio di Milano: concorsi per 35 OSS e Fisioterapisti - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/598"
+  },
+  {
+   "createdAt": "2026-09-02T09:49:35Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 597,
+   "title": "[GoogleNews] Accademia di Belle Arti dell’Aquila: selezione per docenti di Grafica d’Arte - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/597"
+  },
+  {
+   "createdAt": "2026-09-02T09:49:34Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 596,
+   "title": "[GoogleNews] Vicenza, Casa di riposo Alessandro Rossi: selezione per fisioterapisti con solo prova orale - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/596"
+  },
+  {
+   "createdAt": "2026-09-02T09:49:34Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 595,
+   "title": "[GoogleNews] ARERA: concorso per 10 laureati in economia o ingegneria, funzionari, stipendio oltre 60mila euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/595"
+  },
+  {
+   "createdAt": "2026-09-02T09:49:33Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 594,
+   "title": "[GoogleNews] Università di Milano Bicocca: concorso per 4 diplomati, collaboratori tecnici - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/594"
+  },
+  {
+   "createdAt": "2026-09-02T09:49:33Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 593,
+   "title": "[GoogleNews] Le opportunità di lavoro in Sicilia, i concorsi e i bandi di settembre 2026 - QdS",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/593"
+  },
+  {
+   "createdAt": "2026-09-02T09:49:32Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 592,
+   "title": "[GoogleNews] Concorso Ast, al via le domande per 73 nuove assunzioni - Diretta Sicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/592"
+  },
+  {
+   "createdAt": "2026-09-02T09:49:32Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 591,
+   "title": "[GoogleNews] L’Ast cerca personale, al via il concorso per 73 autisti - Siracusa Press",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/591"
+  },
   {
    "createdAt": "2026-09-01T10:20:59Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 501,
    "title": "[GoogleNews] Cadavere abbandonato dentro un sacco nero, puzza e mosche nella camera mortuaria di via La Loggia: arrivano i Nas - PalermoToday",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/501"
-  },
-  {
-   "createdAt": "2026-08-25T05:58:19Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 500,
-   "title": "[GoogleNews] Cerda, successo per il Concorso Equestre “Arte, Eleganza e Sicilianità - TeleVideo Himera",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/500"
-  },
-  {
-   "createdAt": "2026-08-25T05:58:18Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 499,
-   "title": "[GoogleNews] Maxi concorso RIPAM in molte Regioni, 882 impiegati tecnici a tempo indeterminato: una sola prova scritta - concorsipubblici.net",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/499"
-  },
-  {
-   "createdAt": "2026-08-25T05:58:18Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 498,
-   "title": "[GoogleNews] “Fotografa le tradizioni di Petralia Soprana”, il tema della VIII edizione del concorso fotografico il Borgo più bello d’Italia in",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/498"
-  },
-  {
-   "createdAt": "2026-08-25T05:58:17Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 497,
-   "title": "[GoogleNews] Caso Malattie infettive, l'ex primario Pulvirenti fa chiarezza: \"Il concorso deserto? Conseguenza di una scelta sbagliata\" - Agrig",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/497"
-  },
-  {
-   "createdAt": "2026-08-25T05:58:17Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 496,
-   "title": "[GoogleNews] Sos per i Beni culturali, la Regione prepara un maxi concorso - la Repubblica",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/496"
-  },
-  {
-   "createdAt": "2026-08-25T05:57:58Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 495,
-   "title": "[Scadenzario] #9 Scadenze fiscali — settembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/495"
-  },
-  {
-   "createdAt": "2026-08-24T06:03:58Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 494,
-   "title": "[GoogleNews] Concorsi docenti in 'standby': \"Ancora nessuna decisione sulla lunghezza dell'eventuale pausa\" - Scuolainforma",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/494"
-  },
-  {
-   "createdAt": "2026-08-24T06:03:58Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 493,
-   "title": "[GoogleNews] Docenti di ruolo e graduatorie PNRR: chi supera l’anno di prova mantiene la graduatoria del concorso successivo? - Scuolainforma",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/493"
-  },
-  {
-   "createdAt": "2026-08-24T06:03:58Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 492,
-   "title": "[GoogleNews] Graduatorie dei concorsi, stop alla cancellazione dopo la conferma in ruolo. Pillole di Question Time - Orizzonte Scuola Notizie",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/492"
-  },
-  {
-   "createdAt": "2026-08-24T06:03:57Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 491,
-   "title": "[GoogleNews] Supplenze docenti, le classi di concorso con meno candidati e il punteggio per essere chiamati dalla I fascia GPS - Scuolainforma",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/491"
   }
  ]
 }
