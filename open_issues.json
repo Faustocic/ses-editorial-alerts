@@ -1,6 +1,160 @@
 {
- "generated_at": "2026-09-02T09:49:38+00:00",
+ "generated_at": "2026-09-03T10:01:17+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-09-03T10:01:16Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 611,
+   "title": "[GoogleNews] tutti i bandi in scadenza a giugno 2026 - concorsi-pubblici.org",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/611"
+  },
+  {
+   "createdAt": "2026-09-03T10:01:15Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 610,
+   "title": "[GoogleNews] Liguria, Comune di Ventimiglia: concorso per operatori disabili diplomati - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/610"
+  },
+  {
+   "createdAt": "2026-09-03T10:01:15Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 609,
+   "title": "[GoogleNews] Concorso Castagneto Carducci Comune per tecnici 2026: 2 posti per informatici e Manutentori - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/609"
+  },
+  {
+   "createdAt": "2026-09-03T10:01:14Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 608,
+   "title": "[GoogleNews] Nuovi concorsi di Azienda Zero per la sanità in Calabria - Ntacalabria.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/608"
+  },
+  {
+   "createdAt": "2026-09-03T10:01:13Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 607,
+   "title": "[GoogleNews] Calanna, torna il concorso di pittura “Incontro con gli emigranti”: appuntamento il 19 settembre - StrettoWeb",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/607"
+  },
+  {
+   "createdAt": "2026-09-03T10:01:13Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 606,
+   "title": "[GoogleNews] Assunzioni nelle università, Messina cresce del 63% ma resta dietro a Catania e Palermo - MessinaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/606"
+  },
+  {
+   "createdAt": "2026-09-03T10:01:12Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 605,
+   "title": "[GoogleNews] Emergenza abitativa, a Messina il bando per gli alloggi Etr resta fermo: Gioveni chiede conto delle assegnazioni - MessinaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/605"
+  },
+  {
+   "createdAt": "2026-09-03T10:01:12Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 604,
+   "title": "[GoogleNews] Ast Sicilia, sblocco bando 73 assunzioni - Video Regione",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/604"
+  },
+  {
+   "createdAt": "2026-09-03T10:01:11Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 603,
+   "title": "[GoogleNews] Concorsi: prove asincrone per le candidate in gravidanza, Ingala: \"Doveroso tutelare la maternità\" - AgrigentoNotizie",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/603"
+  },
+  {
+   "createdAt": "2026-09-03T10:01:11Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 602,
+   "title": "[GoogleNews] Concorso tecnici enti locali, 882 posti a tempo indeterminato in Regioni, Comuni e Aree Metropolitane nel Sud Italia: quali sono,.",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/602"
+  },
+  {
+   "createdAt": "2026-09-03T10:00:54Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 601,
+   "title": "[Scadenzario] #D Sessione D — revisione Search Console — settembre 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/601"
+  },
   {
    "createdAt": "2026-09-02T09:49:36Z",
    "labels": [
@@ -1246,160 +1400,6 @@
    "number": 512,
    "title": "[GoogleNews] Concorso Ripam Coesione Specialisti Tecnici Laureati 2026: 882 posti a tempo indeterminato nel Sud Italia - Concorsando.it",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/512"
-  },
-  {
-   "createdAt": "2026-08-26T05:59:56Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 511,
-   "title": "[GoogleNews] Concorso Ripam Coesione 2026, indetto bando per 882 specialisti - Sky TG24",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/511"
-  },
-  {
-   "createdAt": "2026-08-26T05:59:56Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 510,
-   "title": "[GoogleNews] Concorso ASMEL 2026: i Comuni aderenti in Sicilia - LiveUnict",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/510"
-  },
-  {
-   "createdAt": "2026-08-26T05:59:55Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 509,
-   "title": "[GoogleNews] Professioni sanitarie: 38mila posti a bando, al via le domande d’ammissione - Il Sole 24 ORE",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/509"
-  },
-  {
-   "createdAt": "2026-08-26T05:59:55Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 508,
-   "title": "[GoogleNews] Bando IMPACT Reggio Calabria 2026: fino a 300.000€ a Fondo Perduto per Assumere Categorie Svantaggiate - Incentivimpresa",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/508"
-  },
-  {
-   "createdAt": "2026-08-26T05:59:43Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 507,
-   "title": "[Scadenzario] #1 Pagamenti INPS (hub) — settembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/507"
-  },
-  {
-   "createdAt": "2026-08-26T05:59:42Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 506,
-   "title": "[Scadenzario] #2 Pensioni — settembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/506"
-  },
-  {
-   "createdAt": "2026-08-25T05:58:21Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 505,
-   "title": "[GoogleNews] Vannacci, nel suo programma spuntano le \"quote azzurre\" nei concorsi pubblici: posti riservati a chi ha tanti figli, ma c'è un cor",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/505"
-  },
-  {
-   "createdAt": "2026-08-25T05:58:20Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 504,
-   "title": "[GoogleNews] Selezioni all’estero, prevista una nuova tornata per altre classi di concorso. Pillole di Question Time - Orizzonte Scuola Notizie",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/504"
-  },
-  {
-   "createdAt": "2026-08-25T05:58:20Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 503,
-   "title": "[GoogleNews] Concorso RIPAM COESIONE Sud: bando per oltre 800 unità - concorsi-pubblici.org",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/503"
-  },
-  {
-   "createdAt": "2026-08-25T05:58:20Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 502,
-   "title": "[GoogleNews] Concorso RIPAM Coesione 2026: pubblicato il bando per 882 Specialisti tecnici a tempo indeterminato - Simone Concorsi",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/502"
-  },
-  {
-   "createdAt": "2026-08-25T05:58:19Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 501,
-   "title": "[GoogleNews] Cadavere abbandonato dentro un sacco nero, puzza e mosche nella camera mortuaria di via La Loggia: arrivano i Nas - PalermoToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/501"
   }
  ]
 }
