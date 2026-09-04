@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-09-03T10:01:17+00:00",
+ "generated_at": "2026-09-04T09:51:47+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-09-04T09:51:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 621,
+   "title": "[GoogleNews] Presentato l’11° Concorso Internazionale dei Madonnari – Città di Taurianova - Telemia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/621"
+  },
+  {
+   "createdAt": "2026-09-04T09:51:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 620,
+   "title": "[GoogleNews] Azienda Zero Calabria: nuovo concorso per 32 ostetriche, assunzioni presso varie sedi di lavoro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/620"
+  },
+  {
+   "createdAt": "2026-09-04T09:51:45Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 619,
+   "title": "[GoogleNews] Emergenza abitativa, a Messina il bando per gli alloggi Erp resta fermo: Gioveni chiede conto delle assegnazioni - MessinaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/619"
+  },
+  {
+   "createdAt": "2026-09-04T09:51:45Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 618,
+   "title": "[GoogleNews] Inchiesta su Cuffaro, il gip archivia la parte relativa al concorso contestato - wltv.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/618"
+  },
+  {
+   "createdAt": "2026-09-04T09:51:45Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 617,
+   "title": "[GoogleNews] Cuffaro, il gip archivia l’ultimo filone: cade anche l’accusa sul concorso - Sicilia L'Identità -",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/617"
+  },
+  {
+   "createdAt": "2026-09-04T09:51:45Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 616,
+   "title": "[GoogleNews] Inchiesta Cuffaro, il Gip dispone nuove archiviazioni: chiusa l’accusa sulla turbativa del concorso - NewSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/616"
+  },
+  {
+   "createdAt": "2026-09-04T09:51:44Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 615,
+   "title": "[GoogleNews] Concorso RIPAM Coesione 2026, 882 posti tecnici al Sud - PMI.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/615"
+  },
+  {
+   "createdAt": "2026-09-04T09:51:44Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 614,
+   "title": "[GoogleNews] Ci sono 24 concorsi pubblici per 1.284 posti di lavoro a tempo indeterminato: tutti i bandi che scadono a settembre - CataniaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/614"
+  },
+  {
+   "createdAt": "2026-09-04T09:51:43Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 613,
+   "title": "[GoogleNews] Bando per 882 posti da specialisti tecnici nel Mezzogiorno: l'opportunità dalle Regioni ai Comuni - Il Mattino",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/613"
+  },
+  {
+   "createdAt": "2026-09-04T09:51:43Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 612,
+   "title": "[GoogleNews] Concorso RIPAM Coesione 2026: 269 posti in Sicilia - LiveUniCT – Notizie su Catania e Università",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/612"
+  },
   {
    "createdAt": "2026-09-03T10:01:16Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 522,
    "title": "INPS: Roma, 26 agosto 2026 ASSEGNO UNICO UNIVERSALE: nel primo semestre del 2026 erogati 9,9 miliardi euro, con riferimento a ",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/522"
-  },
-  {
-   "createdAt": "2026-08-27T16:39:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 521,
-   "title": "INPS: INPS: pensioni in pagamento dal 1° settembre, le novità del cedolino Proseguono i conguagli del modello 730/2026 - Porta",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/521"
-  },
-  {
-   "createdAt": "2026-08-27T16:39:06Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 520,
-   "title": "INPS: 4077 - INPS: pensioni in pagamento dal 1° settembre, le novità del cedolino | Dettaglio Comunicato Stampa - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/520"
-  },
-  {
-   "createdAt": "2026-08-27T16:39:06Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 519,
-   "title": "INPS: Assegno unico e universale: l’Osservatorio con i dati di giugno 2026 - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/519"
-  },
-  {
-   "createdAt": "2026-08-27T16:39:05Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 518,
-   "title": "INPS: Pensionati: il cedolino di pensione di settembre 2026 - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/518"
-  },
-  {
-   "createdAt": "2026-08-26T05:59:59Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 517,
-   "title": "[GoogleNews] CONCORSO DOCENTI PNRR3: PUBBLICAZIONE DELLE GRADUATORIE - Formazione Anicia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/517"
-  },
-  {
-   "createdAt": "2026-08-26T05:59:58Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 516,
-   "title": "[GoogleNews] Vince il concorso docenti a 23 anni, la storia di un'insegnante di musica di Lamezia Terme: \"Per me è una missione\" - Tecnica dell",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/516"
-  },
-  {
-   "createdAt": "2026-08-26T05:59:58Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 515,
-   "title": "[GoogleNews] Concorso RIPAM Coesione sud 2026 per 882 Specialisti tecnici: Bando, requisiti, domanda - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/515"
-  },
-  {
-   "createdAt": "2026-08-26T05:59:57Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 514,
-   "title": "[GoogleNews] Concorso RIPAM: 882 posti a tempo indeterminato al Sud per specialisti tecnici, opportunità anche in Sicilia - QdS",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/514"
-  },
-  {
-   "createdAt": "2026-08-26T05:59:57Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 513,
-   "title": "[GoogleNews] Quiz Concorso RIPAM Coesione SUD Italia Specialisti Tecnici 2026 – Banca dati di esercitazione - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/513"
-  },
-  {
-   "createdAt": "2026-08-26T05:59:57Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 512,
-   "title": "[GoogleNews] Concorso Ripam Coesione Specialisti Tecnici Laureati 2026: 882 posti a tempo indeterminato nel Sud Italia - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/512"
   }
  ]
 }
