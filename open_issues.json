@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-09-04T09:51:47+00:00",
+ "generated_at": "2026-09-05T09:14:03+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-09-05T09:14:00Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 631,
+   "title": "[GoogleNews] Concorso Agenti Polizia Provinciale Ragusa da 12 posti: 1097 candidati ammessi con riserva alla preselettiva - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/631"
+  },
+  {
+   "createdAt": "2026-09-05T09:14:00Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 630,
+   "title": "[GoogleNews] Concorso IRCCS Oasi Maria Sanitari da 47 posti: Ecco come prepararsi alle prove - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/630"
+  },
+  {
+   "createdAt": "2026-09-05T09:13:59Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 629,
+   "title": "[GoogleNews] Concorso RIPAM Coesione sud 2026 per 882 Specialisti tecnici: Bando, requisiti, domanda - antoniodepoli.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/629"
+  },
+  {
+   "createdAt": "2026-09-05T09:13:59Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 628,
+   "title": "[GoogleNews] Concorso RIPAM Coesione 2026, arrivano 882 posti al Sud a tempo indeterminato - Studenti.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/628"
+  },
+  {
+   "createdAt": "2026-09-05T09:13:58Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 627,
+   "title": "[GoogleNews] Concorso per Comuni e Città Metropolitane, 269 posti in Sicilia: le figure e i requisiti - Balarm.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/627"
+  },
+  {
+   "createdAt": "2026-09-05T09:13:58Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 626,
+   "title": "[GoogleNews] Alloggi popolari a Messina, interrogazione di Gioveni: “che fine ha fatto la riapertura del bando?” - StrettoWeb",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/626"
+  },
+  {
+   "createdAt": "2026-09-05T09:13:57Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 625,
+   "title": "[GoogleNews] Nuovo mercato coperto di Ballarò il Comune di Palermo sospende il bando I commercianti sul piede di guerra | Non lascio il mio pos",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/625"
+  },
+  {
+   "createdAt": "2026-09-05T09:13:57Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 624,
+   "title": "[GoogleNews] Puglia, Comune di Crispiano: concorso per diplomati tecnici, geometri o C.A.T. - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/624"
+  },
+  {
+   "createdAt": "2026-09-05T09:13:56Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 623,
+   "title": "[GoogleNews] Concorso Comune Trieste Istruttori Amministrativi 2026 da 10 posti: Esiti rinvenibili a breve - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/623"
+  },
+  {
+   "createdAt": "2026-09-05T09:13:55Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 622,
+   "title": "[GoogleNews] Sicilia, domani sarà pubblicato il bando relativo al Piano Faunistico Venatorio - cacciapassione.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/622"
+  },
   {
    "createdAt": "2026-09-04T09:51:46Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 532,
    "title": "[GoogleNews] Concorso Ripam Coesione Specialisti Tecnici Laureati 2026: 882 posti a tempo indeterminato nel Sud Italia - Concorsando.it",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/532"
-  },
-  {
-   "createdAt": "2026-08-27T16:39:29Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 531,
-   "title": "[GoogleNews] Concorso RIPAM Coesione 2026: bando da 882 posti, anche in Sicilia - LiveUniCT – Notizie su Catania e Università",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/531"
-  },
-  {
-   "createdAt": "2026-08-27T16:39:28Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 530,
-   "title": "[GoogleNews] Concorsi Molise 2026 – Tutti i bandi nella regione a cui partecipare - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/530"
-  },
-  {
-   "createdAt": "2026-08-27T16:39:28Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 529,
-   "title": "[GoogleNews] Concorso Ripam Coesione 2026, indetto bando per 882 specialisti - Sky TG24",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/529"
-  },
-  {
-   "createdAt": "2026-08-27T16:39:28Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 528,
-   "title": "[GoogleNews] Concorso ASMEL 2026: i Comuni aderenti in Sicilia - LiveUniCT – Notizie su Catania e Università",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/528"
-  },
-  {
-   "createdAt": "2026-08-27T16:39:27Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 527,
-   "title": "[GoogleNews] Professioni sanitarie, 38 mila posti a bando - Panorama della Sanità",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/527"
-  },
-  {
-   "createdAt": "2026-08-27T16:39:27Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 526,
-   "title": "[GoogleNews] Abitare sociale, riacquisite tre unità immobiliari e assegnate alle prime famiglie della graduatoria dell’emergenza abitativa Ferr",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/526"
-  },
-  {
-   "createdAt": "2026-08-27T16:39:26Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 525,
-   "title": "[GoogleNews] Cefpas Caltanissetta, Turturici scrive alla nuova direttrice: \"Riattivi subito i concorsi sospesi dando spazio alla meritocrazia\" ",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/525"
-  },
-  {
-   "createdAt": "2026-08-27T16:39:08Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 524,
-   "title": "[Scadenzario] #1 Pagamenti INPS (hub) — settembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/524"
-  },
-  {
-   "createdAt": "2026-08-27T16:39:08Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 523,
-   "title": "[Scadenzario] #2 Pensioni — settembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/523"
-  },
-  {
-   "createdAt": "2026-08-27T16:39:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 522,
-   "title": "INPS: Roma, 26 agosto 2026 ASSEGNO UNICO UNIVERSALE: nel primo semestre del 2026 erogati 9,9 miliardi euro, con riferimento a ",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/522"
   }
  ]
 }
