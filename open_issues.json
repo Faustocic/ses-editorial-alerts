@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-09-06T09:35:39+00:00",
+ "generated_at": "2026-09-07T10:37:57+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-09-07T10:37:55Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 651,
+   "title": "[GoogleNews] Concorso Funzionari Statistici Regione Calabria, 32 idonei al palo da 16 mesi: \"Graduatoria a rischio scadenza\" - quicosenza",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/651"
+  },
+  {
+   "createdAt": "2026-09-07T10:37:55Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 650,
+   "title": "[GoogleNews] Concorsi Calabria, Idonei contro lo \"Svuota-Norme\" - LameziaTerme.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/650"
+  },
+  {
+   "createdAt": "2026-09-07T10:37:54Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 649,
+   "title": "[GoogleNews] Concorsi in scadenza a settembre: 1.063 posti a bando destinati ad aumentare - QuiFinanza",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/649"
+  },
+  {
+   "createdAt": "2026-09-07T10:37:54Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 648,
+   "title": "[GoogleNews] Graduatorie vicine alla scadenza in Regione Calabria: l'allarme dei 700 idonei rimasti al palo - Calabria Diretta News",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/648"
+  },
+  {
+   "createdAt": "2026-09-07T10:37:53Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 647,
+   "title": "[GoogleNews] Sanità, nuovi concorsi in Calabria: 33 assunzioni a tempo indeterminato - Esperia Tv",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/647"
+  },
+  {
+   "createdAt": "2026-09-07T10:37:53Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 646,
+   "title": "[GoogleNews] Docenti idonei PNRR, i numeri della Sicilia riaccendono il confronto sulle stabilizzazioni: “Serve lo scorrimento pieno degli elen",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/646"
+  },
+  {
+   "createdAt": "2026-09-07T10:37:52Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 645,
+   "title": "[GoogleNews] Concorsi Pubblici Campania settembre 2026: i bandi aperti in questa settimana - Napolike.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/645"
+  },
+  {
+   "createdAt": "2026-09-07T10:37:52Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 644,
+   "title": "[GoogleNews] Concorsi settembre 2026, i bandi ancora aperti - affaritaliani.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/644"
+  },
+  {
+   "createdAt": "2026-09-07T10:37:51Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 643,
+   "title": "[GoogleNews] Concorso Banca Italia Esperti e Assistenti da 160 posti: Risultati prova scritta A e B - Graduatoria finale C - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/643"
+  },
+  {
+   "createdAt": "2026-09-07T10:37:51Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 642,
+   "title": "[GoogleNews] Concorso Comune di Firenze Autisti, Polizia e per profili Tecnici da 73 posti: Graduatorie finali - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/642"
+  },
   {
    "createdAt": "2026-09-06T09:35:38Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 552,
    "title": "[GoogleNews] Concorso docenti: confermato l'obbligo di anonimato nelle prove scritte/pratiche - Formazione Anicia",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/552"
-  },
-  {
-   "createdAt": "2026-08-29T11:45:32Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 551,
-   "title": "[GoogleNews] Docenti di ruolo e idonei: \"Il concorso che abbiamo superato deve avere un valore\" - Scuolainforma",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/551"
-  },
-  {
-   "createdAt": "2026-08-29T11:45:31Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 550,
-   "title": "[GoogleNews] L'ARUS Campania ha pubblicato un concorso da 12 posti per istruttori amministrativi con diploma - Simone Concorsi",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/550"
-  },
-  {
-   "createdAt": "2026-08-29T11:45:31Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 549,
-   "title": "[GoogleNews] CONCORSO DOCENTI PNRR3: PUBBLICAZIONE DELLE GRADUATORIE - Formazione Anicia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/549"
-  },
-  {
-   "createdAt": "2026-08-29T11:45:30Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 548,
-   "title": "[GoogleNews] Dirigenti scolastici, assegnate le sedi ai primi nuovi assunti del concorso - Ufficio Stampa della Provincia autonoma di Trento",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/548"
-  },
-  {
-   "createdAt": "2026-08-29T11:45:30Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 547,
-   "title": "[GoogleNews] NUOVI SETTORI SCIENTIFICO DISCIPLINARI PER L'ACCESSO ALLE CLASSI DI CONCORSO: ATTIVATO DALLA FLP SCUOLA IL SERVIZIO PER LA VERIFIC",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/547"
-  },
-  {
-   "createdAt": "2026-08-29T11:45:29Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 546,
-   "title": "[GoogleNews] Concorso RIPAM, 882 posti a tempo indeterminato nel Mezzogiorno: assunzioni per specialisti tecnici - Pagina 3 di 3 - Sicilianews2",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/546"
-  },
-  {
-   "createdAt": "2026-08-29T11:45:29Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 545,
-   "title": "[GoogleNews] Ricordando Serena Barone, l'attrice scomparsa un anno fa: nasce un bando per giovani artisti - PalermoToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/545"
-  },
-  {
-   "createdAt": "2026-08-28T17:37:53Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 544,
-   "title": "[GoogleNews] Concorsi Settembre 2026: 24 Bandi Disponibili per oltre 1200 posti - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/544"
-  },
-  {
-   "createdAt": "2026-08-28T17:37:53Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 543,
-   "title": "[GoogleNews] Concorso RIPAM Coesione sud 2026 per 882 Specialisti tecnici: Bando, requisiti, domanda - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/543"
-  },
-  {
-   "createdAt": "2026-08-28T17:37:53Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 542,
-   "title": "[GoogleNews] Concorso RIPAM: 882 posti a tempo indeterminato al Sud per specialisti tecnici, opportunità anche in Sicilia - QdS",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/542"
   }
  ]
 }
