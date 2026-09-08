@@ -1,6 +1,188 @@
 {
- "generated_at": "2026-09-07T10:37:57+00:00",
+ "generated_at": "2026-09-08T09:58:09+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-09-08T09:58:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 664,
+   "title": "[GoogleNews] Concorso Comune Termoli Agenti di Polizia Locale da 6 posti: Ecco la determina della graduatoria - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/664"
+  },
+  {
+   "createdAt": "2026-09-08T09:58:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 663,
+   "title": "[GoogleNews] Concorso Tenenti Forestali Carabinieri 2026 da 12 posti: Avviso pubblicazione graduatoria di merito - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/663"
+  },
+  {
+   "createdAt": "2026-09-08T09:58:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 662,
+   "title": "[GoogleNews] Concorso Comune Procida Istruttori Amministrativi 2026: Elenco ammessi con riserva - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/662"
+  },
+  {
+   "createdAt": "2026-09-08T09:58:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 661,
+   "title": "[GoogleNews] Concorso Comune Corigliano-Rossano da 26 posti: Candidati ammessi e Nomina della commissione - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/661"
+  },
+  {
+   "createdAt": "2026-09-08T09:58:06Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 660,
+   "title": "[GoogleNews] Concorso da 31 posti per tecnici di laboratorio: come partecipare, requisiti e scadenze - QuiFinanza",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/660"
+  },
+  {
+   "createdAt": "2026-09-08T09:58:06Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 659,
+   "title": "[GoogleNews] Concorso Coesione Sud 2026, 882 assunzioni a tempo indeterminato: 269 posti in Sicilia - Dedalomultimedia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/659"
+  },
+  {
+   "createdAt": "2026-09-08T09:58:06Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 658,
+   "title": "[GoogleNews] RAP Palermo assume, selezioni per 4 dirigenti: requisiti, come candidarsi e scadenza - LiveSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/658"
+  },
+  {
+   "createdAt": "2026-09-08T09:58:05Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 657,
+   "title": "[GoogleNews] Umbria PuntoZero: concorsi per 200 posti, Addetti amministrativi e Operatori CUP - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/657"
+  },
+  {
+   "createdAt": "2026-09-08T09:58:05Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 656,
+   "title": "[GoogleNews] RAP Palermo assume quattro dirigenti: selezioni per due tecnici e due amministrativi, domande entro l'8 ottobre - Palermomania.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/656"
+  },
+  {
+   "createdAt": "2026-09-08T09:58:04Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 655,
+   "title": "[GoogleNews] Catania, da mercato abbandonato a polo sociale: così cambierà l’ex struttura di San Cristoforo - QdS",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/655"
+  },
+  {
+   "createdAt": "2026-09-08T09:57:50Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 654,
+   "title": "[Scadenzario] #C Refresh di metà mese dell'hub + controllo slittamenti — settembre 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/654"
+  },
+  {
+   "createdAt": "2026-09-08T09:57:50Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 653,
+   "title": "[Scadenzario] #7 Stipendi NoiPA — settembre 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/653"
+  },
+  {
+   "createdAt": "2026-09-08T09:57:49Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 652,
+   "title": "[Scadenzario] #21 ADI: rinnovo e prima mensilità al 50% — settembre 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/652"
+  },
   {
    "createdAt": "2026-09-07T10:37:55Z",
    "labels": [
@@ -1218,188 +1400,6 @@
    "number": 565,
    "title": "[GoogleNews] \"Diventare insegnanti? Non basta più il concorso: servono strumenti che valutino talenti e qualità umane\", la proposta dello psico",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/565"
-  },
-  {
-   "createdAt": "2026-08-30T10:36:13Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 564,
-   "title": "[GoogleNews] Concorso Università Firenze Collaboratori amministrativi 2026 - I vincitori sono stati proclamati - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/564"
-  },
-  {
-   "createdAt": "2026-08-30T10:36:13Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 563,
-   "title": "[GoogleNews] Immissioni in ruolo 2026/27, USR Lombardia accantona 257 posti per A028 da concorso PNRR3 prima di passare agli elenchi regionali ",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/563"
-  },
-  {
-   "createdAt": "2026-08-30T10:36:12Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 562,
-   "title": "[GoogleNews] Immissioni in ruolo dirigenti scolastici 2026/27, firmato il decreto per 365 posti: 345 nuove assunzioni da concorso ordinario e r",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/562"
-  },
-  {
-   "createdAt": "2026-08-30T10:36:11Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 561,
-   "title": "[GoogleNews] Concorso Infermieri ARNAS Garibaldi Catania da 40 posti: Ecco la data della preselettiva suppletiva e gli esonerati dalla prova - ",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/561"
-  },
-  {
-   "createdAt": "2026-08-30T10:35:55Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 560,
-   "title": "[Scadenzario] #14 Carta Dedicata a Te — settembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/560"
-  },
-  {
-   "createdAt": "2026-08-30T10:35:55Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 559,
-   "title": "[Scadenzario] #10 Rimborsi 730 — settembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/559"
-  },
-  {
-   "createdAt": "2026-08-30T10:35:54Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 558,
-   "title": "[Scadenzario] #8 SFL — settembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/558"
-  },
-  {
-   "createdAt": "2026-08-30T10:35:54Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 557,
-   "title": "[Scadenzario] #6 ADI — settembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/557"
-  },
-  {
-   "createdAt": "2026-08-30T10:35:53Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 556,
-   "title": "[Scadenzario] #5 Assegno unico — settembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/556"
-  },
-  {
-   "createdAt": "2026-08-30T10:35:53Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 555,
-   "title": "[Scadenzario] #4 NASpI — settembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/555"
-  },
-  {
-   "createdAt": "2026-08-29T11:45:33Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 554,
-   "title": "[GoogleNews] Concorso Provincia Oristano Istruttori e Funzionari Amministrativi 2026: 6 posti con diploma o laurea - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/554"
-  },
-  {
-   "createdAt": "2026-08-29T11:45:33Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 553,
-   "title": "[GoogleNews] \"Insegnare è davvero una missione?\" La provocazione (necessaria) che viene dalla storia di Aurora, la più giovane vincitrice del c",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/553"
-  },
-  {
-   "createdAt": "2026-08-29T11:45:32Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 552,
-   "title": "[GoogleNews] Concorso docenti: confermato l'obbligo di anonimato nelle prove scritte/pratiche - Formazione Anicia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/552"
   }
  ]
 }
