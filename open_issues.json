@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-09-08T09:58:09+00:00",
+ "generated_at": "2026-09-09T10:00:46+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-09-09T10:00:45Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 674,
+   "title": "[GoogleNews] Concorso Azienda Zero Calabria: 41 posti di Assistente Amministrativo, come partecipare - LeggiOggi",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/674"
+  },
+  {
+   "createdAt": "2026-09-09T10:00:45Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 673,
+   "title": "[GoogleNews] CONCORSO AZIENDA ZERO CALABRIA PER 41 ASSISTENTI AMMINISTRATIVI - Cammino Diritto – Formazione",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/673"
+  },
+  {
+   "createdAt": "2026-09-09T10:00:44Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 672,
+   "title": "[GoogleNews] Concorsi in Regione Calabria, gli idonei contestano gli emendamenti: «Così si svuota la tutela del merito - ReggioTV",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/672"
+  },
+  {
+   "createdAt": "2026-09-09T10:00:43Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 671,
+   "title": "[GoogleNews] Concorso Assistenti Azienda Zero Calabria Amministrativi 2026: 41 posti a tempo pieno e indeterminato - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/671"
+  },
+  {
+   "createdAt": "2026-09-09T10:00:43Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 670,
+   "title": "[GoogleNews] L'Azienda Zero ha indetto un concorso da 41 posti per diplomati come amministrativi in Calabria - Simone Concorsi",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/670"
+  },
+  {
+   "createdAt": "2026-09-09T10:00:42Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 669,
+   "title": "[GoogleNews] Agenzia Entrate Sicilia: assunzione addetto licenza media - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/669"
+  },
+  {
+   "createdAt": "2026-09-09T10:00:42Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 668,
+   "title": "[GoogleNews] Guida Turistica: Aggiornamento — esiti e abilitati luglio–agosto 2026 - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/668"
+  },
+  {
+   "createdAt": "2026-09-09T10:00:41Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 667,
+   "title": "[GoogleNews] Concorso Nazionale IYPT Italia 2027 - Ufficio Scolastico Regionale per la Sicilia – Direzione Generale",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/667"
+  },
+  {
+   "createdAt": "2026-09-09T10:00:40Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 666,
+   "title": "[GoogleNews] Ballarò, bando sospeso e commercianti in rivolta: \"Non lascio il mio posto\" - Il Fatto Quotidiano",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/666"
+  },
+  {
+   "createdAt": "2026-09-09T10:00:40Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 665,
+   "title": "[GoogleNews] Concorsi Autisti 2026 – Tutti i bandi di concorso aperti o in svolgimento - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/665"
+  },
   {
    "createdAt": "2026-09-08T09:58:08Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 575,
    "title": "[GoogleNews] Concorsi pubblici a settembre 2026, oltre 1.600 assunzioni nella Pa: ecco tutti i bandi e le scadenze - Torino Cronaca",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/575"
-  },
-  {
-   "createdAt": "2026-08-31T11:45:40Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 574,
-   "title": "[GoogleNews] Concorsi Sicilia, opportunità di lavoro nella sanità: fuori un nuovo bando - LiveUniCT – Notizie su Catania e Università",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/574"
-  },
-  {
-   "createdAt": "2026-08-31T11:45:40Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 573,
-   "title": "[GoogleNews] Medicina, a Messina 682 posti ma la selezione è appena iniziata: tutto pronto per il semestre-bis - MessinaToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/573"
-  },
-  {
-   "createdAt": "2026-08-31T11:45:39Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 572,
-   "title": "[GoogleNews] Accademia di Belle Arti di Brera: selezioni per docenti di design e grafica - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/572"
-  },
-  {
-   "createdAt": "2026-08-31T11:45:39Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 571,
-   "title": "[GoogleNews] Policlinico di Palermo: concorsi per 29 assunzioni riservate a categorie protette - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/571"
-  },
-  {
-   "createdAt": "2026-08-30T10:36:16Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 570,
-   "title": "[GoogleNews] Se la crisi della scuola ha sessant’anni. L’eterno dibattito tra concorsi e cattedre vuote - La Discussione",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/570"
-  },
-  {
-   "createdAt": "2026-08-30T10:36:16Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 569,
-   "title": "[GoogleNews] Concorso AM12 Veneto: pubblicata la quarta integrazione graduatoria - News Istruzione",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/569"
-  },
-  {
-   "createdAt": "2026-08-30T10:36:15Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 568,
-   "title": "[GoogleNews] Scuola Parini, c’è il vincitore del concorso. I genitori polemizzano: “Qual è il progetto?” - NoiTV",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/568"
-  },
-  {
-   "createdAt": "2026-08-30T10:36:14Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 567,
-   "title": "[GoogleNews] Il concorso di idee per la scuola “Parini“ . Vince la proposta dell’architetto Veronica Maffi - La Nazione",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/567"
-  },
-  {
-   "createdAt": "2026-08-30T10:36:14Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 566,
-   "title": "[GoogleNews] Docenti idonei PNRR: prima la stabilizzazione, poi nuovi canali di reclutamento. Tutti vogliono il \"doppio canale\" - Tecnica della",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/566"
-  },
-  {
-   "createdAt": "2026-08-30T10:36:13Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 565,
-   "title": "[GoogleNews] \"Diventare insegnanti? Non basta più il concorso: servono strumenti che valutino talenti e qualità umane\", la proposta dello psico",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/565"
   }
  ]
 }
