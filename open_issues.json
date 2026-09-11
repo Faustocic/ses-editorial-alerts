@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-09-10T09:58:10+00:00",
+ "generated_at": "2026-09-11T09:55:41+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-09-11T09:55:39Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 694,
+   "title": "[GoogleNews] Primo premio (Sezione Racconto), quinto premio (Sezione Poesia) e menzione speciale al Convitto Cutelli alla 21ª edizione del conc",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/694"
+  },
+  {
+   "createdAt": "2026-09-11T09:55:39Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 693,
+   "title": "[GoogleNews] ASP Parma: concorso per infermieri, stipendio quasi 28mila euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/693"
+  },
+  {
+   "createdAt": "2026-09-11T09:55:39Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 692,
+   "title": "[GoogleNews] Servizi sociali a Palermo, verso 44 nuove assunzioni. Terrani: ''Una boccata d'ossigeno per il Comune e i cittadini'' - Palermoman",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/692"
+  },
+  {
+   "createdAt": "2026-09-11T09:55:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 691,
+   "title": "[GoogleNews] Comune di Reggio Emilia: concorso per 24 insegnanti scuola d'infanzia, lavoro a tempo indeterminato - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/691"
+  },
+  {
+   "createdAt": "2026-09-11T09:55:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 690,
+   "title": "[GoogleNews] Azienda Zero Calabria: concorso per 41 diplomati, assistenti amministrativi, Bando 2026 - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/690"
+  },
+  {
+   "createdAt": "2026-09-11T09:55:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 689,
+   "title": "[GoogleNews] Concorso Asp Reggio Emilia Educatori 2026: Ecco le date della prova orale - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/689"
+  },
+  {
+   "createdAt": "2026-09-11T09:55:37Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 688,
+   "title": "[GoogleNews] Comune di Reggio Calabria – Notizie – Graduatoria definitiva - gazzettadireggio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/688"
+  },
+  {
+   "createdAt": "2026-09-11T09:55:37Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 687,
+   "title": "[GoogleNews] Comune di Reggio Calabria – Notizie – Rettifica modulo di accettazione - gazzettadireggio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/687"
+  },
+  {
+   "createdAt": "2026-09-11T09:55:36Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 686,
+   "title": "[GoogleNews] Comune di Reggio Calabria – Notizie – Graduatorie definitive - gazzettadireggio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/686"
+  },
+  {
+   "createdAt": "2026-09-11T09:55:36Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 685,
+   "title": "[GoogleNews] Agenzia delle Entrate assume a Ragusa: posto a tempo indeterminato per categorie protette, basta la licenza media - concorsi-pubbl",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/685"
+  },
   {
    "createdAt": "2026-09-10T09:58:09Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 595,
    "title": "[GoogleNews] ARERA: concorso per 10 laureati in economia o ingegneria, funzionari, stipendio oltre 60mila euro - Ti Consiglio",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/595"
-  },
-  {
-   "createdAt": "2026-09-02T09:49:33Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 594,
-   "title": "[GoogleNews] Università di Milano Bicocca: concorso per 4 diplomati, collaboratori tecnici - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/594"
-  },
-  {
-   "createdAt": "2026-09-02T09:49:33Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 593,
-   "title": "[GoogleNews] Le opportunità di lavoro in Sicilia, i concorsi e i bandi di settembre 2026 - QdS",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/593"
-  },
-  {
-   "createdAt": "2026-09-02T09:49:32Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 592,
-   "title": "[GoogleNews] Concorso Ast, al via le domande per 73 nuove assunzioni - Diretta Sicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/592"
-  },
-  {
-   "createdAt": "2026-09-02T09:49:32Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 591,
-   "title": "[GoogleNews] L’Ast cerca personale, al via il concorso per 73 autisti - Siracusa Press",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/591"
-  },
-  {
-   "createdAt": "2026-09-01T10:20:59Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 590,
-   "title": "[GoogleNews] Ospedale di Verona: assunzioni per 10 coadiutori amministrativi con scuola dell’obbligo - ticonsiglio.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/590"
-  },
-  {
-   "createdAt": "2026-09-01T10:20:59Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 589,
-   "title": "[GoogleNews] Conservatorio di Musica di Pesaro: selezioni per l’assunzione di docenti - ticonsiglio.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/589"
-  },
-  {
-   "createdAt": "2026-09-01T10:20:59Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 588,
-   "title": "[GoogleNews] Policlinico di Palermo: 29 assunzioni a tempo indeterminato per amministrativi - concorsi-pubblici.org",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/588"
-  },
-  {
-   "createdAt": "2026-09-01T10:20:58Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 587,
-   "title": "[GoogleNews] Salerno, Comune di Castelnuovo Cilento: concorso per diplomati e laureati - ticonsiglio.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/587"
-  },
-  {
-   "createdAt": "2026-09-01T10:20:58Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 586,
-   "title": "[GoogleNews] Comune di Busto Arsizio: concorsi per diplomati e laureati, ambito amministrativo - ticonsiglio.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/586"
-  },
-  {
-   "createdAt": "2026-09-01T10:20:58Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 585,
-   "title": "[GoogleNews] Concorso Comune Nettuno Licenze NCC da 15 autorizzazioni: la nomina della commissione è in corso e le prove si avvicineranno - con",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/585"
   }
  ]
 }
