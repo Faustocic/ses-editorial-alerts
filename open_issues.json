@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-09-11T09:55:41+00:00",
+ "generated_at": "2026-09-12T09:31:09+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-09-12T09:31:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 704,
+   "title": "[GoogleNews] Selezione Praticantati AGCOM 2026: 34 posti con adeguata formazione - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/704"
+  },
+  {
+   "createdAt": "2026-09-12T09:31:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 703,
+   "title": "[GoogleNews] Concorso AGEA Funzionari da 13 posti – Approvazione Graduatorie finali e Scorrimenti - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/703"
+  },
+  {
+   "createdAt": "2026-09-12T09:31:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 702,
+   "title": "[GoogleNews] Acquaformosa, concorsi ad Comune per il personale dopo 34 anni, il sindaco Milione fa chiarezza - corrieredellacalabria.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/702"
+  },
+  {
+   "createdAt": "2026-09-12T09:31:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 701,
+   "title": "[GoogleNews] Concorso Ferrovia Circumetnea Capi Operatori e Manutentori Infrastrutture civili 2026: 6 posti a tempo indeterminato - Concorsando",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/701"
+  },
+  {
+   "createdAt": "2026-09-12T09:31:06Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 700,
+   "title": "[GoogleNews] Bergamo, Comune di Treviglio: concorso per diplomati, istruttori amministrativi contabili - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/700"
+  },
+  {
+   "createdAt": "2026-09-12T09:31:06Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 699,
+   "title": "[GoogleNews] Comune di Reggio Calabria – Notizie – Graduatorie provvisorie - gazzettadireggio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/699"
+  },
+  {
+   "createdAt": "2026-09-12T09:31:06Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 698,
+   "title": "[GoogleNews] Concorso Comune Reggio Emilia Funzionario Reti Educative 2026: 24 posti a tempo indeterminato - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/698"
+  },
+  {
+   "createdAt": "2026-09-12T09:31:05Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 697,
+   "title": "[GoogleNews] Bper al via bando per 300 borse di studio da 500 euro - Zazoom Social News",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/697"
+  },
+  {
+   "createdAt": "2026-09-12T09:31:05Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 696,
+   "title": "[GoogleNews] Teatri Riflessi Festival 2027: aperto il bando per il Concorso Internazionale di Corti Performativi - Krapp's Last Post",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/696"
+  },
+  {
+   "createdAt": "2026-09-12T09:31:04Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 695,
+   "title": "[GoogleNews] Franco Scoglio, 40 milioni per la copertura: il comune risponde a FdI e attende il bando regionale - MessinaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/695"
+  },
   {
    "createdAt": "2026-09-11T09:55:39Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 605,
    "title": "[GoogleNews] Emergenza abitativa, a Messina il bando per gli alloggi Etr resta fermo: Gioveni chiede conto delle assegnazioni - MessinaToday",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/605"
-  },
-  {
-   "createdAt": "2026-09-03T10:01:12Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 604,
-   "title": "[GoogleNews] Ast Sicilia, sblocco bando 73 assunzioni - Video Regione",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/604"
-  },
-  {
-   "createdAt": "2026-09-03T10:01:11Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 603,
-   "title": "[GoogleNews] Concorsi: prove asincrone per le candidate in gravidanza, Ingala: \"Doveroso tutelare la maternità\" - AgrigentoNotizie",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/603"
-  },
-  {
-   "createdAt": "2026-09-03T10:01:11Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 602,
-   "title": "[GoogleNews] Concorso tecnici enti locali, 882 posti a tempo indeterminato in Regioni, Comuni e Aree Metropolitane nel Sud Italia: quali sono,.",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/602"
-  },
-  {
-   "createdAt": "2026-09-03T10:00:54Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 601,
-   "title": "[Scadenzario] #D Sessione D — revisione Search Console — settembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/601"
-  },
-  {
-   "createdAt": "2026-09-02T09:49:36Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 600,
-   "title": "[GoogleNews] Concorsi pubblici in Sicilia, il 22 e 23 settembre le prove asincrone per le candidate in gravidanza - CataniaToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/600"
-  },
-  {
-   "createdAt": "2026-09-02T09:49:36Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 599,
-   "title": "[GoogleNews] Concorso Infermieri Pio Albergo Trivulzio a Milano da 20 posti: Nessun candidato alla prova orale, la procedura è andata deserta -",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/599"
-  },
-  {
-   "createdAt": "2026-09-02T09:49:35Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 598,
-   "title": "[GoogleNews] Pio Albergo Trivulzio di Milano: concorsi per 35 OSS e Fisioterapisti - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/598"
-  },
-  {
-   "createdAt": "2026-09-02T09:49:35Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 597,
-   "title": "[GoogleNews] Accademia di Belle Arti dell’Aquila: selezione per docenti di Grafica d’Arte - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/597"
-  },
-  {
-   "createdAt": "2026-09-02T09:49:34Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 596,
-   "title": "[GoogleNews] Vicenza, Casa di riposo Alessandro Rossi: selezione per fisioterapisti con solo prova orale - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/596"
-  },
-  {
-   "createdAt": "2026-09-02T09:49:34Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 595,
-   "title": "[GoogleNews] ARERA: concorso per 10 laureati in economia o ingegneria, funzionari, stipendio oltre 60mila euro - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/595"
   }
  ]
 }
