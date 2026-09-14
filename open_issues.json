@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-09-13T10:30:14+00:00",
+ "generated_at": "2026-09-14T10:54:14+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-09-14T10:54:13Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 724,
+   "title": "[GoogleNews] Acquaformosa, nuovi concorsi in Comune: la maggioranza replica alle critiche di Capparelli - Calabria News 24",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/724"
+  },
+  {
+   "createdAt": "2026-09-14T10:54:12Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 723,
+   "title": "[GoogleNews] Lavoro, maxi concorso nella sanità calabrese: 41 posti a tempo indeterminato per diplomati - Calabria 7",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/723"
+  },
+  {
+   "createdAt": "2026-09-14T10:54:12Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 722,
+   "title": "[GoogleNews] Conservatorio di Verona: selezione pubblica per docenti in varie discipline - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/722"
+  },
+  {
+   "createdAt": "2026-09-14T10:54:11Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 721,
+   "title": "[GoogleNews] Sanità: Azienda Zero indice nuovo concorso ma dimentica graduatoria esistente - CN24TV",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/721"
+  },
+  {
+   "createdAt": "2026-09-14T10:54:11Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 720,
+   "title": "[GoogleNews] Acquaformosa, scontro sui concorsi: Milione replica a Capparelli, «Nel 2023 le assunzioni le prevedeva lui» - calabriainchieste.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/720"
+  },
+  {
+   "createdAt": "2026-09-14T10:54:10Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 719,
+   "title": "[GoogleNews] Sanità calabrese, 91 candidati per 40 posti da anestesista: nuovi concorsi e assunzioni - IlDispaccio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/719"
+  },
+  {
+   "createdAt": "2026-09-14T10:54:10Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 718,
+   "title": "[GoogleNews] Concorso Ospedali, 41 Assistenti amministrativi a tempo indeterminato: basta il diploma, stipendio da 22.961 euro più tredicesima ",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/718"
+  },
+  {
+   "createdAt": "2026-09-14T10:54:09Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 717,
+   "title": "[GoogleNews] Anno scolastico riparte con Interpelli fuori graduatoria per Supplenze docenti 2026/27: ecco gli AVVISI con le scadenze - Orizzont",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/717"
+  },
+  {
+   "createdAt": "2026-09-14T10:54:09Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 716,
+   "title": "[GoogleNews] Concorsi in scadenza ottobre 2026: bandi aperti e domande - Simone Concorsi",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/716"
+  },
+  {
+   "createdAt": "2026-09-14T10:54:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 715,
+   "title": "[GoogleNews] Scuolabus a Messina, 1.157 domande per mille posti: ecco la graduatoria - messina.gazzettadelsud.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/715"
+  },
   {
    "createdAt": "2026-09-13T10:30:13Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 625,
    "title": "[GoogleNews] Nuovo mercato coperto di Ballarò il Comune di Palermo sospende il bando I commercianti sul piede di guerra | Non lascio il mio pos",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/625"
-  },
-  {
-   "createdAt": "2026-09-05T09:13:57Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 624,
-   "title": "[GoogleNews] Puglia, Comune di Crispiano: concorso per diplomati tecnici, geometri o C.A.T. - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/624"
-  },
-  {
-   "createdAt": "2026-09-05T09:13:56Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 623,
-   "title": "[GoogleNews] Concorso Comune Trieste Istruttori Amministrativi 2026 da 10 posti: Esiti rinvenibili a breve - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/623"
-  },
-  {
-   "createdAt": "2026-09-05T09:13:55Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 622,
-   "title": "[GoogleNews] Sicilia, domani sarà pubblicato il bando relativo al Piano Faunistico Venatorio - cacciapassione.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/622"
-  },
-  {
-   "createdAt": "2026-09-04T09:51:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 621,
-   "title": "[GoogleNews] Presentato l’11° Concorso Internazionale dei Madonnari – Città di Taurianova - Telemia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/621"
-  },
-  {
-   "createdAt": "2026-09-04T09:51:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 620,
-   "title": "[GoogleNews] Azienda Zero Calabria: nuovo concorso per 32 ostetriche, assunzioni presso varie sedi di lavoro - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/620"
-  },
-  {
-   "createdAt": "2026-09-04T09:51:45Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 619,
-   "title": "[GoogleNews] Emergenza abitativa, a Messina il bando per gli alloggi Erp resta fermo: Gioveni chiede conto delle assegnazioni - MessinaToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/619"
-  },
-  {
-   "createdAt": "2026-09-04T09:51:45Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 618,
-   "title": "[GoogleNews] Inchiesta su Cuffaro, il gip archivia la parte relativa al concorso contestato - wltv.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/618"
-  },
-  {
-   "createdAt": "2026-09-04T09:51:45Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 617,
-   "title": "[GoogleNews] Cuffaro, il gip archivia l’ultimo filone: cade anche l’accusa sul concorso - Sicilia L'Identità -",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/617"
-  },
-  {
-   "createdAt": "2026-09-04T09:51:45Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 616,
-   "title": "[GoogleNews] Inchiesta Cuffaro, il Gip dispone nuove archiviazioni: chiusa l’accusa sulla turbativa del concorso - NewSicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/616"
-  },
-  {
-   "createdAt": "2026-09-04T09:51:44Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 615,
-   "title": "[GoogleNews] Concorso RIPAM Coesione 2026, 882 posti tecnici al Sud - PMI.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/615"
   }
  ]
 }
