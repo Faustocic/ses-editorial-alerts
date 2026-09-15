@@ -1,6 +1,160 @@
 {
- "generated_at": "2026-09-14T10:54:14+00:00",
+ "generated_at": "2026-09-15T10:18:22+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-09-15T10:18:21Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 735,
+   "title": "[GoogleNews] Concorsi pubblici settembre 2026, oltre 1.100 posti a tempo indeterminato anche senza diploma: ecco dove e le scadenze - Brocardi.",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/735"
+  },
+  {
+   "createdAt": "2026-09-15T10:18:21Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 734,
+   "title": "[GoogleNews] Il comune di Reggio Emilia ha pubblicato un bando da 24 posti per insegnanti di scuola dell'infanzia - Simone Concorsi",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/734"
+  },
+  {
+   "createdAt": "2026-09-15T10:18:20Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 733,
+   "title": "[GoogleNews] L'assessore Damiano alla premiazione del concorso “Da uno sguardo” - Comune di Venezia.",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/733"
+  },
+  {
+   "createdAt": "2026-09-15T10:18:20Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 732,
+   "title": "[GoogleNews] Immissioni in ruolo docenti 2026/27, \"bruciati\" più di 9.000 posti. Mancanza di aspiranti nelle graduatorie, tempi troppo stretti,",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/732"
+  },
+  {
+   "createdAt": "2026-09-15T10:18:19Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 731,
+   "title": "[GoogleNews] Sorical, concorso per Direttore AFC nel caos: ricorso al Tribunale del Lavoro di Catanzaro e accuse sui requisiti dei candidati - ",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/731"
+  },
+  {
+   "createdAt": "2026-09-15T10:18:19Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 730,
+   "title": "[GoogleNews] Acquaformosa, Capparelli contrattacca sui concorsi: «Bilancio sotto stress, così si rischia grosso» - Calabria inchieste",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/730"
+  },
+  {
+   "createdAt": "2026-09-15T10:18:18Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 729,
+   "title": "[GoogleNews] Concorso Comune Cassino Agenti Polizia Locale: Ecco i vincitori - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/729"
+  },
+  {
+   "createdAt": "2026-09-15T10:18:18Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 728,
+   "title": "[GoogleNews] Bando Coesione Sud 2026 - Giovani2030",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/728"
+  },
+  {
+   "createdAt": "2026-09-15T10:18:17Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 727,
+   "title": "[GoogleNews] Il Comune di Palermo cerca un nuovo Garante per la Disabilità, i requisiti richiesti dal bando - ilSicilia.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/727"
+  },
+  {
+   "createdAt": "2026-09-15T10:18:17Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 726,
+   "title": "[GoogleNews] Graduatoria concorso primaria Sicilia: nuovo decreto integrazione - cemform",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/726"
+  },
+  {
+   "createdAt": "2026-09-15T10:18:00Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 725,
+   "title": "INPS: Prestazioni di accompagnamento alla pensione: nuove indicazioni - Portale Inps",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/725"
+  },
   {
    "createdAt": "2026-09-14T10:54:13Z",
    "labels": [
@@ -1246,160 +1400,6 @@
    "number": 636,
    "title": "[GoogleNews] 73 posti fissi per Autisti AST: concorso con licenza media, assunzioni a tempo indeterminato - concorsipubblici.net",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/636"
-  },
-  {
-   "createdAt": "2026-09-06T09:35:36Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 635,
-   "title": "[GoogleNews] Concorso “Castelbuono Cuore d’Artista”: a Patrizia Cazzola la “Menzione Raffaello” ì - Quotidiano di Palermo",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/635"
-  },
-  {
-   "createdAt": "2026-09-06T09:35:36Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 634,
-   "title": "[GoogleNews] Comune di Napoli, concorso con 87 assunzioni a tempo indeterminato - NapoliToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/634"
-  },
-  {
-   "createdAt": "2026-09-06T09:35:35Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 633,
-   "title": "[GoogleNews] Azienda Zero Calabria, concorso per 32 Ostetriche: assunzioni a tempo indeterminato in 4 ASP - concorsi-pubblici.org",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/633"
-  },
-  {
-   "createdAt": "2026-09-06T09:35:35Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 632,
-   "title": "[GoogleNews] Porto di Tremestieri, cantiere da 100mln abbandonato: la Uil Messina contro il commissario Di Sarcina e il sindaco Basile - Gazzet",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/632"
-  },
-  {
-   "createdAt": "2026-09-05T09:14:00Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 631,
-   "title": "[GoogleNews] Concorso Agenti Polizia Provinciale Ragusa da 12 posti: 1097 candidati ammessi con riserva alla preselettiva - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/631"
-  },
-  {
-   "createdAt": "2026-09-05T09:14:00Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 630,
-   "title": "[GoogleNews] Concorso IRCCS Oasi Maria Sanitari da 47 posti: Ecco come prepararsi alle prove - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/630"
-  },
-  {
-   "createdAt": "2026-09-05T09:13:59Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 629,
-   "title": "[GoogleNews] Concorso RIPAM Coesione sud 2026 per 882 Specialisti tecnici: Bando, requisiti, domanda - antoniodepoli.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/629"
-  },
-  {
-   "createdAt": "2026-09-05T09:13:59Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 628,
-   "title": "[GoogleNews] Concorso RIPAM Coesione 2026, arrivano 882 posti al Sud a tempo indeterminato - Studenti.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/628"
-  },
-  {
-   "createdAt": "2026-09-05T09:13:58Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 627,
-   "title": "[GoogleNews] Concorso per Comuni e Città Metropolitane, 269 posti in Sicilia: le figure e i requisiti - Balarm.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/627"
-  },
-  {
-   "createdAt": "2026-09-05T09:13:58Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 626,
-   "title": "[GoogleNews] Alloggi popolari a Messina, interrogazione di Gioveni: “che fine ha fatto la riapertura del bando?” - StrettoWeb",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/626"
-  },
-  {
-   "createdAt": "2026-09-05T09:13:57Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 625,
-   "title": "[GoogleNews] Nuovo mercato coperto di Ballarò il Comune di Palermo sospende il bando I commercianti sul piede di guerra | Non lascio il mio pos",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/625"
   }
  ]
 }
