@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-09-15T10:18:22+00:00",
+ "generated_at": "2026-09-16T10:12:50+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-09-16T10:12:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 745,
+   "title": "[GoogleNews] Maxi concorso pubblico per 882 posti a tempo indeterminato. 35 unità da assumere in Basilicata: in 27 Comuni e alla Provincia di P",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/745"
+  },
+  {
+   "createdAt": "2026-09-16T10:12:45Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 744,
+   "title": "[GoogleNews] Comune di Palermo, aperto il bando per il Garante dei diritti delle persone con disabilità - lasicilia.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/744"
+  },
+  {
+   "createdAt": "2026-09-16T10:12:44Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 743,
+   "title": "[GoogleNews] Avviso di apertura della finestra permanente per nuovi inserimenti in coda alle graduatorie triennali vigenti (profili a-b-c-) – s",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/743"
+  },
+  {
+   "createdAt": "2026-09-16T10:12:44Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 742,
+   "title": "[GoogleNews] Catania: prosegue il servizio di rimozione dei veicoli abbandonati - Free Press Online",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/742"
+  },
+  {
+   "createdAt": "2026-09-16T10:12:43Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 741,
+   "title": "[GoogleNews] VIDEO|Trantino contro chi abbandona i rifiuti: \"Siete parassiti che odiano Catania\" - CataniaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/741"
+  },
+  {
+   "createdAt": "2026-09-16T10:12:43Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 740,
+   "title": "[GoogleNews] Servizi sociali, 40 nuove assunzioni per tre anni al Comune di Palermo - LiveSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/740"
+  },
+  {
+   "createdAt": "2026-09-16T10:12:42Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 739,
+   "title": "[GoogleNews] Veicoli abbandonati e carcasse di mezzi, il servizio di rimozione resta attivo - Comune di Catania",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/739"
+  },
+  {
+   "createdAt": "2026-09-16T10:12:42Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 738,
+   "title": "[GoogleNews] Comune di Foggia, pubblicata la graduatoria finale del concorso per Funzionari Amministrativi - FoggiaToday - cronaca e notizie da",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/738"
+  },
+  {
+   "createdAt": "2026-09-16T10:12:41Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 737,
+   "title": "[GoogleNews] Concorso insegnanti Comune di Reggio Emilia: requisiti, prove e domanda - concorsi-pubblici.org",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/737"
+  },
+  {
+   "createdAt": "2026-09-16T10:12:41Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 736,
+   "title": "[GoogleNews] Caro carburanti, 17 milioni dalla Regione per sostenere la pesca, ecco il bando - BlogSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/736"
+  },
   {
    "createdAt": "2026-09-15T10:18:21Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 646,
    "title": "[GoogleNews] Docenti idonei PNRR, i numeri della Sicilia riaccendono il confronto sulle stabilizzazioni: “Serve lo scorrimento pieno degli elen",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/646"
-  },
-  {
-   "createdAt": "2026-09-07T10:37:52Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 645,
-   "title": "[GoogleNews] Concorsi Pubblici Campania settembre 2026: i bandi aperti in questa settimana - Napolike.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/645"
-  },
-  {
-   "createdAt": "2026-09-07T10:37:52Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 644,
-   "title": "[GoogleNews] Concorsi settembre 2026, i bandi ancora aperti - affaritaliani.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/644"
-  },
-  {
-   "createdAt": "2026-09-07T10:37:51Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 643,
-   "title": "[GoogleNews] Concorso Banca Italia Esperti e Assistenti da 160 posti: Risultati prova scritta A e B - Graduatoria finale C - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/643"
-  },
-  {
-   "createdAt": "2026-09-07T10:37:51Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 642,
-   "title": "[GoogleNews] Concorso Comune di Firenze Autisti, Polizia e per profili Tecnici da 73 posti: Graduatorie finali - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/642"
-  },
-  {
-   "createdAt": "2026-09-06T09:35:38Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 641,
-   "title": "[GoogleNews] Concorso Ostetriche Calabria Azienda Zero 2026: 32 posti a tempo indeterminato - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/641"
-  },
-  {
-   "createdAt": "2026-09-06T09:35:38Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 640,
-   "title": "[GoogleNews] Regione Calabria, idonei ai concorsi: “Svuotata la norma sulle graduatorie” - Il Crotonese",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/640"
-  },
-  {
-   "createdAt": "2026-09-06T09:35:37Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 639,
-   "title": "[GoogleNews] Concorso Regione Calabria, 32 idonei attendono lo scorrimento: il 4 settembre si discute in Commissione - origin.reggiotv.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/639"
-  },
-  {
-   "createdAt": "2026-09-06T09:35:37Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 638,
-   "title": "[GoogleNews] Concorso Tecnici di Riabilitazione Psichiatrica Azienda Zero Calabria 2026: 16 posti a tempo pieno e indeterminato - Concorsando.i",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/638"
-  },
-  {
-   "createdAt": "2026-09-06T09:35:37Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 637,
-   "title": "[GoogleNews] Assunzioni per diplomati e laureati: le nuove posizioni aperte in tutto Italia di inizio settembre 2026 - Businessonline.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/637"
-  },
-  {
-   "createdAt": "2026-09-06T09:35:36Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 636,
-   "title": "[GoogleNews] 73 posti fissi per Autisti AST: concorso con licenza media, assunzioni a tempo indeterminato - concorsipubblici.net",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/636"
   }
  ]
 }
