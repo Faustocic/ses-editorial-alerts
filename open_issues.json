@@ -1,6 +1,160 @@
 {
- "generated_at": "2026-09-17T10:17:15+00:00",
+ "generated_at": "2026-09-18T09:59:11+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-09-18T09:59:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 769,
+   "title": "[GoogleNews] Concorsi ordinari docenti, revisione tabelle: equiparati corsi INDIRE e TFA sostegno - FLC CGIL",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/769"
+  },
+  {
+   "createdAt": "2026-09-18T09:59:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 768,
+   "title": "[GoogleNews] Concorso scolastico nazionale “A Scuola di Dono” – FIDAS. VIII edizione Anno scolastico 2026/2027 - Ufficio Scolastico Regionale p",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/768"
+  },
+  {
+   "createdAt": "2026-09-18T09:59:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 767,
+   "title": "[GoogleNews] Nuovi concorsi scuola: ecco come cambia tabella titoli. Stesso punteggio TFA sostegno e Indire, superamento di un precedente conco",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/767"
+  },
+  {
+   "createdAt": "2026-09-18T09:59:06Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 766,
+   "title": "[GoogleNews] Ex tirocinanti Calabria | Tucci (M5S): Governo emani Dpcm per 266 assunzioni nei ministeri - La Novità Online",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/766"
+  },
+  {
+   "createdAt": "2026-09-18T09:59:06Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 765,
+   "title": "[GoogleNews] Concorsi. Idonei Calabria invocano una legge nazionale a tutela dei vincitori - CN24TV",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/765"
+  },
+  {
+   "createdAt": "2026-09-18T09:59:05Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 764,
+   "title": "[GoogleNews] Concorso Comune Santa Maria del Cedro Agenti Polizia Locale da 7 posti: Ecco i vincitori - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/764"
+  },
+  {
+   "createdAt": "2026-09-18T09:59:05Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 763,
+   "title": "[GoogleNews] Concorso da 882 posti per tecnici al Consiglio dei Ministri: requisiti e scadenze - QuiFinanza",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/763"
+  },
+  {
+   "createdAt": "2026-09-18T09:59:05Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 762,
+   "title": "[GoogleNews] Dalla Campania ai vertici delle graduatorie nazionali di Medicina: il successo di due giovani studenti Cordua - Il Mattino",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/762"
+  },
+  {
+   "createdAt": "2026-09-18T09:59:04Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 761,
+   "title": "[GoogleNews] Palermo, Comune di Cefalù: selezione per operatori ai servizi ausiliari con scuola dell'obbligo (o licenza media) - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/761"
+  },
+  {
+   "createdAt": "2026-09-18T09:59:04Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 760,
+   "title": "[GoogleNews] Reggio Calabria, Comune di Melicuccà: assunzione per manovale con licenza media - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/760"
+  },
+  {
+   "createdAt": "2026-09-18T09:58:49Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 759,
+   "title": "[Scadenzario] #3 Cedolino pensione — ottobre 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/759"
+  },
   {
    "createdAt": "2026-09-17T10:17:12Z",
    "labels": [
@@ -1246,160 +1400,6 @@
    "number": 670,
    "title": "[GoogleNews] L'Azienda Zero ha indetto un concorso da 41 posti per diplomati come amministrativi in Calabria - Simone Concorsi",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/670"
-  },
-  {
-   "createdAt": "2026-09-09T10:00:42Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 669,
-   "title": "[GoogleNews] Agenzia Entrate Sicilia: assunzione addetto licenza media - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/669"
-  },
-  {
-   "createdAt": "2026-09-09T10:00:42Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 668,
-   "title": "[GoogleNews] Guida Turistica: Aggiornamento — esiti e abilitati luglio–agosto 2026 - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/668"
-  },
-  {
-   "createdAt": "2026-09-09T10:00:41Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 667,
-   "title": "[GoogleNews] Concorso Nazionale IYPT Italia 2027 - Ufficio Scolastico Regionale per la Sicilia – Direzione Generale",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/667"
-  },
-  {
-   "createdAt": "2026-09-09T10:00:40Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 666,
-   "title": "[GoogleNews] Ballarò, bando sospeso e commercianti in rivolta: \"Non lascio il mio posto\" - Il Fatto Quotidiano",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/666"
-  },
-  {
-   "createdAt": "2026-09-09T10:00:40Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 665,
-   "title": "[GoogleNews] Concorsi Autisti 2026 – Tutti i bandi di concorso aperti o in svolgimento - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/665"
-  },
-  {
-   "createdAt": "2026-09-08T09:58:08Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 664,
-   "title": "[GoogleNews] Concorso Comune Termoli Agenti di Polizia Locale da 6 posti: Ecco la determina della graduatoria - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/664"
-  },
-  {
-   "createdAt": "2026-09-08T09:58:08Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 663,
-   "title": "[GoogleNews] Concorso Tenenti Forestali Carabinieri 2026 da 12 posti: Avviso pubblicazione graduatoria di merito - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/663"
-  },
-  {
-   "createdAt": "2026-09-08T09:58:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 662,
-   "title": "[GoogleNews] Concorso Comune Procida Istruttori Amministrativi 2026: Elenco ammessi con riserva - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/662"
-  },
-  {
-   "createdAt": "2026-09-08T09:58:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 661,
-   "title": "[GoogleNews] Concorso Comune Corigliano-Rossano da 26 posti: Candidati ammessi e Nomina della commissione - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/661"
-  },
-  {
-   "createdAt": "2026-09-08T09:58:06Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 660,
-   "title": "[GoogleNews] Concorso da 31 posti per tecnici di laboratorio: come partecipare, requisiti e scadenze - QuiFinanza",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/660"
-  },
-  {
-   "createdAt": "2026-09-08T09:58:06Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 659,
-   "title": "[GoogleNews] Concorso Coesione Sud 2026, 882 assunzioni a tempo indeterminato: 269 posti in Sicilia - Dedalomultimedia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/659"
   }
  ]
 }
