@@ -1,6 +1,188 @@
 {
- "generated_at": "2026-09-18T09:59:11+00:00",
+ "generated_at": "2026-09-19T09:40:51+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-09-19T09:40:49Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 782,
+   "title": "[GoogleNews] Milano, ASST Santi Paolo e Carlo: concorso per 25 tecnici sanitari radiologia, lavoro a tempo indeterminato - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/782"
+  },
+  {
+   "createdAt": "2026-09-19T09:40:49Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 781,
+   "title": "[GoogleNews] Conservatorio di Teramo: concorso per operatore (ex coadiutore – bidello) - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/781"
+  },
+  {
+   "createdAt": "2026-09-19T09:40:49Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 780,
+   "title": "[GoogleNews] Puglia, Conservatorio di Monopoli: selezioni per docenti, lavoro a tempo indeterminato - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/780"
+  },
+  {
+   "createdAt": "2026-09-19T09:40:48Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 779,
+   "title": "[GoogleNews] Area Science Park Trieste: concorso per diplomati, lavoro come collaboratore amministrativo contabile - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/779"
+  },
+  {
+   "createdAt": "2026-09-19T09:40:48Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 778,
+   "title": "[GoogleNews] Marche: assunzioni per videoterminalisti con licenza media (o scuola dell’obbligo) - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/778"
+  },
+  {
+   "createdAt": "2026-09-19T09:40:47Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 777,
+   "title": "[GoogleNews] Università di Camerino: concorso per diplomati, assunzione collaboratore, stipendio oltre 20mila euro - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/777"
+  },
+  {
+   "createdAt": "2026-09-19T09:40:47Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 776,
+   "title": "[GoogleNews] Comune di Verbania: concorso per diplomati, istruttori servizi culturali e biblioteca - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/776"
+  },
+  {
+   "createdAt": "2026-09-19T09:40:47Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 775,
+   "title": "[GoogleNews] Bergamo, Comune di Dalmine: concorso per insegnanti scuola d’infanzia - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/775"
+  },
+  {
+   "createdAt": "2026-09-19T09:40:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 774,
+   "title": "[GoogleNews] Bologna, Comune di Imola: concorso per diplomati, istruttore politiche di settore, categorie protette - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/774"
+  },
+  {
+   "createdAt": "2026-09-19T09:40:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 773,
+   "title": "[GoogleNews] Venezia, Comune di Jesolo: concorso per 5 diplomati, istruttori Polizia locale, stipendio oltre 23mila euro - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/773"
+  },
+  {
+   "createdAt": "2026-09-19T09:40:27Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 772,
+   "title": "INPS: campagna informativa sull’Assegno unico associato all’ISEE corrente Prima dell’invio delle comunicazioni individuali - P",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/772"
+  },
+  {
+   "createdAt": "2026-09-19T09:40:26Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 771,
+   "title": "INPS: 4087 - INPS: campagna informativa sull’Assegno unico associato all’ISEE corrente. Prima dell’invio delle comunicazioni i",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/771"
+  },
+  {
+   "createdAt": "2026-09-19T09:40:26Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 770,
+   "title": "INPS: Assegno unico: al via le comunicazioni su controlli delle DSU per ISEE - Portale Inps",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/770"
+  },
   {
    "createdAt": "2026-09-18T09:59:07Z",
    "labels": [
@@ -1218,188 +1400,6 @@
    "number": 683,
    "title": "[GoogleNews] Concorso Banca d'Italia Tecnici ICT 2026 da 50 posti: Ecco i testi estratti durante le prove scritte - Concorsando.it",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/683"
-  },
-  {
-   "createdAt": "2026-09-10T09:58:08Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 682,
-   "title": "[GoogleNews] Concorso ASL Roma 5 Tecnici Laboratorio e di Radiologia da 24 posti: ecco i vincitori - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/682"
-  },
-  {
-   "createdAt": "2026-09-10T09:58:08Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 681,
-   "title": "[GoogleNews] Concorso Politecnico Torino Funzionari Tecnici e Amministrativi 2026: Terzo rinvio e date delle prove - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/681"
-  },
-  {
-   "createdAt": "2026-09-10T09:58:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 680,
-   "title": "[GoogleNews] Concorso AdE Bolzano Categorie Protette Assistenti Gestionali da 5 posti: Come prepararsi - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/680"
-  },
-  {
-   "createdAt": "2026-09-10T09:58:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 679,
-   "title": "[GoogleNews] Blog | La sanità calabrese cerca 41 impiegati ma ha già pronta una lista di idonei. Perché fare un nuovo concorso? - Il Fatto Quot",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/679"
-  },
-  {
-   "createdAt": "2026-09-10T09:58:06Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 678,
-   "title": "[GoogleNews] Agenzia delle Entrate assume con licenza media: posto a tempo indeterminato per addetti al protocollo - concorsipubblici.net",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/678"
-  },
-  {
-   "createdAt": "2026-09-10T09:58:06Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 677,
-   "title": "[GoogleNews] Ferrovia Circumetnea: concorsi 2026 per operatori, capi e coordinatore d'ufficio. Stipendi fra 26mila e 35mila euro - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/677"
-  },
-  {
-   "createdAt": "2026-09-10T09:58:05Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 676,
-   "title": "[GoogleNews] Selezione Agenti di Polizia Locale a Gioia Tauro 2026: Ecco i vincitori - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/676"
-  },
-  {
-   "createdAt": "2026-09-10T09:58:05Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 675,
-   "title": "[GoogleNews] Sinagra: 24ª edizione del concorso “Il Balcone Fiorito”, tutti i premiati - GLPress",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/675"
-  },
-  {
-   "createdAt": "2026-09-09T10:00:45Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 674,
-   "title": "[GoogleNews] Concorso Azienda Zero Calabria: 41 posti di Assistente Amministrativo, come partecipare - LeggiOggi",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/674"
-  },
-  {
-   "createdAt": "2026-09-09T10:00:45Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 673,
-   "title": "[GoogleNews] CONCORSO AZIENDA ZERO CALABRIA PER 41 ASSISTENTI AMMINISTRATIVI - Cammino Diritto – Formazione",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/673"
-  },
-  {
-   "createdAt": "2026-09-09T10:00:44Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 672,
-   "title": "[GoogleNews] Concorsi in Regione Calabria, gli idonei contestano gli emendamenti: «Così si svuota la tutela del merito - ReggioTV",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/672"
-  },
-  {
-   "createdAt": "2026-09-09T10:00:43Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 671,
-   "title": "[GoogleNews] Concorso Assistenti Azienda Zero Calabria Amministrativi 2026: 41 posti a tempo pieno e indeterminato - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/671"
-  },
-  {
-   "createdAt": "2026-09-09T10:00:43Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 670,
-   "title": "[GoogleNews] L'Azienda Zero ha indetto un concorso da 41 posti per diplomati come amministrativi in Calabria - Simone Concorsi",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/670"
   }
  ]
 }
