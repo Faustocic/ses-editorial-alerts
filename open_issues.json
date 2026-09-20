@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-09-19T09:40:51+00:00",
+ "generated_at": "2026-09-20T09:58:50+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-09-20T09:58:49Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 792,
+   "title": "[GoogleNews] Concorso al Comune di Cefalù, ai vincitori il contratto indeterminato - QdS",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/792"
+  },
+  {
+   "createdAt": "2026-09-20T09:58:49Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 791,
+   "title": "[GoogleNews] Concorsi in scadenza a settembre 2026: bandi ancora aperti e domande - Simone Concorsi",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/791"
+  },
+  {
+   "createdAt": "2026-09-20T09:58:48Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 790,
+   "title": "[GoogleNews] Concorso ASMEL 2026, domande dal 15 Settembre: come candidarsi e prepararsi - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/790"
+  },
+  {
+   "createdAt": "2026-09-20T09:58:48Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 789,
+   "title": "[GoogleNews] Padova, AltaVita I.R.A.: concorso per infermieri, nuove assunzioni a tempo indeterminato - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/789"
+  },
+  {
+   "createdAt": "2026-09-20T09:58:47Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 788,
+   "title": "[GoogleNews] Concorsi pubblici, bandi in scadenza nella settimana dal 14 al 20 Settembre 2026 - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/788"
+  },
+  {
+   "createdAt": "2026-09-20T09:58:47Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 787,
+   "title": "[GoogleNews] Comune di Perugia: concorsi per diplomati, amministrativi e tecnici. Stipendio circa 1900 euro - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/787"
+  },
+  {
+   "createdAt": "2026-09-20T09:58:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 786,
+   "title": "[GoogleNews] Napoli, Comune di Casoria: concorso per diplomati, istruttore multimediale (Ufficio comunicazione) - ticonsiglio.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/786"
+  },
+  {
+   "createdAt": "2026-09-20T09:58:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 785,
+   "title": "[GoogleNews] Città Metropolitana di Venezia: concorso per coordinatori amministrativi, con laurea anche triennale, stipendio oltre 27mila euro ",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/785"
+  },
+  {
+   "createdAt": "2026-09-20T09:58:45Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 784,
+   "title": "[GoogleNews] Aree private del 2° lotto della scorrimento veloce Patti-San Piero Patti: accolto ricorso contro la Città Metropolitana di Messina",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/784"
+  },
+  {
+   "createdAt": "2026-09-20T09:58:45Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 783,
+   "title": "[GoogleNews] Agenzia delle Entrate assume Addetto al protocollo a tempo indeterminato: serve licenza media, domanda - concorsipubblici.net",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/783"
+  },
   {
    "createdAt": "2026-09-19T09:40:49Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 693,
    "title": "[GoogleNews] ASP Parma: concorso per infermieri, stipendio quasi 28mila euro - Ti Consiglio",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/693"
-  },
-  {
-   "createdAt": "2026-09-11T09:55:39Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 692,
-   "title": "[GoogleNews] Servizi sociali a Palermo, verso 44 nuove assunzioni. Terrani: ''Una boccata d'ossigeno per il Comune e i cittadini'' - Palermoman",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/692"
-  },
-  {
-   "createdAt": "2026-09-11T09:55:38Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 691,
-   "title": "[GoogleNews] Comune di Reggio Emilia: concorso per 24 insegnanti scuola d'infanzia, lavoro a tempo indeterminato - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/691"
-  },
-  {
-   "createdAt": "2026-09-11T09:55:38Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 690,
-   "title": "[GoogleNews] Azienda Zero Calabria: concorso per 41 diplomati, assistenti amministrativi, Bando 2026 - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/690"
-  },
-  {
-   "createdAt": "2026-09-11T09:55:38Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 689,
-   "title": "[GoogleNews] Concorso Asp Reggio Emilia Educatori 2026: Ecco le date della prova orale - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/689"
-  },
-  {
-   "createdAt": "2026-09-11T09:55:37Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 688,
-   "title": "[GoogleNews] Comune di Reggio Calabria – Notizie – Graduatoria definitiva - gazzettadireggio.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/688"
-  },
-  {
-   "createdAt": "2026-09-11T09:55:37Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 687,
-   "title": "[GoogleNews] Comune di Reggio Calabria – Notizie – Rettifica modulo di accettazione - gazzettadireggio.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/687"
-  },
-  {
-   "createdAt": "2026-09-11T09:55:36Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 686,
-   "title": "[GoogleNews] Comune di Reggio Calabria – Notizie – Graduatorie definitive - gazzettadireggio.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/686"
-  },
-  {
-   "createdAt": "2026-09-11T09:55:36Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 685,
-   "title": "[GoogleNews] Agenzia delle Entrate assume a Ragusa: posto a tempo indeterminato per categorie protette, basta la licenza media - concorsi-pubbl",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/685"
-  },
-  {
-   "createdAt": "2026-09-10T09:58:09Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 684,
-   "title": "[GoogleNews] Concorso ASL Salerno Tecnici di Radiologia Medica da 20 posti: Come prepararsi - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/684"
-  },
-  {
-   "createdAt": "2026-09-10T09:58:09Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 683,
-   "title": "[GoogleNews] Concorso Banca d'Italia Tecnici ICT 2026 da 50 posti: Ecco i testi estratti durante le prove scritte - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/683"
   }
  ]
 }
