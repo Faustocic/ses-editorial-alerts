@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-09-20T09:58:50+00:00",
+ "generated_at": "2026-09-21T10:59:35+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-09-21T10:59:34Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 802,
+   "title": "[GoogleNews] Concorso ASMEL 2026, via alle domande: profili, requisiti e come fare domanda - LiveUniCT – Notizie su Catania e Università",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/802"
+  },
+  {
+   "createdAt": "2026-09-21T10:59:33Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 801,
+   "title": "[GoogleNews] Esame Avvocato 2026: domande dal 1° ottobre, prove scritte 15 e 16 dicembre. Ecco come funziona, le novità e il bando - Ti Consigl",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/801"
+  },
+  {
+   "createdAt": "2026-09-21T10:59:33Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 800,
+   "title": "[GoogleNews] Equitalia Giustizia: assunzioni a tempo indeterminato, stipendi fino a 46.560 euro. Bandi 2026 - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/800"
+  },
+  {
+   "createdAt": "2026-09-21T10:59:33Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 799,
+   "title": "[GoogleNews] ASUIT Trento: concorsi per 13 posti, assunzioni Autisti di ambulanza, cuochi e collaboratori informatici - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/799"
+  },
+  {
+   "createdAt": "2026-09-21T10:59:32Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 798,
+   "title": "[GoogleNews] Autorità Laguna Venezia: concorso per 28 posti, diplomati e laureati. Stipendi fino a 25mila euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/798"
+  },
+  {
+   "createdAt": "2026-09-21T10:59:32Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 797,
+   "title": "[GoogleNews] Ministero della Difesa: concorso per Atleti paralimpici con licenza media, Centro sportivo paralimpico. Bando 2026 - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/797"
+  },
+  {
+   "createdAt": "2026-09-21T10:59:31Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 796,
+   "title": "[GoogleNews] Concorsi pubblici, circa 2.000 posti in scadenza entro fine mese, dal 21 al 30 settembre 2026: ecco i bandi - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/796"
+  },
+  {
+   "createdAt": "2026-09-21T10:59:31Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 795,
+   "title": "[GoogleNews] ASU FC di Udine: concorso per 7 assistenti sociali, lavoro a tempo indeterminato in varie sedi - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/795"
+  },
+  {
+   "createdAt": "2026-09-21T10:59:30Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 794,
+   "title": "[GoogleNews] SAS, l’Antimafia regionale denuncia «buchi e scandali»: nel mirino assunzioni e incarichi - Meridionews",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/794"
+  },
+  {
+   "createdAt": "2026-09-21T10:59:30Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 793,
+   "title": "[GoogleNews] “Una punta di Sal”. la Sicilia dei concorsi di massa e i sogni sospesi. La storia di un giovane mazarese - www.primapaginamazara.i",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/793"
+  },
   {
    "createdAt": "2026-09-20T09:58:49Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 703,
    "title": "[GoogleNews] Concorso AGEA Funzionari da 13 posti – Approvazione Graduatorie finali e Scorrimenti - Concorsando.it",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/703"
-  },
-  {
-   "createdAt": "2026-09-12T09:31:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 702,
-   "title": "[GoogleNews] Acquaformosa, concorsi ad Comune per il personale dopo 34 anni, il sindaco Milione fa chiarezza - corrieredellacalabria.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/702"
-  },
-  {
-   "createdAt": "2026-09-12T09:31:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 701,
-   "title": "[GoogleNews] Concorso Ferrovia Circumetnea Capi Operatori e Manutentori Infrastrutture civili 2026: 6 posti a tempo indeterminato - Concorsando",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/701"
-  },
-  {
-   "createdAt": "2026-09-12T09:31:06Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 700,
-   "title": "[GoogleNews] Bergamo, Comune di Treviglio: concorso per diplomati, istruttori amministrativi contabili - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/700"
-  },
-  {
-   "createdAt": "2026-09-12T09:31:06Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 699,
-   "title": "[GoogleNews] Comune di Reggio Calabria – Notizie – Graduatorie provvisorie - gazzettadireggio.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/699"
-  },
-  {
-   "createdAt": "2026-09-12T09:31:06Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 698,
-   "title": "[GoogleNews] Concorso Comune Reggio Emilia Funzionario Reti Educative 2026: 24 posti a tempo indeterminato - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/698"
-  },
-  {
-   "createdAt": "2026-09-12T09:31:05Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 697,
-   "title": "[GoogleNews] Bper al via bando per 300 borse di studio da 500 euro - Zazoom Social News",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/697"
-  },
-  {
-   "createdAt": "2026-09-12T09:31:05Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 696,
-   "title": "[GoogleNews] Teatri Riflessi Festival 2027: aperto il bando per il Concorso Internazionale di Corti Performativi - Krapp's Last Post",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/696"
-  },
-  {
-   "createdAt": "2026-09-12T09:31:04Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 695,
-   "title": "[GoogleNews] Franco Scoglio, 40 milioni per la copertura: il comune risponde a FdI e attende il bando regionale - MessinaToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/695"
-  },
-  {
-   "createdAt": "2026-09-11T09:55:39Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 694,
-   "title": "[GoogleNews] Primo premio (Sezione Racconto), quinto premio (Sezione Poesia) e menzione speciale al Convitto Cutelli alla 21ª edizione del conc",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/694"
-  },
-  {
-   "createdAt": "2026-09-11T09:55:39Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 693,
-   "title": "[GoogleNews] ASP Parma: concorso per infermieri, stipendio quasi 28mila euro - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/693"
   }
  ]
 }
