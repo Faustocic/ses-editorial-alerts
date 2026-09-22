@@ -1,6 +1,160 @@
 {
- "generated_at": "2026-09-21T10:59:35+00:00",
+ "generated_at": "2026-09-22T10:13:32+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-09-22T10:13:29Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 813,
+   "title": "[GoogleNews] Dottorato UniCal: scade oggi il bando per 119 posti con borsa - News Istruzione",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/813"
+  },
+  {
+   "createdAt": "2026-09-22T10:13:28Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 812,
+   "title": "[GoogleNews] Bando Ripam per 882 specialisti nelle amministrazioni: \"Si cercano esperti di rischio idrogeologico e sismico, ma si escludono i g",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/812"
+  },
+  {
+   "createdAt": "2026-09-22T10:13:28Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 811,
+   "title": "[GoogleNews] Concorso da 882 posti per tecnici al Consiglio dei Ministri | requisiti e scadenze - Zazoom Social News",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/811"
+  },
+  {
+   "createdAt": "2026-09-22T10:13:28Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 810,
+   "title": "[GoogleNews] Concorsi Tecnici di Radiologia 2026 – Tutti i bandi di concorso aperti o in svolgimento - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/810"
+  },
+  {
+   "createdAt": "2026-09-22T10:13:27Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 809,
+   "title": "[GoogleNews] Pubblicato il calendario delle prove per il concorso da 1100 posti al Ministero della Difesa - Simone Concorsi",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/809"
+  },
+  {
+   "createdAt": "2026-09-22T10:13:27Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 808,
+   "title": "[GoogleNews] Treviso, IPAB Francesco Fenzi: concorso per 5 OSS, bastano licenza media e qualifica - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/808"
+  },
+  {
+   "createdAt": "2026-09-22T10:13:27Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 807,
+   "title": "[GoogleNews] Proiezioni, grandi ospiti del cinema e un concorso: al via il Reggio Calabria FilmFest-Festival dello Stretto - ReggioToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/807"
+  },
+  {
+   "createdAt": "2026-09-22T10:13:26Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 806,
+   "title": "[GoogleNews] 118, il Coas contro le nuove regole sui concorsi: \"Anestesia ed Emergenza-Urgenza non sono equipollenti\" - MessinaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/806"
+  },
+  {
+   "createdAt": "2026-09-22T10:13:26Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 805,
+   "title": "[GoogleNews] Ausiliari degli ospedali, i sindacati: \"Subito i concorsi, pronti alla mobilitazione se non arriveranno risposte\" - PalermoToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/805"
+  },
+  {
+   "createdAt": "2026-09-22T10:13:26Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 804,
+   "title": "[GoogleNews] Concorso per funzionari, la Cisal a Schifani: \"Far scorrere la graduatoria\" - LiveSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/804"
+  },
+  {
+   "createdAt": "2026-09-22T10:13:13Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 803,
+   "title": "INPS: Pensionati: il cedolino di pensione di ottobre 2026 - Portale Inps",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/803"
+  },
   {
    "createdAt": "2026-09-21T10:59:34Z",
    "labels": [
@@ -1246,160 +1400,6 @@
    "number": 714,
    "title": "[GoogleNews] Concorsi medici in Calabria: boom di domande per anestesisti e neurologi - Blasting News",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/714"
-  },
-  {
-   "createdAt": "2026-09-13T10:30:12Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 713,
-   "title": "[GoogleNews] Concorsi pubblici, bandi in scadenza nella settimana dal 7 al 13 Settembre 2026 - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/713"
-  },
-  {
-   "createdAt": "2026-09-13T10:30:12Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 712,
-   "title": "[GoogleNews] Concorso Azienda Zero Calabria: opportunità per assistenti amministrativi diplomati - concorsi-pubblici.org",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/712"
-  },
-  {
-   "createdAt": "2026-09-13T10:30:11Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 711,
-   "title": "[GoogleNews] Concorso Azienda Zero Veneto Ingegneri Biomedici da 4 posti: Ecco le graduatorie - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/711"
-  },
-  {
-   "createdAt": "2026-09-13T10:30:11Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 710,
-   "title": "[GoogleNews] Concorso Marescialli Carabinieri riservato ai bilinguisti da 24 posti: Ecco i vincitori - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/710"
-  },
-  {
-   "createdAt": "2026-09-13T10:30:10Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 709,
-   "title": "[GoogleNews] Concorso Allievi Agenti della Polizia di Stato 2026 da 4.400 - Ecco le date per gli accertamenti fisici e psicofisici - Concorsand",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/709"
-  },
-  {
-   "createdAt": "2026-09-13T10:30:10Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 708,
-   "title": "[GoogleNews] Concorso Comune Genova Istruttori Tecnici da 7 posti: Ecco i vincitori del bando - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/708"
-  },
-  {
-   "createdAt": "2026-09-13T10:30:09Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 707,
-   "title": "[GoogleNews] Concorso Agenzia Piemonte Lavoro Assistenti Amministrativi da 16 posti: Graduatoria definitiva - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/707"
-  },
-  {
-   "createdAt": "2026-09-13T10:30:09Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 706,
-   "title": "[GoogleNews] Concorso Azienda Ospedaliera Perugia Collaboratori Informatici 2026: 7 posti a tempo indeterminato - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/706"
-  },
-  {
-   "createdAt": "2026-09-13T10:30:09Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 705,
-   "title": "[GoogleNews] Concorso pubblico, 882 posti di lavoro al Sud: 237 destinati alla Campania - ilSud24",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/705"
-  },
-  {
-   "createdAt": "2026-09-12T09:31:08Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 704,
-   "title": "[GoogleNews] Selezione Praticantati AGCOM 2026: 34 posti con adeguata formazione - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/704"
-  },
-  {
-   "createdAt": "2026-09-12T09:31:08Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 703,
-   "title": "[GoogleNews] Concorso AGEA Funzionari da 13 posti – Approvazione Graduatorie finali e Scorrimenti - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/703"
   }
  ]
 }
