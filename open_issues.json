@@ -1,6 +1,160 @@
 {
- "generated_at": "2026-09-24T10:22:23+00:00",
+ "generated_at": "2026-09-25T10:26:06+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-09-25T10:26:05Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 846,
+   "title": "[GoogleNews] Concorso Comune di Venezia: 10 posti per istruttori direttivi amministrativi laureati - concorsi-pubblici.org",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/846"
+  },
+  {
+   "createdAt": "2026-09-25T10:26:04Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 845,
+   "title": "[GoogleNews] Università di Brescia: concorsi per laureati, settore Risorse Umane ed Economiche, stipendio oltre 28mila euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/845"
+  },
+  {
+   "createdAt": "2026-09-25T10:26:04Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 844,
+   "title": "[GoogleNews] Concorsi per laureati in Ingegneria Meccanica (LM-33) - Bandi e guide sulla partecipazione e la preparazione - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/844"
+  },
+  {
+   "createdAt": "2026-09-25T10:26:03Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 843,
+   "title": "[GoogleNews] Sanità, la Regione prepara 2.500 assunzioni in Sicilia: medici, infermieri e Oss per le strutture territoriali - MessinaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/843"
+  },
+  {
+   "createdAt": "2026-09-25T10:26:03Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 842,
+   "title": "[GoogleNews] Concorso all’Agenzia delle Entrate per soli cittadini italiani? Illegittimo - Collettiva",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/842"
+  },
+  {
+   "createdAt": "2026-09-25T10:26:02Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 841,
+   "title": "[GoogleNews] Sanità siciliana: al via nuovi concorsi - in sanitas",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/841"
+  },
+  {
+   "createdAt": "2026-09-25T10:26:02Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 840,
+   "title": "[GoogleNews] Conservatorio di Cosenza: concorso per operatori, personale ATA, stipendio circa 21mila euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/840"
+  },
+  {
+   "createdAt": "2026-09-25T10:26:01Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 839,
+   "title": "[GoogleNews] Assunzioni Cosfel nei Comuni di Campania, Abruzzo, Lazio, Calabria e Sicilia: in arrivo nuovi concorsi per 278 posti - concorsi-pu",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/839"
+  },
+  {
+   "createdAt": "2026-09-25T10:26:01Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 838,
+   "title": "[GoogleNews] Reggio Calabria, torna il bando Premi per l’Innovazione: in palio fino a 35 mila euro per le imprese. Come e dove presentare doman",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/838"
+  },
+  {
+   "createdAt": "2026-09-25T10:26:00Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 837,
+   "title": "[GoogleNews] Bando di concorso a n. 52 Unità (Codici ISPAM e ISPTEC) - TaorminaNews24",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/837"
+  },
+  {
+   "createdAt": "2026-09-25T10:25:41Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 836,
+   "title": "[Scadenzario] #9 Scadenze fiscali — ottobre 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/836"
+  },
   {
    "createdAt": "2026-09-24T10:22:22Z",
    "labels": [
@@ -1246,160 +1400,6 @@
    "number": 747,
    "title": "INPS: Roma, 16 settembre 2026 ASSEGNO UNICO UNIVERSALE: nei primi sette mesi del 2026 erogati 11,6 miliardi euro, con riferime",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/747"
-  },
-  {
-   "createdAt": "2026-09-17T10:16:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 746,
-   "title": "INPS: Assegno unico e universale: l’Osservatorio con i dati di luglio 2026 - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/746"
-  },
-  {
-   "createdAt": "2026-09-16T10:12:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 745,
-   "title": "[GoogleNews] Maxi concorso pubblico per 882 posti a tempo indeterminato. 35 unità da assumere in Basilicata: in 27 Comuni e alla Provincia di P",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/745"
-  },
-  {
-   "createdAt": "2026-09-16T10:12:45Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 744,
-   "title": "[GoogleNews] Comune di Palermo, aperto il bando per il Garante dei diritti delle persone con disabilità - lasicilia.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/744"
-  },
-  {
-   "createdAt": "2026-09-16T10:12:44Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 743,
-   "title": "[GoogleNews] Avviso di apertura della finestra permanente per nuovi inserimenti in coda alle graduatorie triennali vigenti (profili a-b-c-) – s",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/743"
-  },
-  {
-   "createdAt": "2026-09-16T10:12:44Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 742,
-   "title": "[GoogleNews] Catania: prosegue il servizio di rimozione dei veicoli abbandonati - Free Press Online",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/742"
-  },
-  {
-   "createdAt": "2026-09-16T10:12:43Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 741,
-   "title": "[GoogleNews] VIDEO|Trantino contro chi abbandona i rifiuti: \"Siete parassiti che odiano Catania\" - CataniaToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/741"
-  },
-  {
-   "createdAt": "2026-09-16T10:12:43Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 740,
-   "title": "[GoogleNews] Servizi sociali, 40 nuove assunzioni per tre anni al Comune di Palermo - LiveSicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/740"
-  },
-  {
-   "createdAt": "2026-09-16T10:12:42Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 739,
-   "title": "[GoogleNews] Veicoli abbandonati e carcasse di mezzi, il servizio di rimozione resta attivo - Comune di Catania",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/739"
-  },
-  {
-   "createdAt": "2026-09-16T10:12:42Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 738,
-   "title": "[GoogleNews] Comune di Foggia, pubblicata la graduatoria finale del concorso per Funzionari Amministrativi - FoggiaToday - cronaca e notizie da",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/738"
-  },
-  {
-   "createdAt": "2026-09-16T10:12:41Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 737,
-   "title": "[GoogleNews] Concorso insegnanti Comune di Reggio Emilia: requisiti, prove e domanda - concorsi-pubblici.org",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/737"
-  },
-  {
-   "createdAt": "2026-09-16T10:12:41Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 736,
-   "title": "[GoogleNews] Caro carburanti, 17 milioni dalla Regione per sostenere la pesca, ecco il bando - BlogSicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/736"
   }
  ]
 }
