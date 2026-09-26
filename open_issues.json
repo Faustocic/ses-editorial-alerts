@@ -1,6 +1,174 @@
 {
- "generated_at": "2026-09-25T10:26:06+00:00",
+ "generated_at": "2026-09-26T10:05:30+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-09-26T10:05:29Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 858,
+   "title": "[GoogleNews] Concorso operai Rap: la Corte di Appello di Palermo sospende sentenza di primo grado - Quotidiano di Palermo",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/858"
+  },
+  {
+   "createdAt": "2026-09-26T10:05:28Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 857,
+   "title": "[GoogleNews] Crotone, ex Poliambulatorio di Corso Messina abbandonato: Barbuto (M5S) interroga Occhiuto - WeSud",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/857"
+  },
+  {
+   "createdAt": "2026-09-26T10:05:28Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 856,
+   "title": "[GoogleNews] Catania lancia un concorso di idee per la Street Art nel centro storico: candidature entro il 14 ottobre 2026 - Il Fatto di Catani",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/856"
+  },
+  {
+   "createdAt": "2026-09-26T10:05:28Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 855,
+   "title": "[GoogleNews] Street art, graffiti anche sugli archi della marina: arriva il concorso del Comune - La Sicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/855"
+  },
+  {
+   "createdAt": "2026-09-26T10:05:27Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 854,
+   "title": "[GoogleNews] Catania: concorso di idee per la Street Art nel centro storico - Free Press Online",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/854"
+  },
+  {
+   "createdAt": "2026-09-26T10:05:27Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 853,
+   "title": "[GoogleNews] Decoro Urbano, arriva il concorso di idee per interventi di Street Art nel centro storico - cronaca oggi quotidiano",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/853"
+  },
+  {
+   "createdAt": "2026-09-26T10:05:26Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 852,
+   "title": "[GoogleNews] Street art nel centro storico: il Comune lancia un concorso di idee per quattro siti - CataniaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/852"
+  },
+  {
+   "createdAt": "2026-09-26T10:05:26Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 851,
+   "title": "[GoogleNews] Concorsi Ottobre 2026: 22 Bandi Disponibili per oltre 600 posti - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/851"
+  },
+  {
+   "createdAt": "2026-09-26T10:05:25Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 850,
+   "title": "[GoogleNews] Concorso a Messina, un posto da dirigente delle professioni sanitarie all’IRCCS Neurolesi - Pagina 2 di 3 - Sicilianews24.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/850"
+  },
+  {
+   "createdAt": "2026-09-26T10:05:25Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 849,
+   "title": "[GoogleNews] Sanità siciliana. Al via nuovi concorsi: ecco sedi, numero di posti e branche specialistiche - il Fatto Nisseno",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/849"
+  },
+  {
+   "createdAt": "2026-09-26T10:05:12Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 848,
+   "title": "[Scadenzario] #1 Pagamenti INPS (hub) — ottobre 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/848"
+  },
+  {
+   "createdAt": "2026-09-26T10:05:12Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 847,
+   "title": "[Scadenzario] #2 Pensioni — ottobre 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/847"
+  },
   {
    "createdAt": "2026-09-25T10:26:05Z",
    "labels": [
@@ -1232,174 +1400,6 @@
    "number": 759,
    "title": "[Scadenzario] #3 Cedolino pensione — ottobre 2026",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/759"
-  },
-  {
-   "createdAt": "2026-09-17T10:17:12Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 758,
-   "title": "[GoogleNews] Il Gruppo Idonei Concorsi Regione Calabria sulla proposta di legge regionale: «La nostra battaglia ora è nazionale» - Corriere del",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/758"
-  },
-  {
-   "createdAt": "2026-09-17T10:17:12Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 757,
-   "title": "[GoogleNews] Concorsi Oristano 2026 non scaduti – Tutti i bandi nella provincia - concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/757"
-  },
-  {
-   "createdAt": "2026-09-17T10:17:11Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 756,
-   "title": "[GoogleNews] Concorso ASMEL 2026, via alle domande: profili, requisiti e come fare domanda - catania.liveuniversity.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/756"
-  },
-  {
-   "createdAt": "2026-09-17T10:17:11Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 755,
-   "title": "[GoogleNews] In Sicilia 2.700 nuove assunzioni per case e ospedali di comunità, i sindacati: \"Adesso servono tempi certi\" - PalermoToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/755"
-  },
-  {
-   "createdAt": "2026-09-17T10:17:10Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 754,
-   "title": "[GoogleNews] Coppa degli Assi, torna il concorso ippico al parco della Favorita e il Comune prepara il terreno - lasicilia.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/754"
-  },
-  {
-   "createdAt": "2026-09-17T10:17:10Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 753,
-   "title": "[GoogleNews] Comune di Palermo, bando per candidature a Garante per le persone con disabilità - ANSA",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/753"
-  },
-  {
-   "createdAt": "2026-09-17T10:17:09Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 752,
-   "title": "[GoogleNews] Rettifica avviso. Realizzazione del progetto “Turismo e Territorio – Il Made in Sicily Fest – Agricoltura in città” - Comune di Pa",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/752"
-  },
-  {
-   "createdAt": "2026-09-17T10:17:09Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 751,
-   "title": "[GoogleNews] Nuove assunzioni in vista all'Agenzia del Risanamento, il neopresidente Rizzo: \"L'organico sarà rimpinguato\" - MessinaToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/751"
-  },
-  {
-   "createdAt": "2026-09-17T10:17:09Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 750,
-   "title": "[GoogleNews] Regione Siciliana – Concorso Agenti del Corpo Forestale - TaorminaNews24",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/750"
-  },
-  {
-   "createdAt": "2026-09-17T10:17:08Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 749,
-   "title": "[GoogleNews] Stop al concorso e a nuovi fondi all'Ast, presa di posizione di Lombardo - MessinaToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/749"
-  },
-  {
-   "createdAt": "2026-09-17T10:16:47Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 748,
-   "title": "INPS: 4086 - Assegno Unico Universale: nei primi sette mesi del 2026 erogati 11,6 miliardi euro, con riferimento a 9,7 milioni",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/748"
-  },
-  {
-   "createdAt": "2026-09-17T10:16:47Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 747,
-   "title": "INPS: Roma, 16 settembre 2026 ASSEGNO UNICO UNIVERSALE: nei primi sette mesi del 2026 erogati 11,6 miliardi euro, con riferime",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/747"
   }
  ]
 }
