@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-09-26T10:05:30+00:00",
+ "generated_at": "2026-09-27T10:40:37+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-09-27T10:40:36Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 868,
+   "title": "[GoogleNews] Idonea al concorso pubblico 54 posti Regione Calabria: sviluppi della proposta di legge - lameziaterme.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/868"
+  },
+  {
+   "createdAt": "2026-09-27T10:40:36Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 867,
+   "title": "[GoogleNews] Automobile Club Pisa: concorso per laureati, assunzione funzionario, stipendio oltre 26mila euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/867"
+  },
+  {
+   "createdAt": "2026-09-27T10:40:35Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 866,
+   "title": "[GoogleNews] Pisa, Scuola Superiore Sant’Anna: concorso per diplomati, collaboratori, categorie protette - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/866"
+  },
+  {
+   "createdAt": "2026-09-27T10:40:35Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 865,
+   "title": "[GoogleNews] Concorso RIPAM e geologi: LM-74 esclusa dai profili tecnici - Ingenio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/865"
+  },
+  {
+   "createdAt": "2026-09-27T10:40:34Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 864,
+   "title": "[GoogleNews] Palermo, in arrivo nuove assunzioni e più ore per 1.300 dipendenti - Diretta Sicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/864"
+  },
+  {
+   "createdAt": "2026-09-27T10:40:33Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 863,
+   "title": "[GoogleNews] Abbandono di rifiuti al Cep. Li Muli e Salerno: “Il presidente della VI Circoscrizione Valenti non scarichi sui cittadini gli erro",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/863"
+  },
+  {
+   "createdAt": "2026-09-27T10:40:33Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 862,
+   "title": "[GoogleNews] Personale, la VII Commissione incontra l’Assessore Falzone: assunzioni, progressioni verticali e aumento orario al centro del conf",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/862"
+  },
+  {
+   "createdAt": "2026-09-27T10:40:32Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 861,
+   "title": "[GoogleNews] Decoro Urbano a Catania, arriva il concorso di idee per interventi di Street Art nel centro storico - Hashtag Sicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/861"
+  },
+  {
+   "createdAt": "2026-09-27T10:40:32Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 860,
+   "title": "[GoogleNews] Reggio Calabria, chiude il B’Art Café: il Comune pensa ad un nuovo bando per la rinascita - CityNow",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/860"
+  },
+  {
+   "createdAt": "2026-09-27T10:40:31Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 859,
+   "title": "[GoogleNews] Concorso a Messina, un posto da dirigente delle professioni sanitarie all’IRCCS Neurolesi - Sicilianews24.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/859"
+  },
   {
    "createdAt": "2026-09-26T10:05:29Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 769,
    "title": "[GoogleNews] Concorsi ordinari docenti, revisione tabelle: equiparati corsi INDIRE e TFA sostegno - FLC CGIL",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/769"
-  },
-  {
-   "createdAt": "2026-09-18T09:59:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 768,
-   "title": "[GoogleNews] Concorso scolastico nazionale “A Scuola di Dono” – FIDAS. VIII edizione Anno scolastico 2026/2027 - Ufficio Scolastico Regionale p",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/768"
-  },
-  {
-   "createdAt": "2026-09-18T09:59:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 767,
-   "title": "[GoogleNews] Nuovi concorsi scuola: ecco come cambia tabella titoli. Stesso punteggio TFA sostegno e Indire, superamento di un precedente conco",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/767"
-  },
-  {
-   "createdAt": "2026-09-18T09:59:06Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 766,
-   "title": "[GoogleNews] Ex tirocinanti Calabria | Tucci (M5S): Governo emani Dpcm per 266 assunzioni nei ministeri - La Novità Online",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/766"
-  },
-  {
-   "createdAt": "2026-09-18T09:59:06Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 765,
-   "title": "[GoogleNews] Concorsi. Idonei Calabria invocano una legge nazionale a tutela dei vincitori - CN24TV",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/765"
-  },
-  {
-   "createdAt": "2026-09-18T09:59:05Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 764,
-   "title": "[GoogleNews] Concorso Comune Santa Maria del Cedro Agenti Polizia Locale da 7 posti: Ecco i vincitori - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/764"
-  },
-  {
-   "createdAt": "2026-09-18T09:59:05Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 763,
-   "title": "[GoogleNews] Concorso da 882 posti per tecnici al Consiglio dei Ministri: requisiti e scadenze - QuiFinanza",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/763"
-  },
-  {
-   "createdAt": "2026-09-18T09:59:05Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 762,
-   "title": "[GoogleNews] Dalla Campania ai vertici delle graduatorie nazionali di Medicina: il successo di due giovani studenti Cordua - Il Mattino",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/762"
-  },
-  {
-   "createdAt": "2026-09-18T09:59:04Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 761,
-   "title": "[GoogleNews] Palermo, Comune di Cefalù: selezione per operatori ai servizi ausiliari con scuola dell'obbligo (o licenza media) - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/761"
-  },
-  {
-   "createdAt": "2026-09-18T09:59:04Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 760,
-   "title": "[GoogleNews] Reggio Calabria, Comune di Melicuccà: assunzione per manovale con licenza media - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/760"
-  },
-  {
-   "createdAt": "2026-09-18T09:58:49Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 759,
-   "title": "[Scadenzario] #3 Cedolino pensione — ottobre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/759"
   }
  ]
 }
