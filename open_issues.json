@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-09-27T10:40:37+00:00",
+ "generated_at": "2026-09-28T11:53:48+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-09-28T11:53:47Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 878,
+   "title": "[GoogleNews] Prossimi concorsi a cattedra, prova scritta, orale e titoli: quale struttura aspettarsi. Il Punto di Cozzetto - Orizzonte Scuola N",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/878"
+  },
+  {
+   "createdAt": "2026-09-28T11:53:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 877,
+   "title": "[GoogleNews] Conservatorio assume Bidelli a tempo indeterminato, ecco requisiti e domanda - concorsipubblici.net",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/877"
+  },
+  {
+   "createdAt": "2026-09-28T11:53:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 876,
+   "title": "[GoogleNews] Legge sugli idonei nei concorsi regionali: la Prima Commissione riapra al dialogo con i comitati - Catanzaro Informa",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/876"
+  },
+  {
+   "createdAt": "2026-09-28T11:53:45Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 875,
+   "title": "[GoogleNews] Concorsi pubblici, proposta della Lega per una graduatoria unica regionale - telemia.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/875"
+  },
+  {
+   "createdAt": "2026-09-28T11:53:45Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 874,
+   "title": "[GoogleNews] Idonei concorsi Calabria, Tassone alla Regione: “Approvate la legge 65 con le nostre modifiche” (VIDEO) - Calabria 7",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/874"
+  },
+  {
+   "createdAt": "2026-09-28T11:53:45Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 873,
+   "title": "[GoogleNews] Concorso Vigili del Fuoco 2026 da 400 posti: Prepararsi alle prove - Info sulla preselezione il 28 Settembre - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/873"
+  },
+  {
+   "createdAt": "2026-09-28T11:53:44Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 872,
+   "title": "[GoogleNews] Vincitori di un concorso pubblico, ma fuori dalle procedure di stabilizzazione - Corriere della Calabria",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/872"
+  },
+  {
+   "createdAt": "2026-09-28T11:53:44Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 871,
+   "title": "[GoogleNews] Nuovo bando per servizio civile agricolo, ambientale e digitale: Adalberto Boddi annuncia opportunità per giovani. - Sicilianews24",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/871"
+  },
+  {
+   "createdAt": "2026-09-28T11:53:43Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 870,
+   "title": "[GoogleNews] Assunzioni Asp, precisazione su concorsi e scadenze da parte del sindaco - Corriere di Gela",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/870"
+  },
+  {
+   "createdAt": "2026-09-28T11:53:43Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 869,
+   "title": "[GoogleNews] Impianti sportivi, bando della Regione da 40 milioni di euro per i progetti dei Comuni - GrandangoloAgrigento",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/869"
+  },
   {
    "createdAt": "2026-09-27T10:40:36Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 779,
    "title": "[GoogleNews] Area Science Park Trieste: concorso per diplomati, lavoro come collaboratore amministrativo contabile - ticonsiglio.com",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/779"
-  },
-  {
-   "createdAt": "2026-09-19T09:40:48Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 778,
-   "title": "[GoogleNews] Marche: assunzioni per videoterminalisti con licenza media (o scuola dell’obbligo) - ticonsiglio.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/778"
-  },
-  {
-   "createdAt": "2026-09-19T09:40:47Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 777,
-   "title": "[GoogleNews] Università di Camerino: concorso per diplomati, assunzione collaboratore, stipendio oltre 20mila euro - ticonsiglio.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/777"
-  },
-  {
-   "createdAt": "2026-09-19T09:40:47Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 776,
-   "title": "[GoogleNews] Comune di Verbania: concorso per diplomati, istruttori servizi culturali e biblioteca - ticonsiglio.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/776"
-  },
-  {
-   "createdAt": "2026-09-19T09:40:47Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 775,
-   "title": "[GoogleNews] Bergamo, Comune di Dalmine: concorso per insegnanti scuola d’infanzia - ticonsiglio.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/775"
-  },
-  {
-   "createdAt": "2026-09-19T09:40:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 774,
-   "title": "[GoogleNews] Bologna, Comune di Imola: concorso per diplomati, istruttore politiche di settore, categorie protette - ticonsiglio.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/774"
-  },
-  {
-   "createdAt": "2026-09-19T09:40:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 773,
-   "title": "[GoogleNews] Venezia, Comune di Jesolo: concorso per 5 diplomati, istruttori Polizia locale, stipendio oltre 23mila euro - ticonsiglio.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/773"
-  },
-  {
-   "createdAt": "2026-09-19T09:40:27Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 772,
-   "title": "INPS: campagna informativa sull’Assegno unico associato all’ISEE corrente Prima dell’invio delle comunicazioni individuali - P",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/772"
-  },
-  {
-   "createdAt": "2026-09-19T09:40:26Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 771,
-   "title": "INPS: 4087 - INPS: campagna informativa sull’Assegno unico associato all’ISEE corrente. Prima dell’invio delle comunicazioni i",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/771"
-  },
-  {
-   "createdAt": "2026-09-19T09:40:26Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 770,
-   "title": "INPS: Assegno unico: al via le comunicazioni su controlli delle DSU per ISEE - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/770"
-  },
-  {
-   "createdAt": "2026-09-18T09:59:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 769,
-   "title": "[GoogleNews] Concorsi ordinari docenti, revisione tabelle: equiparati corsi INDIRE e TFA sostegno - FLC CGIL",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/769"
   }
  ]
 }
