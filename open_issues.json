@@ -1,6 +1,160 @@
 {
- "generated_at": "2026-10-02T11:15:34+00:00",
+ "generated_at": "2026-10-03T10:32:12+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-10-03T10:32:11Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 936,
+   "title": "[GoogleNews] Comune di Catania, stabilizzati 66 impiegati: \"Obiettivo avviare nuovo piano di assunzioni\" - qds.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/936"
+  },
+  {
+   "createdAt": "2026-10-03T10:32:11Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 935,
+   "title": "[GoogleNews] Comune di Catania, via libera alla stabilizzazione di 66 funzionari - Free Press Online",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/935"
+  },
+  {
+   "createdAt": "2026-10-03T10:32:10Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 934,
+   "title": "[GoogleNews] Comune di Catania: via libera alla stabilizzazione di 66 funzionari - SiciliaWeb",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/934"
+  },
+  {
+   "createdAt": "2026-10-03T10:32:10Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 933,
+   "title": "[GoogleNews] Concorso straordinario Carabinieri: al via il bando per 400 allievi marescialli laureati - Virgilio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/933"
+  },
+  {
+   "createdAt": "2026-10-03T10:32:09Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 932,
+   "title": "[GoogleNews] Comune di Catania, via libera alla stabilizzazione di 66 funzionari: si chiude il precariato iniziato nel 2020 - NewSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/932"
+  },
+  {
+   "createdAt": "2026-10-03T10:32:09Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 931,
+   "title": "[GoogleNews] Assunzioni al Comune di Catania: via libera alla stabilizzazione di 66 impiegati - CataniaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/931"
+  },
+  {
+   "createdAt": "2026-10-03T10:32:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 930,
+   "title": "[GoogleNews] Relitti e imbarcazioni abbandonate, entra nella fase operativa il Secondo Piano straordinario per la bonifica del litorale messine",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/930"
+  },
+  {
+   "createdAt": "2026-10-03T10:32:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 929,
+   "title": "[GoogleNews] Concorso Guardia di Finanza, il Tar riammette candidata esclusa che era andata in bagno nelle prime 2 ore - Risoluto",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/929"
+  },
+  {
+   "createdAt": "2026-10-03T10:32:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 928,
+   "title": "[GoogleNews] Paternò, concorso per due istruttori amministrativi a tempo indeterminato - Sicilianews24.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/928"
+  },
+  {
+   "createdAt": "2026-10-03T10:32:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 927,
+   "title": "[GoogleNews] Palermitana esclusa dal concorso Gdf per essere andata in bagno, il Tar la riammette - BlogSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/927"
+  },
+  {
+   "createdAt": "2026-10-03T10:31:48Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 926,
+   "title": "[Scadenzario] #D Sessione D — revisione Search Console — ottobre 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/926"
+  },
   {
    "createdAt": "2026-10-02T11:15:31Z",
    "labels": [
@@ -1246,160 +1400,6 @@
    "number": 837,
    "title": "[GoogleNews] Bando di concorso a n. 52 Unità (Codici ISPAM e ISPTEC) - TaorminaNews24",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/837"
-  },
-  {
-   "createdAt": "2026-09-25T10:25:41Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 836,
-   "title": "[Scadenzario] #9 Scadenze fiscali — ottobre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/836"
-  },
-  {
-   "createdAt": "2026-09-24T10:22:22Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 835,
-   "title": "[GoogleNews] Concorso Azienda Zero Calabria Dirigenti Medici da 166 posti: Come prepararsi, sorteggi e Ammissione dei candidati - Concorsando.i",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/835"
-  },
-  {
-   "createdAt": "2026-09-24T10:22:21Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 834,
-   "title": "[GoogleNews] IACP Siracusa, Scorpo risponde ad Auteri: «Nessun annullamento, bando aperto» - wltv.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/834"
-  },
-  {
-   "createdAt": "2026-09-24T10:22:21Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 833,
-   "title": "[GoogleNews] Concorso SNA Dirigenti: Info e Date Prove Preselettive - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/833"
-  },
-  {
-   "createdAt": "2026-09-24T10:22:21Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 832,
-   "title": "[GoogleNews] Concorso Ministero della Difesa Assistenti RIPAM 2026 da 1100 posti - Ecco pubblicate le date per tutti i profili - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/832"
-  },
-  {
-   "createdAt": "2026-09-24T10:22:20Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 831,
-   "title": "[GoogleNews] Challenge sui social e bambini nei negozi, Pira: \"È una forma di abbandono digitale\" - Il Moderatore",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/831"
-  },
-  {
-   "createdAt": "2026-09-24T10:22:20Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 830,
-   "title": "[GoogleNews] SIDERNO: IL COMUNE SI COSTITUISCE PARTE CIVILE CONTRO L'EX SINDACO PIETRO FUDA INDAGATO PER CONCORSO ESTERNO IN ASSOCIAZIONE MAFIO",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/830"
-  },
-  {
-   "createdAt": "2026-09-24T10:22:19Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 829,
-   "title": "[GoogleNews] Croce Verde Padova: concorso per 6 autisti di ambulanza con licenza media - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/829"
-  },
-  {
-   "createdAt": "2026-09-24T10:22:19Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 828,
-   "title": "[GoogleNews] Assunzioni nei Comuni in Campania, Abruzzo, Lazio, Calabria, Sicilia: ok Cosfel per 278 posti, attesi nuovi concorsi - Ti Consigli",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/828"
-  },
-  {
-   "createdAt": "2026-09-24T10:22:19Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 827,
-   "title": "[GoogleNews] Premi per l’Innovazione, ecco il bando della Camera di commercio di Reggio · ilreggino.it - Il Reggino",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/827"
-  },
-  {
-   "createdAt": "2026-09-24T10:22:18Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 826,
-   "title": "[GoogleNews] Agricoltura, graduatoria definitiva \"Promozione dei prodotti di qualità\" - TaorminaNews24",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/826"
   }
  ]
 }
