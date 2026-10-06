@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-10-05T12:30:33+00:00",
+ "generated_at": "2026-10-06T12:09:58+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-10-06T12:09:56Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 966,
+   "title": "[GoogleNews] Verso il 13 ottobre, il Gruppo idonei concorsi fissa i paletti in Consiglio regionale: No agli “interpelli clientelari” - La Nuova",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/966"
+  },
+  {
+   "createdAt": "2026-10-06T12:09:56Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 965,
+   "title": "[GoogleNews] Regione Calabria concorsi - Secolo Trentino",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/965"
+  },
+  {
+   "createdAt": "2026-10-06T12:09:56Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 964,
+   "title": "[GoogleNews] Ministero della Giustizia: assunzione per centralinista privo della vista, a Favignana - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/964"
+  },
+  {
+   "createdAt": "2026-10-06T12:09:55Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 963,
+   "title": "[GoogleNews] Pubblicato il calendario delle prove per il concorso da 1695 posti per funzionari PECS all'INPS - Simone Concorsi",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/963"
+  },
+  {
+   "createdAt": "2026-10-06T12:09:55Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 962,
+   "title": "[GoogleNews] L'Alberghiero di Cassino trionfa alla finale del concorso EVO Masterclass - Leggo Cassino",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/962"
+  },
+  {
+   "createdAt": "2026-10-06T12:09:54Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 961,
+   "title": "[GoogleNews] Pubblicazione graduatoria categoria ville – Bando pubblico 2026 di concessione gratuita a terzi aventi diritto di immobili confisc",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/961"
+  },
+  {
+   "createdAt": "2026-10-06T12:09:54Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 960,
+   "title": "[GoogleNews] Lavoro, a Gravina di Catania selezione per due posti da operatore amministrativo-contabile - Sicilianews24.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/960"
+  },
+  {
+   "createdAt": "2026-10-06T12:09:53Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 959,
+   "title": "[GoogleNews] Beni culturali, bando per la street art nei Comuni siciliani - EnnaLive",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/959"
+  },
+  {
+   "createdAt": "2026-10-06T12:09:53Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 958,
+   "title": "[GoogleNews] Street art per riqualificare le periferie, bando da 200 mila euro per i Comuni siciliani - AgrigentoNotizie",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/958"
+  },
+  {
+   "createdAt": "2026-10-06T12:09:52Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 957,
+   "title": "[GoogleNews] Bando regionale da 200 mila euro per opere di street art nei Comuni - CataniaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/957"
+  },
   {
    "createdAt": "2026-10-05T12:30:31Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 867,
    "title": "[GoogleNews] Automobile Club Pisa: concorso per laureati, assunzione funzionario, stipendio oltre 26mila euro - Ti Consiglio",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/867"
-  },
-  {
-   "createdAt": "2026-09-27T10:40:35Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 866,
-   "title": "[GoogleNews] Pisa, Scuola Superiore Sant’Anna: concorso per diplomati, collaboratori, categorie protette - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/866"
-  },
-  {
-   "createdAt": "2026-09-27T10:40:35Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 865,
-   "title": "[GoogleNews] Concorso RIPAM e geologi: LM-74 esclusa dai profili tecnici - Ingenio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/865"
-  },
-  {
-   "createdAt": "2026-09-27T10:40:34Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 864,
-   "title": "[GoogleNews] Palermo, in arrivo nuove assunzioni e più ore per 1.300 dipendenti - Diretta Sicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/864"
-  },
-  {
-   "createdAt": "2026-09-27T10:40:33Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 863,
-   "title": "[GoogleNews] Abbandono di rifiuti al Cep. Li Muli e Salerno: “Il presidente della VI Circoscrizione Valenti non scarichi sui cittadini gli erro",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/863"
-  },
-  {
-   "createdAt": "2026-09-27T10:40:33Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 862,
-   "title": "[GoogleNews] Personale, la VII Commissione incontra l’Assessore Falzone: assunzioni, progressioni verticali e aumento orario al centro del conf",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/862"
-  },
-  {
-   "createdAt": "2026-09-27T10:40:32Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 861,
-   "title": "[GoogleNews] Decoro Urbano a Catania, arriva il concorso di idee per interventi di Street Art nel centro storico - Hashtag Sicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/861"
-  },
-  {
-   "createdAt": "2026-09-27T10:40:32Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 860,
-   "title": "[GoogleNews] Reggio Calabria, chiude il B’Art Café: il Comune pensa ad un nuovo bando per la rinascita - CityNow",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/860"
-  },
-  {
-   "createdAt": "2026-09-27T10:40:31Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 859,
-   "title": "[GoogleNews] Concorso a Messina, un posto da dirigente delle professioni sanitarie all’IRCCS Neurolesi - Sicilianews24.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/859"
-  },
-  {
-   "createdAt": "2026-09-26T10:05:29Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 858,
-   "title": "[GoogleNews] Concorso operai Rap: la Corte di Appello di Palermo sospende sentenza di primo grado - Quotidiano di Palermo",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/858"
-  },
-  {
-   "createdAt": "2026-09-26T10:05:28Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 857,
-   "title": "[GoogleNews] Crotone, ex Poliambulatorio di Corso Messina abbandonato: Barbuto (M5S) interroga Occhiuto - WeSud",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/857"
   }
  ]
 }
