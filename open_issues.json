@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-10-08T12:10:58+00:00",
+ "generated_at": "2026-10-09T12:02:23+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-10-09T12:02:17Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 999,
+   "title": "[GoogleNews] Premio Cosmos 2026, la scienza protagonista a Reggio Calabria con la fase finale del concorso · ilreggino.it - Il Reggino",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/999"
+  },
+  {
+   "createdAt": "2026-10-09T12:02:17Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 998,
+   "title": "[GoogleNews] Bando Premio Genio Città di Palermo 2026 - Comune di Palermo",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/998"
+  },
+  {
+   "createdAt": "2026-10-09T12:02:16Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 997,
+   "title": "[GoogleNews] Messina, controlli contro l’abbandono illecito dei rifiuti: cinque persone denunciate - Comune di Messina",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/997"
+  },
+  {
+   "createdAt": "2026-10-09T12:02:16Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 996,
+   "title": "[GoogleNews] Vigili urbani, nuovo scorrimento della graduatoria del concorso: una cinquantina di funzionari del Comune ha lasciato l'ente - Mes",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/996"
+  },
+  {
+   "createdAt": "2026-10-09T12:02:15Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 995,
+   "title": "[GoogleNews] Assunzioni alla Regione Siciliana: 3.641 posti entro il 2028 - Risoluto",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/995"
+  },
+  {
+   "createdAt": "2026-10-09T12:02:15Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 994,
+   "title": "[GoogleNews] Assunzioni alla Regione, il piano sale a 3.641 posti entro il 2028 - AgrigentoNotizie",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/994"
+  },
+  {
+   "createdAt": "2026-10-09T12:02:14Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 993,
+   "title": "[GoogleNews] Sicilia | Regione, potenziato il piano assunzioni: fino a 3.641 posti entro il 2028 - Webmarte.tv",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/993"
+  },
+  {
+   "createdAt": "2026-10-09T12:02:14Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 992,
+   "title": "[GoogleNews] Regione Siciliana, maxi piano assunzioni: 3.641 posti entro il 2028, ecco profili e concorsi - NewSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/992"
+  },
+  {
+   "createdAt": "2026-10-09T12:02:13Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 991,
+   "title": "[GoogleNews] Regione Siciliana, 3.641 assunzioni entro il 2028: Schifani annuncia il potenziamento dei concorsi - MessinaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/991"
+  },
+  {
+   "createdAt": "2026-10-09T12:02:12Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 990,
+   "title": "[GoogleNews] Concorsi Sicilia, maxi piano di assunzioni alla Regione: 3.641 posti nel triennio 2026-2028 - LiveUniCT – Notizie su Catania e Uni",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/990"
+  },
   {
    "createdAt": "2026-10-08T12:10:57Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 900,
    "title": "[GoogleNews] Università assume Bibliotecari a tempo indeterminato: basta il Diploma, prova scritta e colloquio - concorsipubblici.net",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/900"
-  },
-  {
-   "createdAt": "2026-09-30T11:17:40Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 899,
-   "title": "[GoogleNews] Idonei Concorso 54 posti Regione Calabria: importante scorrimento Funzionari Informatici - LameziaTerme.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/899"
-  },
-  {
-   "createdAt": "2026-09-30T11:17:40Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 898,
-   "title": "[GoogleNews] Concorso Regione Calabria, scorrimento per i funzionari informatici: 9 assunzioni ad Azienda Zero - ReggioTV",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/898"
-  },
-  {
-   "createdAt": "2026-09-30T11:17:39Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 897,
-   "title": "[GoogleNews] Con il progetto “Paesaggio, biodiversità e cultura ambientale nei Forti Umbertini dello Stretto”, il Comune di Messina ha ottenuto",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/897"
-  },
-  {
-   "createdAt": "2026-09-30T11:17:39Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 896,
-   "title": "[GoogleNews] Tar Catania: udienza il 29 settembre 2026 sul concorso per vigili urbani indetto dal comune di Messina - AMnotizie.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/896"
-  },
-  {
-   "createdAt": "2026-09-30T11:17:38Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 895,
-   "title": "[GoogleNews] Concorso di bellezza, finale fantasma a Fiuggi: 17 partecipanti dalla Sicilia, denunciata l'organizzatrice - MessinaToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/895"
-  },
-  {
-   "createdAt": "2026-09-29T11:29:44Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 894,
-   "title": "[GoogleNews] Concorso Referendari Amministrativi del Segretariato generale della Presidenza della Repubblica 2026: 6 posti - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/894"
-  },
-  {
-   "createdAt": "2026-09-29T11:29:43Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 893,
-   "title": "[GoogleNews] Concorso Università della Calabria Collaboratori 2026: 7 posti a tempo indeterminato - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/893"
-  },
-  {
-   "createdAt": "2026-09-29T11:29:43Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 892,
-   "title": "[GoogleNews] 7 posti nell'area dei collaboratori presso l'Università della Calabria (perito industriale, informatico, geometra, didattico, bibl",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/892"
-  },
-  {
-   "createdAt": "2026-09-29T11:29:42Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 891,
-   "title": "[GoogleNews] Concorso Comune Cariati Amministrativi e Assistenti Sociali da 7 posti: Come prepararsi - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/891"
-  },
-  {
-   "createdAt": "2026-09-29T11:29:42Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 890,
-   "title": "[GoogleNews] Concorsi Pubblici Ottobre 2026 per oltre 3100 assunzioni: Bandi e scadenze - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/890"
   }
  ]
 }
