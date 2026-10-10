@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-10-09T12:02:23+00:00",
+ "generated_at": "2026-10-10T11:18:39+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-10-10T11:18:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1009,
+   "title": "[GoogleNews] Comune di Catania, assunzioni nel 2027: dopo il dossier Cisl l’impegno del sindaco - LiveSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1009"
+  },
+  {
+   "createdAt": "2026-10-10T11:18:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1008,
+   "title": "[GoogleNews] Comune di Catania e sindacati a confronto: piano per nuove assunzioni, concorsi e rafforzamento dell'organico - CataniaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1008"
+  },
+  {
+   "createdAt": "2026-10-10T11:18:37Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1007,
+   "title": "[GoogleNews] via libera alla stabilizzazione dei 66 funzionari. Chiuso un percorso di precariato iniziato nel 2020 - Comune di Catania",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1007"
+  },
+  {
+   "createdAt": "2026-10-10T11:18:37Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1006,
+   "title": "[GoogleNews] Concorso del Comune di Grotteria per 4 addetti alla manutenzione del verde - InfoOggi",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1006"
+  },
+  {
+   "createdAt": "2026-10-10T11:18:37Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1005,
+   "title": "[GoogleNews] Bando IMPACT Reggio Calabria 2026: 12.000€ per assunzione - Incentivimpresa",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1005"
+  },
+  {
+   "createdAt": "2026-10-10T11:18:36Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1004,
+   "title": "[GoogleNews] Regione Siciliana, potenziato il piano assunzioni con 3.641 posti entro il 2028: ecco cosa è previsto - QdS",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1004"
+  },
+  {
+   "createdAt": "2026-10-10T11:18:36Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1003,
+   "title": "[GoogleNews] Messina. Atm: “Bando per 15 assunzioni prorogato, non sospeso”. Cgil e Uil: “Sia modificato applicando contratto autoferrotranvier",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1003"
+  },
+  {
+   "createdAt": "2026-10-10T11:18:35Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1002,
+   "title": "[GoogleNews] Regione Siciliana, potenziato il piano assunzioni: 3.641 posti entro il 2028 - StartNews",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1002"
+  },
+  {
+   "createdAt": "2026-10-10T11:18:35Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1001,
+   "title": "[GoogleNews] Bando Turismo Sicilia 2025: importi, stato e graduatorie - Incentivimpresa",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1001"
+  },
+  {
+   "createdAt": "2026-10-10T11:18:34Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1000,
+   "title": "[GoogleNews] Regione Sicilia, 3.641 assunzioni entro il 2028: nuovo Piao e concorsi potenziati - News Istruzione",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1000"
+  },
   {
    "createdAt": "2026-10-09T12:02:17Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 910,
    "title": "[GoogleNews] Concorsi pubblici, tutti i bandi in scadenza a ottobre 2026 - Sky TG24",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/910"
-  },
-  {
-   "createdAt": "2026-10-01T11:45:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 909,
-   "title": "[GoogleNews] Concorso ASMEL 2026, c’è la proroga: ecco il nuovo termine ultimo - catania.liveuniversity.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/909"
-  },
-  {
-   "createdAt": "2026-10-01T11:45:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 908,
-   "title": "[GoogleNews] Concorsi in scadenza a ottobre 2026 | 2.771 posti a tempo pieno e indeterminato nella PA - Zazoom Social News",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/908"
-  },
-  {
-   "createdAt": "2026-10-01T11:45:06Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 907,
-   "title": "[GoogleNews] Catania, concorso per un assistente amministrativo a tempo indeterminato - Sicilianews24.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/907"
-  },
-  {
-   "createdAt": "2026-10-01T11:45:06Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 906,
-   "title": "[GoogleNews] Sicilia: graduatorie regionali per ruolo 2026/27 e supplenze 2025-2027 - News Istruzione",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/906"
-  },
-  {
-   "createdAt": "2026-10-01T11:44:49Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 905,
-   "title": "INPS: Accompagnamento alla pensione: le istruzioni - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/905"
-  },
-  {
-   "createdAt": "2026-09-30T11:17:43Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 904,
-   "title": "[GoogleNews] \"Mi impegno per la legalità\", torna il concorso per le scuole pugliesi: 8 premi per gli istituti del Foggiano - FoggiaToday - cron",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/904"
-  },
-  {
-   "createdAt": "2026-09-30T11:17:43Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 903,
-   "title": "[GoogleNews] Pnrr, completate solo quattro scuole delle 206 del maxi-concorso - professione Architetto",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/903"
-  },
-  {
-   "createdAt": "2026-09-30T11:17:42Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 902,
-   "title": "[GoogleNews] Ci sarà un nuovo Concorso docenti 2027? Nessuna data ancora fissata ma si ipotizzano tempi diversi in base alle graduatorie - Oriz",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/902"
-  },
-  {
-   "createdAt": "2026-09-30T11:17:42Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 901,
-   "title": "[GoogleNews] Concorsi nelle Forze Armate e nelle Forze di Polizia, le opportunità dell’autunno e come prepararsi - reggiotv.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/901"
-  },
-  {
-   "createdAt": "2026-09-30T11:17:41Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 900,
-   "title": "[GoogleNews] Università assume Bibliotecari a tempo indeterminato: basta il Diploma, prova scritta e colloquio - concorsipubblici.net",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/900"
   }
  ]
 }
