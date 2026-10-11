@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-10-10T11:18:39+00:00",
+ "generated_at": "2026-10-11T11:31:51+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-10-11T11:31:50Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1019,
+   "title": "[GoogleNews] Università della Calabria: selezione per laureati in fisica o ingegneria, compenso 36mila euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1019"
+  },
+  {
+   "createdAt": "2026-10-11T11:31:49Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1018,
+   "title": "[GoogleNews] Conservatorio di Alessandria: concorso per operatori (ex coadiutori – bidelli), personale ATA - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1018"
+  },
+  {
+   "createdAt": "2026-10-11T11:31:49Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1017,
+   "title": "[GoogleNews] Comune di Cuneo: assunzione per operatore con licenza media, stipendio 1600 euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1017"
+  },
+  {
+   "createdAt": "2026-10-11T11:31:48Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1016,
+   "title": "[GoogleNews] Assunzioni Comune Catania, Trantino incontra i sindacati - Cataniaoggi",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1016"
+  },
+  {
+   "createdAt": "2026-10-11T11:31:48Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1015,
+   "title": "[GoogleNews] Giarre, il concorso interno dei vigili diventa un caso: tra graduatorie, parentele illustri e punteggi contestati - QdS",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1015"
+  },
+  {
+   "createdAt": "2026-10-11T11:31:47Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1014,
+   "title": "[GoogleNews] AFOR Umbria: concorsi per 16 diplomati e laureati, stipendi fra 25mila e 27mila euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1014"
+  },
+  {
+   "createdAt": "2026-10-11T11:31:47Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1013,
+   "title": "[GoogleNews] Roma, Comune di Ciampino: concorso per diplomati, Servizio Protezione civile, stipendio 23mila euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1013"
+  },
+  {
+   "createdAt": "2026-10-11T11:31:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1012,
+   "title": "[GoogleNews] Comune di Catania: selezione per 10 diplomati, lavoro come tutor digitali, compenso 23mila euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1012"
+  },
+  {
+   "createdAt": "2026-10-11T11:31:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1011,
+   "title": "[GoogleNews] Comune di Catanzaro: concorso per insegnante scuola dell’infanzia, stipendio 25mila euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1011"
+  },
+  {
+   "createdAt": "2026-10-11T11:31:45Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1010,
+   "title": "[GoogleNews] Regione, potenziato il piano assunzioni: fino a 3.641 posti entro il 2028. Schifani: “Svolta cruciale” - www.edacommunication.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1010"
+  },
   {
    "createdAt": "2026-10-10T11:18:38Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 920,
    "title": "[GoogleNews] Massa Carrara, Comune di Zeri: assunzione per manutentore con licenza media, stipendio 1600 euro - Ti Consiglio",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/920"
-  },
-  {
-   "createdAt": "2026-10-02T11:15:28Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 919,
-   "title": "[GoogleNews] Reggio Calabria, il Parco Baden Powell verso una nuova gestione: bando per 15 mila metri quadrati, bar, anfiteatro e area giochi |",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/919"
-  },
-  {
-   "createdAt": "2026-10-02T11:15:28Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 918,
-   "title": "[GoogleNews] Nuove assunzioni al Comune di San Roberto: due posti per manovali a tempo indeterminato - InfoOggi",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/918"
-  },
-  {
-   "createdAt": "2026-10-02T11:15:27Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 917,
-   "title": "[GoogleNews] Un’opera di Giacomo Valvo per Papa Leone XIV: l’artista di Montemaggiore vince il concorso nazionale - madoniepress.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/917"
-  },
-  {
-   "createdAt": "2026-10-02T11:15:26Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 916,
-   "title": "[GoogleNews] ANPAM, bando 2018 per premiare le tesi di laurea su armi e munizioni - Caccia Passione",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/916"
-  },
-  {
-   "createdAt": "2026-10-01T11:45:11Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 915,
-   "title": "[GoogleNews] Doppio canale per le assunzioni dei docenti: concorso e GPS. Già nel 2027? Conterà il servizio? Finalmente anche per posto comune?",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/915"
-  },
-  {
-   "createdAt": "2026-10-01T11:45:10Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 914,
-   "title": "[GoogleNews] Concorso Allievo Maresciallo Esercito 2026 da 140 posti: Convocazioni per il corso (oggi) - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/914"
-  },
-  {
-   "createdAt": "2026-10-01T11:45:10Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 913,
-   "title": "[GoogleNews] Concorso scuola: al via le integrazioni delle graduatorie di merito - News Istruzione",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/913"
-  },
-  {
-   "createdAt": "2026-10-01T11:45:09Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 912,
-   "title": "[GoogleNews] Scuola Fallmerayer: una mostra dedicata al concorso di progettazione - Provinz Bozen",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/912"
-  },
-  {
-   "createdAt": "2026-10-01T11:45:08Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 911,
-   "title": "[GoogleNews] Concorso Istituto Assistenza Villa Spada da 14 posti: Ecco la graduatoria per gli OSS - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/911"
-  },
-  {
-   "createdAt": "2026-10-01T11:45:08Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 910,
-   "title": "[GoogleNews] Concorsi pubblici, tutti i bandi in scadenza a ottobre 2026 - Sky TG24",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/910"
   }
  ]
 }
