@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-10-11T11:31:51+00:00",
+ "generated_at": "2026-10-12T13:24:52+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-10-12T13:24:50Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1029,
+   "title": "[GoogleNews] Rieti, Comune di Montopoli di Sabina: concorso per funzionario amministrativo, stipendio oltre 25mila euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1029"
+  },
+  {
+   "createdAt": "2026-10-12T13:24:49Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1028,
+   "title": "[GoogleNews] Caserta, Comune di Santa Maria Capua Vetere: concorsi per 11 diplomati, stipendio 23mila euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1028"
+  },
+  {
+   "createdAt": "2026-10-12T13:24:49Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1027,
+   "title": "[GoogleNews] Comune di Bologna: concorso per operatori nidi d’infanzia - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1027"
+  },
+  {
+   "createdAt": "2026-10-12T13:24:48Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1026,
+   "title": "[GoogleNews] Selezioni per lavorare al Comune di Catania: basta il diploma, figure e come candidarsi - Balarm.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1026"
+  },
+  {
+   "createdAt": "2026-10-12T13:24:47Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1025,
+   "title": "[GoogleNews] Il nuovo regalo di Renzi: amici e parenti senza concorso alla guida dei grossi Comuni 07/07/2014 - L'eco del sud",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1025"
+  },
+  {
+   "createdAt": "2026-10-12T13:24:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1024,
+   "title": "[GoogleNews] Regione Siciliana: 3641 assunzioni e nuovi concorsi per Diplomati e Laureati, aggiornato il PIAO 2026 2028 - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1024"
+  },
+  {
+   "createdAt": "2026-10-12T13:24:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1023,
+   "title": "[GoogleNews] Pesca, 2 milioni in più per le marinerie siciliane: in arrivo il bando Agripesca - MessinaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1023"
+  },
+  {
+   "createdAt": "2026-10-12T13:24:45Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1022,
+   "title": "[GoogleNews] Policlinico Catania, nuove assunzioni e riorganizzazione degli OSS - CanaleSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1022"
+  },
+  {
+   "createdAt": "2026-10-12T13:24:45Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1021,
+   "title": "[GoogleNews] La Regione incentiva street art e murales, al via il bando che assegna fondi ai Comuni - MessinaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1021"
+  },
+  {
+   "createdAt": "2026-10-12T13:24:44Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1020,
+   "title": "[GoogleNews] La Regione Sicilia ha approvato il PIAO 2026-2028 da 3641 assunzioni per diplomati e laureati - Simone Concorsi",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1020"
+  },
   {
    "createdAt": "2026-10-11T11:31:50Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 930,
    "title": "[GoogleNews] Relitti e imbarcazioni abbandonate, entra nella fase operativa il Secondo Piano straordinario per la bonifica del litorale messine",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/930"
-  },
-  {
-   "createdAt": "2026-10-03T10:32:08Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 929,
-   "title": "[GoogleNews] Concorso Guardia di Finanza, il Tar riammette candidata esclusa che era andata in bagno nelle prime 2 ore - Risoluto",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/929"
-  },
-  {
-   "createdAt": "2026-10-03T10:32:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 928,
-   "title": "[GoogleNews] Paternò, concorso per due istruttori amministrativi a tempo indeterminato - Sicilianews24.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/928"
-  },
-  {
-   "createdAt": "2026-10-03T10:32:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 927,
-   "title": "[GoogleNews] Palermitana esclusa dal concorso Gdf per essere andata in bagno, il Tar la riammette - BlogSicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/927"
-  },
-  {
-   "createdAt": "2026-10-03T10:31:48Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 926,
-   "title": "[Scadenzario] #D Sessione D — revisione Search Console — ottobre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/926"
-  },
-  {
-   "createdAt": "2026-10-02T11:15:31Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 925,
-   "title": "[GoogleNews] Concorso Comune di Brescia 2026: 8 posti per Agenti di Polizia Locale - concorsi-pubblici.org",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/925"
-  },
-  {
-   "createdAt": "2026-10-02T11:15:31Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 924,
-   "title": "[GoogleNews] Carabinieri, concorso per 400 marescialli laureati: domande entro il 30 ottobre - Calabria inchieste",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/924"
-  },
-  {
-   "createdAt": "2026-10-02T11:15:30Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 923,
-   "title": "[GoogleNews] Concorso Università della Calabria 2026, 7 posti a tempo indeterminato per collaboratori: basta il diploma - concorsi-pubblici.org",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/923"
-  },
-  {
-   "createdAt": "2026-10-02T11:15:30Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 922,
-   "title": "[GoogleNews] Incentivare e promuovere lo scorrimento per le procedure concorsuali regionali - CrotoneInforma",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/922"
-  },
-  {
-   "createdAt": "2026-10-02T11:15:29Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 921,
-   "title": "[GoogleNews] Concorso ASMEL 2026, c’è la proroga: ecco il nuovo termine ultimo - LiveUniCT – Notizie su Catania e Università",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/921"
-  },
-  {
-   "createdAt": "2026-10-02T11:15:29Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 920,
-   "title": "[GoogleNews] Massa Carrara, Comune di Zeri: assunzione per manutentore con licenza media, stipendio 1600 euro - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/920"
   }
  ]
 }
