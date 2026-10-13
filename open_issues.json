@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-10-12T13:24:52+00:00",
+ "generated_at": "2026-10-13T12:53:01+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-10-13T12:52:59Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1039,
+   "title": "[GoogleNews] Abruzzo, Unione Comuni Terre del Sole: concorso per diplomati, stipendio 23mila euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1039"
+  },
+  {
+   "createdAt": "2026-10-13T12:52:59Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1038,
+   "title": "[GoogleNews] Porti Trieste e Monfalcone: concorso per diplomati, addetti alla sorveglianza, stipendio 2.170 euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1038"
+  },
+  {
+   "createdAt": "2026-10-13T12:52:58Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1037,
+   "title": "[GoogleNews] Concorso ASL Roma1 per 268 infermieri, stipendio quasi 25mila euro: Bando 2026 - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1037"
+  },
+  {
+   "createdAt": "2026-10-13T12:52:58Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1036,
+   "title": "[GoogleNews] Concorsi pubblici in scadenza nella settimana dal 12 al 18 Ottobre 2026: i Bandi da non perdere - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1036"
+  },
+  {
+   "createdAt": "2026-10-13T12:52:57Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1035,
+   "title": "[GoogleNews] Università di Camerino: concorso per laureati (qualsiasi laurea), Sistema museale, stipendio 26mila euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1035"
+  },
+  {
+   "createdAt": "2026-10-13T12:52:57Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1034,
+   "title": "[GoogleNews] ASL Roma 4 di Civitavecchia: concorso per diplomati, assistenti informatici, stipendio 1.900 euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1034"
+  },
+  {
+   "createdAt": "2026-10-13T12:52:56Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1033,
+   "title": "[GoogleNews] Regione Toscana: concorso per laureati (basta laurea triennale), Funzionari apprendisti, stipendio 25mila euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1033"
+  },
+  {
+   "createdAt": "2026-10-13T12:52:56Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1032,
+   "title": "[GoogleNews] Concorsi Regione, Ugl: \"Ignorata l’esperienza di chi da 30 anni svolge mansioni superiori\" - Siracusa News",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1032"
+  },
+  {
+   "createdAt": "2026-10-13T12:52:55Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1031,
+   "title": "[GoogleNews] Regione Siciliana, 3.641 assunzioni e nuovi concorsi in arrivo: tutte le novità del PIAO 2026-2028 - www.concorsi-pubblici.org",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1031"
+  },
+  {
+   "createdAt": "2026-10-13T12:52:54Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1030,
+   "title": "[GoogleNews] FAUNA SELVATICA IN SICILIA: BANDO SRD04 DA 4 MILIONI PER PROTEGGERE LE AZIENDE AGRICOLE - Federazione Italiana Della Caccia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1030"
+  },
   {
    "createdAt": "2026-10-12T13:24:50Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 940,
    "title": "[GoogleNews] Stabilizzazione funzionari Comune di Catania, via libera della Giunta - Cataniaoggi",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/940"
-  },
-  {
-   "createdAt": "2026-10-04T11:13:22Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 939,
-   "title": "[GoogleNews] La stabilizzazione dei precari al Comune di Catania. FP CGIL: “Un risultato atteso da anni, che ha visto il sindacato impegnato a ",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/939"
-  },
-  {
-   "createdAt": "2026-10-04T11:13:21Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 938,
-   "title": "[GoogleNews] Agenzia delle Entrate assume Addetti al protocollo a tempo indeterminato: basta la licenza media - concorsipubblici.net",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/938"
-  },
-  {
-   "createdAt": "2026-10-04T11:13:21Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 937,
-   "title": "[GoogleNews] Va in bagno durante il concorso della Guardia di Finanza e viene esclusa: il Tar le dà ragione - 98zero",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/937"
-  },
-  {
-   "createdAt": "2026-10-03T10:32:11Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 936,
-   "title": "[GoogleNews] Comune di Catania, stabilizzati 66 impiegati: \"Obiettivo avviare nuovo piano di assunzioni\" - qds.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/936"
-  },
-  {
-   "createdAt": "2026-10-03T10:32:11Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 935,
-   "title": "[GoogleNews] Comune di Catania, via libera alla stabilizzazione di 66 funzionari - Free Press Online",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/935"
-  },
-  {
-   "createdAt": "2026-10-03T10:32:10Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 934,
-   "title": "[GoogleNews] Comune di Catania: via libera alla stabilizzazione di 66 funzionari - SiciliaWeb",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/934"
-  },
-  {
-   "createdAt": "2026-10-03T10:32:10Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 933,
-   "title": "[GoogleNews] Concorso straordinario Carabinieri: al via il bando per 400 allievi marescialli laureati - Virgilio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/933"
-  },
-  {
-   "createdAt": "2026-10-03T10:32:09Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 932,
-   "title": "[GoogleNews] Comune di Catania, via libera alla stabilizzazione di 66 funzionari: si chiude il precariato iniziato nel 2020 - NewSicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/932"
-  },
-  {
-   "createdAt": "2026-10-03T10:32:09Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 931,
-   "title": "[GoogleNews] Assunzioni al Comune di Catania: via libera alla stabilizzazione di 66 impiegati - CataniaToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/931"
-  },
-  {
-   "createdAt": "2026-10-03T10:32:08Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 930,
-   "title": "[GoogleNews] Relitti e imbarcazioni abbandonate, entra nella fase operativa il Secondo Piano straordinario per la bonifica del litorale messine",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/930"
   }
  ]
 }
