@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-10-13T12:53:01+00:00",
+ "generated_at": "2026-10-14T10:28:04+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-10-14T10:28:02Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1049,
+   "title": "[GoogleNews] Ministero dell'Interno: selezione per 10 laureati, Ufficio Cittadinanza, compenso 42.944 euro, lavoro anche da remoto - Ti Consigl",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1049"
+  },
+  {
+   "createdAt": "2026-10-14T10:28:02Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1048,
+   "title": "[GoogleNews] Camera di Commercio Roma: concorso per 47 diplomati, Assistenti amministrativi, stipendio 23.138 euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1048"
+  },
+  {
+   "createdAt": "2026-10-14T10:28:01Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1047,
+   "title": "[GoogleNews] Concorso Comune di Rapallo per diplomati: opportunità per istruttori amministrativi con stipendio di oltre 23mila euro - Concorsi ",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1047"
+  },
+  {
+   "createdAt": "2026-10-14T10:28:01Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1046,
+   "title": "[GoogleNews] Accademia Belle Arti di Carrara: selezione per modelli viventi, compenso 25 euro l’ora - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1046"
+  },
+  {
+   "createdAt": "2026-10-14T10:28:00Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1045,
+   "title": "[GoogleNews] Accademia Belle Arti di Catanzaro: selezione per attrice, compenso 2.400 euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1045"
+  },
+  {
+   "createdAt": "2026-10-14T10:28:00Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1044,
+   "title": "[GoogleNews] Scuola Superiore Meridionale: concorso per laureato in psicologia (basta la laurea triennale), stipendio 26.694 euro - Ti Consigli",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1044"
+  },
+  {
+   "createdAt": "2026-10-14T10:27:59Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1043,
+   "title": "[GoogleNews] Palermo assume poliziotti municipali dagli idonei di Monreale: 19 assunzioni subito, poi altre 50 - Diretta Sicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1043"
+  },
+  {
+   "createdAt": "2026-10-14T10:27:59Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1042,
+   "title": "[GoogleNews] INVALSI: selezione per 34 esperti e docenti di italiano e inglese, compensi fra 200 e 350 euro al giorno - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1042"
+  },
+  {
+   "createdAt": "2026-10-14T10:27:58Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1041,
+   "title": "[GoogleNews] 3.641 assunzioni alla Regione entro il 2028: nuovi concorsi per Diplomati e Laureati, ecco i posti previsti - Concorsi Pubblici",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1041"
+  },
+  {
+   "createdAt": "2026-10-14T10:27:58Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1040,
+   "title": "[GoogleNews] Maxi concorso alla Regione Siciliana, appello di cinque associazioni: \"Subito la nuova Matrice professionale per salvare i nostri ",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1040"
+  },
   {
    "createdAt": "2026-10-13T12:52:59Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 950,
    "title": "[GoogleNews] Comune assume Istruttori amministrativi a tempo indeterminato: basta il diploma, stipendio da 23.138 euro più tredicesima - concor",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/950"
-  },
-  {
-   "createdAt": "2026-10-05T12:30:27Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 949,
-   "title": "[GoogleNews] Acireale, al via la prima edizione del concorso letterario \"Mythos\" - CataniaToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/949"
-  },
-  {
-   "createdAt": "2026-10-05T12:30:27Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 948,
-   "title": "[GoogleNews] Concorsi pubblici in scadenza a ottobre 2026, i bandi da non perdere e tutte le date - Studenti.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/948"
-  },
-  {
-   "createdAt": "2026-10-05T12:30:26Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 947,
-   "title": "[GoogleNews] Azienda Ospedaliera assume Operatori a tempo indeterminato con licenza media: OSS, autisti, archivista, elettricista e magazzinier",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/947"
-  },
-  {
-   "createdAt": "2026-10-04T11:13:25Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 946,
-   "title": "[GoogleNews] Concorso Guardia di Finanza 2026 per 170 Marescialli: posti, lauree, requisiti e prove - concorsi-pubblici.org",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/946"
-  },
-  {
-   "createdAt": "2026-10-04T11:13:24Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 945,
-   "title": "[GoogleNews] Appalti e sanità, la Procura di Catanzaro chiede il processo per 35 persone: nel mirino gare d’appalto e concorsi pubblici – NOMI ",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/945"
-  },
-  {
-   "createdAt": "2026-10-04T11:13:24Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 944,
-   "title": "[GoogleNews] L'appello degli idonei del concorso per funzionario statistico della Regione Calabria - La Nuova Calabria",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/944"
-  },
-  {
-   "createdAt": "2026-10-04T11:13:23Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 943,
-   "title": "[GoogleNews] Sicilia. Al via il concorso straordinario per 400 allievi marescialli con laurea - Libertà Sicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/943"
-  },
-  {
-   "createdAt": "2026-10-04T11:13:23Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 942,
-   "title": "[GoogleNews] Concorso nazionale “Premio Giovanni Grillo” dal titolo “Crescere in pace: dall’Art. 30 della Costituzione agli Internati Militari ",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/942"
-  },
-  {
-   "createdAt": "2026-10-04T11:13:22Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 941,
-   "title": "[GoogleNews] Politiche sociali, bando regionale da 5 milioni per i beni confiscati alla mafia - voce di Sicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/941"
-  },
-  {
-   "createdAt": "2026-10-04T11:13:22Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 940,
-   "title": "[GoogleNews] Stabilizzazione funzionari Comune di Catania, via libera della Giunta - Cataniaoggi",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/940"
   }
  ]
 }
