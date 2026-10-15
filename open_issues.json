@@ -1,6 +1,160 @@
 {
- "generated_at": "2026-10-14T10:28:04+00:00",
+ "generated_at": "2026-10-15T10:11:38+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-10-15T10:11:37Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1060,
+   "title": "[GoogleNews] Concorso Marina Militare per 100 VSP 2026, Guardia Costiera: Bando per civili diplomati - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1060"
+  },
+  {
+   "createdAt": "2026-10-15T10:11:36Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1059,
+   "title": "[GoogleNews] ASST Lodi: concorso per 10 infermieri, lavoro a tempo indeterminato, stipendio 24.918 euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1059"
+  },
+  {
+   "createdAt": "2026-10-15T10:11:36Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1058,
+   "title": "[GoogleNews] ASST Ovest Milanese: concorsi per 35 posti, infermieri, educatore e magazzinieri, stipendi fra 23 e 28mila euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1058"
+  },
+  {
+   "createdAt": "2026-10-15T10:11:35Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1057,
+   "title": "[GoogleNews] Caltanissetta, “Domenica a Teatro”: presentata la quarta edizione del Concorso “Peppe Nasca” – Targa “Michele Abate” - il Fatto Ni",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1057"
+  },
+  {
+   "createdAt": "2026-10-15T10:11:35Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1056,
+   "title": "[GoogleNews] Comune di Mugnano di Napoli: selezione per diplomati e laureati, stipendi fra 23 e 25mila euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1056"
+  },
+  {
+   "createdAt": "2026-10-15T10:11:34Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1055,
+   "title": "[GoogleNews] Due studentesse del liceo scientifico di Termini Imerese ottengono un riconoscimento al concorso “Nicholas Green” - Himeralive.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1055"
+  },
+  {
+   "createdAt": "2026-10-15T10:11:34Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1054,
+   "title": "[GoogleNews] Selezioni Ministero Giustizia: mediatori penali e culturali - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1054"
+  },
+  {
+   "createdAt": "2026-10-15T10:11:33Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1053,
+   "title": "[GoogleNews] Accademia Belle Arti Bologna: selezione per docenti in 19 materie, compenso 50 euro l’ora - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1053"
+  },
+  {
+   "createdAt": "2026-10-15T10:11:33Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1052,
+   "title": "[GoogleNews] INPS: selezione per 15 medici, lavoro in Emilia Romagna - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1052"
+  },
+  {
+   "createdAt": "2026-10-15T10:11:32Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1051,
+   "title": "[GoogleNews] Concorsi, pubblicati dalla Regione siciliana bandi per 322 nuovi funzionari e per 832 progressioni verticali 24/12/2025 - L'eco de",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1051"
+  },
+  {
+   "createdAt": "2026-10-15T10:11:20Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1050,
+   "title": "INPS: Assegno unico e universale: l’Osservatorio con i dati di agosto 2026 - Portale Inps",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1050"
+  },
   {
    "createdAt": "2026-10-14T10:28:02Z",
    "labels": [
@@ -1246,160 +1400,6 @@
    "number": 961,
    "title": "[GoogleNews] Pubblicazione graduatoria categoria ville – Bando pubblico 2026 di concessione gratuita a terzi aventi diritto di immobili confisc",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/961"
-  },
-  {
-   "createdAt": "2026-10-06T12:09:54Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 960,
-   "title": "[GoogleNews] Lavoro, a Gravina di Catania selezione per due posti da operatore amministrativo-contabile - Sicilianews24.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/960"
-  },
-  {
-   "createdAt": "2026-10-06T12:09:53Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 959,
-   "title": "[GoogleNews] Beni culturali, bando per la street art nei Comuni siciliani - EnnaLive",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/959"
-  },
-  {
-   "createdAt": "2026-10-06T12:09:53Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 958,
-   "title": "[GoogleNews] Street art per riqualificare le periferie, bando da 200 mila euro per i Comuni siciliani - AgrigentoNotizie",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/958"
-  },
-  {
-   "createdAt": "2026-10-06T12:09:52Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 957,
-   "title": "[GoogleNews] Bando regionale da 200 mila euro per opere di street art nei Comuni - CataniaToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/957"
-  },
-  {
-   "createdAt": "2026-10-05T12:30:31Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 956,
-   "title": "[GoogleNews] Concorso Camera di Commercio Cremona, Mantova e Pavia: 10 posti per diplomati a tempo indeterminato - concorsi-pubblici.org",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/956"
-  },
-  {
-   "createdAt": "2026-10-05T12:30:31Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 955,
-   "title": "[GoogleNews] Concorso Carabinieri 400 Marescialli: bando 2026, posti, prove e domanda - concorsi-pubblici.org",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/955"
-  },
-  {
-   "createdAt": "2026-10-05T12:30:30Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 954,
-   "title": "[GoogleNews] Concorso per 15 infermieri a Verona: assunzioni a tempo indeterminato, stipendio di 25.114 euro - concorsi-pubblici.org",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/954"
-  },
-  {
-   "createdAt": "2026-10-05T12:30:30Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 953,
-   "title": "[GoogleNews] INPS, selezioni per 56 medici in Lombardia, Trentino-Alto Adige e Valle d’Aosta: requisiti, compensi e domanda - concorsi-pubblici",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/953"
-  },
-  {
-   "createdAt": "2026-10-05T12:30:29Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 952,
-   "title": "[GoogleNews] Servizio Civile Universale 2026: Bando Aperto per Volontari - concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/952"
-  },
-  {
-   "createdAt": "2026-10-05T12:30:28Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 951,
-   "title": "[GoogleNews] Concorsi pubblici da non perdere: i bandi in scadenza nella settimana dal 5 all'11 Ottobre 2026 - ticonsiglio.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/951"
-  },
-  {
-   "createdAt": "2026-10-05T12:30:28Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 950,
-   "title": "[GoogleNews] Comune assume Istruttori amministrativi a tempo indeterminato: basta il diploma, stipendio da 23.138 euro più tredicesima - concor",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/950"
   }
  ]
 }
