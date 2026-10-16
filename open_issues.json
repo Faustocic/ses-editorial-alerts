@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-10-15T10:11:38+00:00",
+ "generated_at": "2026-10-16T10:02:55+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-10-16T10:02:54Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1070,
+   "title": "[GoogleNews] “Domenica a Teatro”, presentata a Caltanissetta la quarta edizione del Concorso 'Peppe Nasca' – Targa 'Michele Abate' - cronaca og",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1070"
+  },
+  {
+   "createdAt": "2026-10-16T10:02:53Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1069,
+   "title": "[GoogleNews] Concorsi Catania e provincia: i bandi attualmente attivi - LiveUniCT – Notizie su Catania e Università",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1069"
+  },
+  {
+   "createdAt": "2026-10-16T10:02:52Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1068,
+   "title": "[GoogleNews] Concorsi e assunzioni, il sindaco Trantino e l’assessora Lombardo incontrano i sindacati - Comune di Catania",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1068"
+  },
+  {
+   "createdAt": "2026-10-16T10:02:52Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1067,
+   "title": "[GoogleNews] Nuove assunzioni al Comune di Fiumara: 11 posti per tirocinanti di inclusione sociale - InfoOggi",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1067"
+  },
+  {
+   "createdAt": "2026-10-16T10:02:51Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1066,
+   "title": "[GoogleNews] Cimiteri di Messina, quasi 400 tombe abbandonate: il Comune punta a recuperare nuovi posti - RTP - Gazzetta del Sud",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1066"
+  },
+  {
+   "createdAt": "2026-10-16T10:02:51Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1065,
+   "title": "[GoogleNews] Concorso Nicholas Green, premiate due alunne di Gioiosa Marea - CanaleSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1065"
+  },
+  {
+   "createdAt": "2026-10-16T10:02:50Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1064,
+   "title": "[GoogleNews] IC Brolo premiato al concorso Nicholas Green per la solidarietà - News Istruzione",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1064"
+  },
+  {
+   "createdAt": "2026-10-16T10:02:50Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1063,
+   "title": "[GoogleNews] CNR: concorsi e 1000 assunzioni nel 2026 con il Piano straordinario per il personale, nuovi Bandi in arrivo a Novembre - Ti Consig",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1063"
+  },
+  {
+   "createdAt": "2026-10-16T10:02:49Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1062,
+   "title": "[GoogleNews] Catania Film Fest: Zo Centro Culture Contemporanee ospita 32 opere in concorso da oltre 10 Paesi - La Sicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1062"
+  },
+  {
+   "createdAt": "2026-10-16T10:02:49Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1061,
+   "title": "[GoogleNews] Regione Siciliana Assunzioni previste dal PIAO 2026-2028: circa 3641 posti di lavoro nei prossimi bandi - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1061"
+  },
   {
    "createdAt": "2026-10-15T10:11:37Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 971,
    "title": "[GoogleNews] Scatta un altro sguardo: concorso fotografico per giovani ad Acireale - Il Fatto di Catania",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/971"
-  },
-  {
-   "createdAt": "2026-10-07T11:56:22Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 970,
-   "title": "[GoogleNews] Opportunità di lavoro per manovali a Cinquefrondi: pubblicata la graduatoria provvisoria - InfoOggi",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/970"
-  },
-  {
-   "createdAt": "2026-10-07T11:56:21Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 969,
-   "title": "[GoogleNews] Concorso pubblico nazionale al Comune di Gerace: 1 Funzionario di vigilanza, tempo parziale e indeterminato - La Cronaca di Roma",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/969"
-  },
-  {
-   "createdAt": "2026-10-07T11:56:21Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 968,
-   "title": "[GoogleNews] Nuovo concorso Polizia locale con la graduatoria aperta a Monreale? Il comitato degli idonei protesta e chiede incontro a Lagalla ",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/968"
-  },
-  {
-   "createdAt": "2026-10-07T11:56:20Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 967,
-   "title": "[GoogleNews] Scuola di teatro al Biondo per attori, registi e drammaturghi: pubblicato il bando - PalermoToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/967"
-  },
-  {
-   "createdAt": "2026-10-06T12:09:56Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 966,
-   "title": "[GoogleNews] Verso il 13 ottobre, il Gruppo idonei concorsi fissa i paletti in Consiglio regionale: No agli “interpelli clientelari” - La Nuova",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/966"
-  },
-  {
-   "createdAt": "2026-10-06T12:09:56Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 965,
-   "title": "[GoogleNews] Regione Calabria concorsi - Secolo Trentino",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/965"
-  },
-  {
-   "createdAt": "2026-10-06T12:09:56Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 964,
-   "title": "[GoogleNews] Ministero della Giustizia: assunzione per centralinista privo della vista, a Favignana - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/964"
-  },
-  {
-   "createdAt": "2026-10-06T12:09:55Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 963,
-   "title": "[GoogleNews] Pubblicato il calendario delle prove per il concorso da 1695 posti per funzionari PECS all'INPS - Simone Concorsi",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/963"
-  },
-  {
-   "createdAt": "2026-10-06T12:09:55Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 962,
-   "title": "[GoogleNews] L'Alberghiero di Cassino trionfa alla finale del concorso EVO Masterclass - Leggo Cassino",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/962"
-  },
-  {
-   "createdAt": "2026-10-06T12:09:54Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 961,
-   "title": "[GoogleNews] Pubblicazione graduatoria categoria ville – Bando pubblico 2026 di concessione gratuita a terzi aventi diritto di immobili confisc",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/961"
   }
  ]
 }
