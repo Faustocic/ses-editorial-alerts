@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-10-19T11:05:00+00:00",
+ "generated_at": "2026-10-20T10:18:24+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-10-20T10:18:19Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1112,
+   "title": "[GoogleNews] Concorso da 41 posti per Oss in Nord Italia | per candidarsi basta la terza media - Zazoom Social News",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1112"
+  },
+  {
+   "createdAt": "2026-10-20T10:18:18Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1111,
+   "title": "[GoogleNews] Calabria, graduatorie dei Centri per l’impiego: Talerico contesta la legge e chiede 24 mesi di proroga - Catanzaro Informa",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1111"
+  },
+  {
+   "createdAt": "2026-10-20T10:18:18Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1110,
+   "title": "[GoogleNews] Sanità Calabria | Graduatorie prorogate e chiamate revocate: Talerico denuncia le contraddizioni della Regione - La Novità Online",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1110"
+  },
+  {
+   "createdAt": "2026-10-20T10:18:18Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1109,
+   "title": "[GoogleNews] Comuni, via libera a 278 assunzioni: 224 a tempo indeterminato, nuovi concorsi pubblici - Concorsi Pubblici",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1109"
+  },
+  {
+   "createdAt": "2026-10-20T10:18:17Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1108,
+   "title": "[GoogleNews] Concorsi pubblici in Calabria, il Comitato PA: “Ripristinare la proposta di legge originaria” - Catanzaro Informa",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1108"
+  },
+  {
+   "createdAt": "2026-10-20T10:18:17Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1107,
+   "title": "[GoogleNews] Concorso Provincia Cosenza Funzionari e Istruttori Amministrativi 2026: 5 posti a tempo indeterminato - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1107"
+  },
+  {
+   "createdAt": "2026-10-20T10:18:16Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1106,
+   "title": "[GoogleNews] Concorso Carabinieri: 400 posti per il ruolo di Maresciallo. Requisiti e scadenza - LiveUniCT – Notizie su Catania e Università",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1106"
+  },
+  {
+   "createdAt": "2026-10-20T10:18:16Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1105,
+   "title": "[GoogleNews] Catania, venti nuovi funzionari al Comune: dieci assunzioni e dieci promozioni, ecco come saranno scelti - QdS",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1105"
+  },
+  {
+   "createdAt": "2026-10-20T10:18:15Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1104,
+   "title": "[GoogleNews] Pubblicate le date delle prove orali concorso verde pubblico - Comune di Alcamo",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1104"
+  },
+  {
+   "createdAt": "2026-10-20T10:18:15Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1103,
+   "title": "[GoogleNews] Regione Siciliana, centrodestra diviso sulle assunzioni nelle partecipate: lavori sospesi all'Ars - www.primapaginapartanna.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1103"
+  },
   {
    "createdAt": "2026-10-19T11:04:58Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 1013,
    "title": "[GoogleNews] Roma, Comune di Ciampino: concorso per diplomati, Servizio Protezione civile, stipendio 23mila euro - Ti Consiglio",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1013"
-  },
-  {
-   "createdAt": "2026-10-11T11:31:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1012,
-   "title": "[GoogleNews] Comune di Catania: selezione per 10 diplomati, lavoro come tutor digitali, compenso 23mila euro - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1012"
-  },
-  {
-   "createdAt": "2026-10-11T11:31:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1011,
-   "title": "[GoogleNews] Comune di Catanzaro: concorso per insegnante scuola dell’infanzia, stipendio 25mila euro - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1011"
-  },
-  {
-   "createdAt": "2026-10-11T11:31:45Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1010,
-   "title": "[GoogleNews] Regione, potenziato il piano assunzioni: fino a 3.641 posti entro il 2028. Schifani: “Svolta cruciale” - www.edacommunication.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1010"
-  },
-  {
-   "createdAt": "2026-10-10T11:18:38Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1009,
-   "title": "[GoogleNews] Comune di Catania, assunzioni nel 2027: dopo il dossier Cisl l’impegno del sindaco - LiveSicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1009"
-  },
-  {
-   "createdAt": "2026-10-10T11:18:38Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1008,
-   "title": "[GoogleNews] Comune di Catania e sindacati a confronto: piano per nuove assunzioni, concorsi e rafforzamento dell'organico - CataniaToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1008"
-  },
-  {
-   "createdAt": "2026-10-10T11:18:37Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1007,
-   "title": "[GoogleNews] via libera alla stabilizzazione dei 66 funzionari. Chiuso un percorso di precariato iniziato nel 2020 - Comune di Catania",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1007"
-  },
-  {
-   "createdAt": "2026-10-10T11:18:37Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1006,
-   "title": "[GoogleNews] Concorso del Comune di Grotteria per 4 addetti alla manutenzione del verde - InfoOggi",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1006"
-  },
-  {
-   "createdAt": "2026-10-10T11:18:37Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1005,
-   "title": "[GoogleNews] Bando IMPACT Reggio Calabria 2026: 12.000€ per assunzione - Incentivimpresa",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1005"
-  },
-  {
-   "createdAt": "2026-10-10T11:18:36Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1004,
-   "title": "[GoogleNews] Regione Siciliana, potenziato il piano assunzioni con 3.641 posti entro il 2028: ecco cosa è previsto - QdS",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1004"
-  },
-  {
-   "createdAt": "2026-10-10T11:18:36Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1003,
-   "title": "[GoogleNews] Messina. Atm: “Bando per 15 assunzioni prorogato, non sospeso”. Cgil e Uil: “Sia modificato applicando contratto autoferrotranvier",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1003"
   }
  ]
 }
