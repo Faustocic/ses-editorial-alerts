@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-10-22T10:27:24+00:00",
+ "generated_at": "2026-10-23T10:24:21+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-10-23T10:24:20Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1143,
+   "title": "[GoogleNews] Reggio Calabria, fino a 15mila euro per le imprese: in scadenza il bando “Premi per l’innovazione”. Chi può partecipare e come - S",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1143"
+  },
+  {
+   "createdAt": "2026-10-23T10:24:19Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1142,
+   "title": "[GoogleNews] Messina. Carenza vigili urbani, Gioveni: “ Il codice della strada consente assunzioni stagionali. Il Comune poteva pensarci\" 02/01",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1142"
+  },
+  {
+   "createdAt": "2026-10-23T10:24:18Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1141,
+   "title": "[GoogleNews] Nuovi Concorsi ordinari per docenti confermati anche con assunzioni da GPS - Zazoom Social News",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1141"
+  },
+  {
+   "createdAt": "2026-10-23T10:24:18Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1140,
+   "title": "[GoogleNews] Carnevale di Sciacca, scaduto il bando per i carri allegorici: 9 le proposte delle associazioni culturali - Risoluto",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1140"
+  },
+  {
+   "createdAt": "2026-10-23T10:24:17Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1139,
+   "title": "[GoogleNews] Madonie, la battaglia contro i rifiuti abbandonati parte dai cittadini: arriva \"Curò\" - Madonie Press",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1139"
+  },
+  {
+   "createdAt": "2026-10-23T10:24:17Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1138,
+   "title": "[GoogleNews] Regione: si sbloccano 138 assunzioni e 834 progressioni verticali - Sicilia ON Press",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1138"
+  },
+  {
+   "createdAt": "2026-10-23T10:24:16Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1137,
+   "title": "[GoogleNews] Formez PA, selezione per 9 laureati in Sicilia: compensi fino a 29.700 euro - Concorsi Pubblici",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1137"
+  },
+  {
+   "createdAt": "2026-10-23T10:24:16Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1136,
+   "title": "[GoogleNews] La Regione Siciliana torna a ingaggiare impiegati, via a 138 assunzioni - Diretta Sicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1136"
+  },
+  {
+   "createdAt": "2026-10-23T10:24:15Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1135,
+   "title": "[GoogleNews] Regione Siciliana, Rendiconto 2025 con avanzo da 7,36 miliardi: sbloccate 138 assunzioni - NewSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1135"
+  },
+  {
+   "createdAt": "2026-10-23T10:24:15Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1134,
+   "title": "[GoogleNews] Regione, avanzo da 7,36 miliardi e 138 assunzioni sbloccate - AgrigentoNotizie",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1134"
+  },
   {
    "createdAt": "2026-10-22T10:27:22Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 1044,
    "title": "[GoogleNews] Scuola Superiore Meridionale: concorso per laureato in psicologia (basta la laurea triennale), stipendio 26.694 euro - Ti Consigli",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1044"
-  },
-  {
-   "createdAt": "2026-10-14T10:27:59Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1043,
-   "title": "[GoogleNews] Palermo assume poliziotti municipali dagli idonei di Monreale: 19 assunzioni subito, poi altre 50 - Diretta Sicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1043"
-  },
-  {
-   "createdAt": "2026-10-14T10:27:59Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1042,
-   "title": "[GoogleNews] INVALSI: selezione per 34 esperti e docenti di italiano e inglese, compensi fra 200 e 350 euro al giorno - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1042"
-  },
-  {
-   "createdAt": "2026-10-14T10:27:58Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1041,
-   "title": "[GoogleNews] 3.641 assunzioni alla Regione entro il 2028: nuovi concorsi per Diplomati e Laureati, ecco i posti previsti - Concorsi Pubblici",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1041"
-  },
-  {
-   "createdAt": "2026-10-14T10:27:58Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1040,
-   "title": "[GoogleNews] Maxi concorso alla Regione Siciliana, appello di cinque associazioni: \"Subito la nuova Matrice professionale per salvare i nostri ",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1040"
-  },
-  {
-   "createdAt": "2026-10-13T12:52:59Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1039,
-   "title": "[GoogleNews] Abruzzo, Unione Comuni Terre del Sole: concorso per diplomati, stipendio 23mila euro - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1039"
-  },
-  {
-   "createdAt": "2026-10-13T12:52:59Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1038,
-   "title": "[GoogleNews] Porti Trieste e Monfalcone: concorso per diplomati, addetti alla sorveglianza, stipendio 2.170 euro - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1038"
-  },
-  {
-   "createdAt": "2026-10-13T12:52:58Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1037,
-   "title": "[GoogleNews] Concorso ASL Roma1 per 268 infermieri, stipendio quasi 25mila euro: Bando 2026 - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1037"
-  },
-  {
-   "createdAt": "2026-10-13T12:52:58Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1036,
-   "title": "[GoogleNews] Concorsi pubblici in scadenza nella settimana dal 12 al 18 Ottobre 2026: i Bandi da non perdere - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1036"
-  },
-  {
-   "createdAt": "2026-10-13T12:52:57Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1035,
-   "title": "[GoogleNews] Università di Camerino: concorso per laureati (qualsiasi laurea), Sistema museale, stipendio 26mila euro - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1035"
-  },
-  {
-   "createdAt": "2026-10-13T12:52:57Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1034,
-   "title": "[GoogleNews] ASL Roma 4 di Civitavecchia: concorso per diplomati, assistenti informatici, stipendio 1.900 euro - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1034"
   }
  ]
 }
