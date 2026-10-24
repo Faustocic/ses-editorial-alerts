@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-10-23T10:24:21+00:00",
+ "generated_at": "2026-10-24T09:43:52+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-10-24T09:43:51Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1153,
+   "title": "[GoogleNews] Messina. Concorso pilotato: la Corte dei Conti condanna ex rettore e 11 docenti a pagare 55mila euro 12/10/2017 - L'eco del sud",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1153"
+  },
+  {
+   "createdAt": "2026-10-24T09:43:50Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1152,
+   "title": "[GoogleNews] Messina. Il prof. Franco Astone si dimette a seguito delle indagini sui brogli al concorso in magistratura 15/03/2023 - L'eco del ",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1152"
+  },
+  {
+   "createdAt": "2026-10-24T09:43:50Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1151,
+   "title": "[GoogleNews] Università Messina, sul sito dell'Ersu online il nuovo bando per le borse di studio 21/07/2020 - L'eco del sud",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1151"
+  },
+  {
+   "createdAt": "2026-10-24T09:43:49Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1150,
+   "title": "[GoogleNews] Concorso funzionari, collaboratori e operatori Università di Napoli 2026: 9 posti a tempo pieno e indeterminato - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1150"
+  },
+  {
+   "createdAt": "2026-10-24T09:43:48Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1149,
+   "title": "[GoogleNews] Pubblicato il Bando di mobilità Erasmus+ KA171 per attività di docenza (STA), combinata docenza e formazione (STA+STT) e formazion",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1149"
+  },
+  {
+   "createdAt": "2026-10-24T09:43:48Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1148,
+   "title": "[GoogleNews] Scuola, FdI: \"metodo fallimentare per il concorso ordinario\" 29/03/2022 - L'eco del sud",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1148"
+  },
+  {
+   "createdAt": "2026-10-24T09:43:47Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1147,
+   "title": "[GoogleNews] Sicilia, conti della Regione in positivo per 7,3 miliardi: sbloccate 138 assunzioni e 834 promozioni - StrettoWeb",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1147"
+  },
+  {
+   "createdAt": "2026-10-24T09:43:47Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1146,
+   "title": "[GoogleNews] Sbloccato concorso Forestale, firmano 94 nuovi agenti, verso il maxi-piano da oltre 3.600 assunzioni - BlogSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1146"
+  },
+  {
+   "createdAt": "2026-10-24T09:43:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1145,
+   "title": "[GoogleNews] Ambiente, si sblocca l'assunzione di 94 agenti forestali della Regione in Sicilia - PalermoToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1145"
+  },
+  {
+   "createdAt": "2026-10-24T09:43:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1144,
+   "title": "[GoogleNews] Approvato il Rendiconto 2025: avanzo di 7,36 miliardi. Adesso via libera a 138 assunzioni - | Regione Siciliana",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1144"
+  },
   {
    "createdAt": "2026-10-23T10:24:20Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 1054,
    "title": "[GoogleNews] Selezioni Ministero Giustizia: mediatori penali e culturali - Ti Consiglio",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1054"
-  },
-  {
-   "createdAt": "2026-10-15T10:11:33Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1053,
-   "title": "[GoogleNews] Accademia Belle Arti Bologna: selezione per docenti in 19 materie, compenso 50 euro l’ora - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1053"
-  },
-  {
-   "createdAt": "2026-10-15T10:11:33Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1052,
-   "title": "[GoogleNews] INPS: selezione per 15 medici, lavoro in Emilia Romagna - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1052"
-  },
-  {
-   "createdAt": "2026-10-15T10:11:32Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1051,
-   "title": "[GoogleNews] Concorsi, pubblicati dalla Regione siciliana bandi per 322 nuovi funzionari e per 832 progressioni verticali 24/12/2025 - L'eco de",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1051"
-  },
-  {
-   "createdAt": "2026-10-15T10:11:20Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1050,
-   "title": "INPS: Assegno unico e universale: l’Osservatorio con i dati di agosto 2026 - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1050"
-  },
-  {
-   "createdAt": "2026-10-14T10:28:02Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1049,
-   "title": "[GoogleNews] Ministero dell'Interno: selezione per 10 laureati, Ufficio Cittadinanza, compenso 42.944 euro, lavoro anche da remoto - Ti Consigl",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1049"
-  },
-  {
-   "createdAt": "2026-10-14T10:28:02Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1048,
-   "title": "[GoogleNews] Camera di Commercio Roma: concorso per 47 diplomati, Assistenti amministrativi, stipendio 23.138 euro - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1048"
-  },
-  {
-   "createdAt": "2026-10-14T10:28:01Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1047,
-   "title": "[GoogleNews] Concorso Comune di Rapallo per diplomati: opportunità per istruttori amministrativi con stipendio di oltre 23mila euro - Concorsi ",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1047"
-  },
-  {
-   "createdAt": "2026-10-14T10:28:01Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1046,
-   "title": "[GoogleNews] Accademia Belle Arti di Carrara: selezione per modelli viventi, compenso 25 euro l’ora - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1046"
-  },
-  {
-   "createdAt": "2026-10-14T10:28:00Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1045,
-   "title": "[GoogleNews] Accademia Belle Arti di Catanzaro: selezione per attrice, compenso 2.400 euro - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1045"
-  },
-  {
-   "createdAt": "2026-10-14T10:28:00Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1044,
-   "title": "[GoogleNews] Scuola Superiore Meridionale: concorso per laureato in psicologia (basta la laurea triennale), stipendio 26.694 euro - Ti Consigli",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1044"
   }
  ]
 }
