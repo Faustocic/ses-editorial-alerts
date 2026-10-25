@@ -1,6 +1,160 @@
 {
- "generated_at": "2026-10-24T09:43:52+00:00",
+ "generated_at": "2026-10-25T10:00:46+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-10-25T10:00:45Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1164,
+   "title": "[GoogleNews] Nuovo concorso docenti 2027, cosa si sa al momento? Ecco perché il bando non può uscire prima di novembre - Tecnica della Scuola",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1164"
+  },
+  {
+   "createdAt": "2026-10-25T10:00:44Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1163,
+   "title": "[GoogleNews] Prossimo Concorso docenti, prova scritta a risposta multipla o con domande aperte? Pillole di Question Time - Orizzonte Scuola Not",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1163"
+  },
+  {
+   "createdAt": "2026-10-25T10:00:44Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1162,
+   "title": "[GoogleNews] Concorsi Regione Calabria, esplode la protesta degli idonei: “Dalla Commissione un cortocircuito istituzionale” - Calabria 7",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1162"
+  },
+  {
+   "createdAt": "2026-10-25T10:00:43Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1161,
+   "title": "[GoogleNews] Concorsi nei Comuni, boom di candidature in Sicilia: +58% per il Maxi Avviso Asmel 2026 - www.catanianews.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1161"
+  },
+  {
+   "createdAt": "2026-10-25T10:00:43Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1160,
+   "title": "[GoogleNews] Concorso INPS INAIL Ispettori Vigilanza da 448 posti – Esiti della prova orale - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1160"
+  },
+  {
+   "createdAt": "2026-10-25T10:00:42Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1159,
+   "title": "[GoogleNews] La Regione approva il Rendiconto 2025, via libera in Sicilia a 138 assunzioni - Tempostretto",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1159"
+  },
+  {
+   "createdAt": "2026-10-25T10:00:42Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1158,
+   "title": "[GoogleNews] Concorso INPS 2026 1695 funzionari: le prove dal 27 ottobre - Fisco e Tasse",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1158"
+  },
+  {
+   "createdAt": "2026-10-25T10:00:42Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1157,
+   "title": "[GoogleNews] CREA: concorso per tecnologi in Calabria, Liguria e Sicilia, stipendio 34.705 euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1157"
+  },
+  {
+   "createdAt": "2026-10-25T10:00:41Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1156,
+   "title": "[GoogleNews] Comune di Prato: concorso per 6 diplomati tecnici, stipendio oltre 25mila euro - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1156"
+  },
+  {
+   "createdAt": "2026-10-25T10:00:41Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1155,
+   "title": "[GoogleNews] La giunta regionale approva il Rendiconto 2025, avanzo da 7,36 miliardi: via libera a 138 assunzioni - PalermoToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1155"
+  },
+  {
+   "createdAt": "2026-10-25T10:00:25Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1154,
+   "title": "[Scadenzario] #9 Scadenze fiscali — novembre 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1154"
+  },
   {
    "createdAt": "2026-10-24T09:43:51Z",
    "labels": [
@@ -1246,160 +1400,6 @@
    "number": 1065,
    "title": "[GoogleNews] Concorso Nicholas Green, premiate due alunne di Gioiosa Marea - CanaleSicilia",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1065"
-  },
-  {
-   "createdAt": "2026-10-16T10:02:50Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1064,
-   "title": "[GoogleNews] IC Brolo premiato al concorso Nicholas Green per la solidarietà - News Istruzione",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1064"
-  },
-  {
-   "createdAt": "2026-10-16T10:02:50Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1063,
-   "title": "[GoogleNews] CNR: concorsi e 1000 assunzioni nel 2026 con il Piano straordinario per il personale, nuovi Bandi in arrivo a Novembre - Ti Consig",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1063"
-  },
-  {
-   "createdAt": "2026-10-16T10:02:49Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1062,
-   "title": "[GoogleNews] Catania Film Fest: Zo Centro Culture Contemporanee ospita 32 opere in concorso da oltre 10 Paesi - La Sicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1062"
-  },
-  {
-   "createdAt": "2026-10-16T10:02:49Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1061,
-   "title": "[GoogleNews] Regione Siciliana Assunzioni previste dal PIAO 2026-2028: circa 3641 posti di lavoro nei prossimi bandi - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1061"
-  },
-  {
-   "createdAt": "2026-10-15T10:11:37Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1060,
-   "title": "[GoogleNews] Concorso Marina Militare per 100 VSP 2026, Guardia Costiera: Bando per civili diplomati - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1060"
-  },
-  {
-   "createdAt": "2026-10-15T10:11:36Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1059,
-   "title": "[GoogleNews] ASST Lodi: concorso per 10 infermieri, lavoro a tempo indeterminato, stipendio 24.918 euro - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1059"
-  },
-  {
-   "createdAt": "2026-10-15T10:11:36Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1058,
-   "title": "[GoogleNews] ASST Ovest Milanese: concorsi per 35 posti, infermieri, educatore e magazzinieri, stipendi fra 23 e 28mila euro - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1058"
-  },
-  {
-   "createdAt": "2026-10-15T10:11:35Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1057,
-   "title": "[GoogleNews] Caltanissetta, “Domenica a Teatro”: presentata la quarta edizione del Concorso “Peppe Nasca” – Targa “Michele Abate” - il Fatto Ni",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1057"
-  },
-  {
-   "createdAt": "2026-10-15T10:11:35Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1056,
-   "title": "[GoogleNews] Comune di Mugnano di Napoli: selezione per diplomati e laureati, stipendi fra 23 e 25mila euro - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1056"
-  },
-  {
-   "createdAt": "2026-10-15T10:11:34Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1055,
-   "title": "[GoogleNews] Due studentesse del liceo scientifico di Termini Imerese ottengono un riconoscimento al concorso “Nicholas Green” - Himeralive.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1055"
-  },
-  {
-   "createdAt": "2026-10-15T10:11:34Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1054,
-   "title": "[GoogleNews] Selezioni Ministero Giustizia: mediatori penali e culturali - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1054"
   }
  ]
 }
