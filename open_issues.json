@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-10-26T11:24:25+00:00",
+ "generated_at": "2026-10-27T10:47:50+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-10-27T10:47:48Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1186,
+   "title": "[GoogleNews] Scuola, tre nuovi concorsi in Trentino: 46 posti a tempo indeterminato tra amministrativi ed educatori - L'Adige",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1186"
+  },
+  {
+   "createdAt": "2026-10-27T10:47:48Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1185,
+   "title": "[GoogleNews] Concorso Esercito Italiano: aperto il bando per 2.300 Volontari in ferma iniziale - Calabria Diretta News",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1185"
+  },
+  {
+   "createdAt": "2026-10-27T10:47:47Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1184,
+   "title": "[GoogleNews] 160 Mila candidature al maxi concorso ASMEL 2026: +51% under 30 e 63% donne - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1184"
+  },
+  {
+   "createdAt": "2026-10-27T10:47:47Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1183,
+   "title": "[GoogleNews] Docenti idonei: “Basta ricorrere ai supplenti. Ampliamento dell’organico e stabilizzazione” - Il Gazzettino di Sicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1183"
+  },
+  {
+   "createdAt": "2026-10-27T10:47:47Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1182,
+   "title": "[GoogleNews] Assunzioni Rai 2026: bando per 34 Tecnici della produzione, c’è un posto a Catania - LiveUniCT – Notizie su Catania e Università",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1182"
+  },
+  {
+   "createdAt": "2026-10-27T10:47:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1181,
+   "title": "[GoogleNews] Barcellona, Sciotto: «Indetto il concorso per il primario di Medicina» - CanaleSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1181"
+  },
+  {
+   "createdAt": "2026-10-27T10:47:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1180,
+   "title": "[GoogleNews] Manifestazione di interesse per la selezione di esperti esterni della Commissione comunale per la valutazione delle donazioni di o",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1180"
+  },
+  {
+   "createdAt": "2026-10-27T10:47:45Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1179,
+   "title": "[GoogleNews] La Sicilia punta sui Beni culturali, Scarpinato a Talk Sicilia: \"Sono la nostra prima industria, ora un maxi-concorso per 400 post",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1179"
+  },
+  {
+   "createdAt": "2026-10-27T10:47:44Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1178,
+   "title": "[GoogleNews] Concorsi Pubblici Novembre 2026: oltre 4000 assunzioni, bandi e scadenze - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1178"
+  },
+  {
+   "createdAt": "2026-10-27T10:47:44Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1177,
+   "title": "[GoogleNews] Regione, promozioni per 832 dipendenti e 138 nuove assunzioni: \"Dopo anni di conti in rosso valorizziamo il personale\" - Agrigento",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1177"
+  },
   {
    "createdAt": "2026-10-26T11:24:24Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 1087,
    "title": "[GoogleNews] Fiera dei Morti. Bando assegnazione spazi - Comune di Palermo",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1087"
-  },
-  {
-   "createdAt": "2026-10-18T09:47:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1086,
-   "title": "[GoogleNews] Giarre, due libri ritirati e un codice Isbn già utilizzato: nuovi interrogativi sul concorso dei vigili urbani - QdS",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1086"
-  },
-  {
-   "createdAt": "2026-10-18T09:47:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1085,
-   "title": "[GoogleNews] Trecastagni, concorso per un funzionario tecnico: posto a tempo indeterminato - Sicilianews24.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1085"
-  },
-  {
-   "createdAt": "2026-10-18T09:47:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1084,
-   "title": "[GoogleNews] Concorso Esercito 2026-2027: 7.000 posti per volontari VFI, basta la licenza media - Concorsi Pubblici",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1084"
-  },
-  {
-   "createdAt": "2026-10-18T09:47:45Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1083,
-   "title": "[GoogleNews] Vicenza, Casa di Ricovero Muzan cerca psicologo, selezione solo per curriculum - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1083"
-  },
-  {
-   "createdAt": "2026-10-18T09:47:33Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1082,
-   "title": "[Scadenzario] #3 Cedolino pensione — novembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1082"
-  },
-  {
-   "createdAt": "2026-10-17T09:35:56Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1081,
-   "title": "[GoogleNews] Catania Film Fest, quindicesima edizione: 32 opere in concorso e Oliver Laxe in giuria - CataniaNews.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1081"
-  },
-  {
-   "createdAt": "2026-10-17T09:35:55Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1080,
-   "title": "[GoogleNews] Opportunità al Comune di Catania, selezione per dieci tutor digitali: come fare domanda e la scadenza - QdS",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1080"
-  },
-  {
-   "createdAt": "2026-10-17T09:35:54Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1079,
-   "title": "[GoogleNews] Comune di Catania, selezione per 10 tutor digitali: basta il diploma tecnico, compenso fino a 23.426 euro - Concorsi Pubblici",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1079"
-  },
-  {
-   "createdAt": "2026-10-17T09:35:54Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1078,
-   "title": "[GoogleNews] Concorsi e assunzioni, il sindaco Trantino e l’assessora Lombardo incontrano i sindacati - cronaca oggi quotidiano",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1078"
-  },
-  {
-   "createdAt": "2026-10-17T09:35:53Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1077,
-   "title": "[GoogleNews] Concorsone al Comune di Messina: no del Tar a richiesta sospensione avanzata su ricorso di 7 dipendenti 24/03/2023 - L'eco del sud",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1077"
   }
  ]
 }
