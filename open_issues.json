@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-10-27T10:47:50+00:00",
+ "generated_at": "2026-10-28T11:30:20+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-10-28T11:30:19Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1196,
+   "title": "[GoogleNews] Concorso Docenti 2027: perché il MIM riscrive le tabelle di valutazione - News Istruzione",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1196"
+  },
+  {
+   "createdAt": "2026-10-28T11:30:19Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1195,
+   "title": "[GoogleNews] Concorso Docenti 2027, perché il MIM riscrive le tabelle di valutazione - Voce della Scuola",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1195"
+  },
+  {
+   "createdAt": "2026-10-28T11:30:18Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1194,
+   "title": "[GoogleNews] Concorso docenti 2027: cosa studiare e come arrivare preparati in attesa del bando - Tecnica della Scuola",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1194"
+  },
+  {
+   "createdAt": "2026-10-28T11:30:17Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1193,
+   "title": "[GoogleNews] Nuovo concorso docenti, il 2026/27 potrà valere come terzo anno di servizio in corso e riserva del 30%? Pillole di Question Time -",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1193"
+  },
+  {
+   "createdAt": "2026-10-28T11:30:17Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1192,
+   "title": "[GoogleNews] Il concorso per la scuola di formazione dei medici di famiglia in Lombardia è di nuovo un flop - Il Fatto Quotidiano",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1192"
+  },
+  {
+   "createdAt": "2026-10-28T11:30:16Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1191,
+   "title": "[GoogleNews] Concorso Agenzia Entrate 2026, 622 posti categorie protette: riaperte le domande. Ecco per chi - LeggiOggi",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1191"
+  },
+  {
+   "createdAt": "2026-10-28T11:30:16Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1190,
+   "title": "[GoogleNews] Quiz Concorso ASP Catania Assistenti Amministrativi 2026: Banca dati esercitazione - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1190"
+  },
+  {
+   "createdAt": "2026-10-28T11:30:15Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1189,
+   "title": "[GoogleNews] Nuove assunzioni al Comune di Caltagirone, in servizio tre nuovi funzionari - CataniaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1189"
+  },
+  {
+   "createdAt": "2026-10-28T11:30:15Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1188,
+   "title": "[GoogleNews] Regione, stop temporaneo alle assunzioni: la causa è un guasto tecnico - CataniaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1188"
+  },
+  {
+   "createdAt": "2026-10-28T11:30:14Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1187,
+   "title": "[GoogleNews] Concorso Beni Culturali Sicilia: in arrivo 400 posti di lavoro? Le novità e cosa sapere - LiveUnict",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1187"
+  },
   {
    "createdAt": "2026-10-27T10:47:48Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 1097,
    "title": "[GoogleNews] Medicina, il Consiglio di Stato ordina lo scorrimento della graduatoria: circa 200 posti per i ricorrenti, almeno 50 tra Messina e",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1097"
-  },
-  {
-   "createdAt": "2026-10-19T11:04:55Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1096,
-   "title": "[GoogleNews] Concorso Università Studi di Firenze Collaboratori Amministrativi 2026: 8 posti per diplomati - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1096"
-  },
-  {
-   "createdAt": "2026-10-19T11:04:54Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1095,
-   "title": "[GoogleNews] 5 posti di collaboratore amministrativo presso l'Università di Messina - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1095"
-  },
-  {
-   "createdAt": "2026-10-19T11:04:53Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1094,
-   "title": "[GoogleNews] Ragusa, concorso da 6,2 milioni per la Cittadella dello Sport: il plauso degli Architetti - WLTV",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1094"
-  },
-  {
-   "createdAt": "2026-10-19T11:04:52Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1093,
-   "title": "[GoogleNews] Augusta, presentata la 12ª edizione del concorso fotografico pro Airc: come partecipare - La Gazzetta Augustana",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1093"
-  },
-  {
-   "createdAt": "2026-10-18T09:47:49Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1092,
-   "title": "[GoogleNews] Concorso Università Messina Collaboratori Amministrativi 2026: 5 posti a tempo indeterminato - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1092"
-  },
-  {
-   "createdAt": "2026-10-18T09:47:48Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1091,
-   "title": "[GoogleNews] Concorso ASP Palermo Infermieri: Ecco le date della prova preselettiva - Studia dalla banca dati ufficiale - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1091"
-  },
-  {
-   "createdAt": "2026-10-18T09:47:48Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1090,
-   "title": "[GoogleNews] Aou Policlinico \"G. Rodolico - San Marco\" di Catania: a breve due concorsi per 88 posti da oss - Nurse Times",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1090"
-  },
-  {
-   "createdAt": "2026-10-18T09:47:48Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1089,
-   "title": "[GoogleNews] Asp Umberto I di Pordenone: concorso per 5 posti da infermiere - Nurse Times",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1089"
-  },
-  {
-   "createdAt": "2026-10-18T09:47:47Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1088,
-   "title": "[GoogleNews] Bando-beffa dell'Asp di Messina: mai pubblicato in G.U. e con sole 2 settimane di tempo per parteciparvi 06/05/2014 - L'eco del su",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1088"
-  },
-  {
-   "createdAt": "2026-10-18T09:47:47Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1087,
-   "title": "[GoogleNews] Fiera dei Morti. Bando assegnazione spazi - Comune di Palermo",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1087"
   }
  ]
 }
