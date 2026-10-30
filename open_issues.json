@@ -1,6 +1,272 @@
 {
- "generated_at": "2026-10-29T11:40:30+00:00",
+ "generated_at": "2026-10-30T11:31:49+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-10-30T11:31:48Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1225,
+   "title": "[GoogleNews] Agenti della Polizia di Stato di Messina hanno proceduto all’arresto, in flagranza di reato, di due catanesi rispettivamente class",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1225"
+  },
+  {
+   "createdAt": "2026-10-30T11:31:47Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1224,
+   "title": "[GoogleNews] AMAT Palermo S.p.A. – Selezione Pubblica per n. 1 Dirigente preposto alla Direzione Affari Generali e Consulenza Legale – Città di",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1224"
+  },
+  {
+   "createdAt": "2026-10-30T11:31:47Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1223,
+   "title": "[GoogleNews] Comune di Reggio: via libera alla stabilizzazione di 8 agenti della Polizia Locale - Progetto Touring",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1223"
+  },
+  {
+   "createdAt": "2026-10-30T11:31:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1222,
+   "title": "[GoogleNews] Torrente Annunziata, il Comune di Messina scorrerà la graduatoria per la nuova impresa - Tempostretto",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1222"
+  },
+  {
+   "createdAt": "2026-10-30T11:31:45Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1221,
+   "title": "[GoogleNews] Sicilia. Regione, da stamattina riavviate le procedure di firma dei contratti di assunzione e delle progressioni verticali - il Fa",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1221"
+  },
+  {
+   "createdAt": "2026-10-30T11:31:45Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1220,
+   "title": "[GoogleNews] Rendiconto 2025, Schifani dispone un’indagine interna: bloccate le assunzioni dei vincitori di concorso - Alqamah",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1220"
+  },
+  {
+   "createdAt": "2026-10-30T11:31:44Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1219,
+   "title": "[GoogleNews] Regione Siciliana, sbloccate le assunzioni dopo il guasto informatico: riparte la firma dei contratti - MessinaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1219"
+  },
+  {
+   "createdAt": "2026-10-30T11:31:43Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1218,
+   "title": "[GoogleNews] Regione Siciliana, assunzioni bloccate per un mancato aggiornamento informatico. Schifani furioso: \"Situazione allucinante, accert",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1218"
+  },
+  {
+   "createdAt": "2026-10-30T11:31:42Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1217,
+   "title": "[GoogleNews] Blocco assunzioni, Schifani: «Dati del rendiconto non caricati, allucinante» - | Regione Siciliana",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1217"
+  },
+  {
+   "createdAt": "2026-10-30T11:31:42Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1216,
+   "title": "[GoogleNews] Regione, avviate 138 nuove assunzioni e progressioni di categoria per 832 dipendenti - | Regione Siciliana",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1216"
+  },
+  {
+   "createdAt": "2026-10-30T11:31:28Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1215,
+   "title": "[Scadenzario] #20 Incentivo stabilizzazione under 35 (reminder finale) — novembre 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1215"
+  },
+  {
+   "createdAt": "2026-10-30T11:31:28Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1214,
+   "title": "[Scadenzario] #10 Rimborsi 730 — novembre 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1214"
+  },
+  {
+   "createdAt": "2026-10-30T11:31:27Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1213,
+   "title": "[Scadenzario] #8 SFL — novembre 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1213"
+  },
+  {
+   "createdAt": "2026-10-30T11:31:27Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1212,
+   "title": "[Scadenzario] #6 ADI — novembre 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1212"
+  },
+  {
+   "createdAt": "2026-10-30T11:31:26Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1211,
+   "title": "[Scadenzario] #5 Assegno unico — novembre 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1211"
+  },
+  {
+   "createdAt": "2026-10-30T11:31:25Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1210,
+   "title": "[Scadenzario] #4 NASpI — novembre 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1210"
+  },
+  {
+   "createdAt": "2026-10-30T11:31:25Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1209,
+   "title": "INPS: Pensioni di novembre: pagamento dal 2 novembre, conguagli 730 sul cedolino e, dal 2027, notifiche digitali con SEND - Po",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1209"
+  },
+  {
+   "createdAt": "2026-10-30T11:31:24Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1208,
+   "title": "INPS: Pensioni di novembre: pagamento dal 2 novembre, conguagli 730 sul cedolino e, dal 2027, notifiche digitali con SEND - Po",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1208"
+  },
+  {
+   "createdAt": "2026-10-30T11:31:23Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1207,
+   "title": "INPS: Pensionati: il cedolino di pensione di novembre 2026 - Portale Inps",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1207"
+  },
   {
    "createdAt": "2026-10-29T11:40:28Z",
    "labels": [
@@ -1134,272 +1400,6 @@
    "number": 1126,
    "title": "[GoogleNews] UniMe supporterà con esaminatori e strutture proprie il concorso per personale tecnico-amministrativo di Iacp Messina - L'eco del ",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1126"
-  },
-  {
-   "createdAt": "2026-10-22T10:27:19Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1125,
-   "title": "[GoogleNews] Concorsi Università al 20 ottobre 2026 - FLC CGIL",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1125"
-  },
-  {
-   "createdAt": "2026-10-22T10:27:18Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1124,
-   "title": "[GoogleNews] Sicilia. L’assessora alla Salute Volo avvia la stabilizzazione dei precari Covid - Il Fatto Siciliano",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1124"
-  },
-  {
-   "createdAt": "2026-10-22T10:27:04Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1123,
-   "title": "INPS: Pensioni in cumulo in regime internazionale: valutazione dei periodi assicurativi - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1123"
-  },
-  {
-   "createdAt": "2026-10-21T10:27:30Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1122,
-   "title": "[GoogleNews] Pubblicato il Bando Erasmus+ KA171 per mobilità studenti Consorzio COMMO - Università degli Studi di Messina",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1122"
-  },
-  {
-   "createdAt": "2026-10-21T10:27:29Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1121,
-   "title": "[GoogleNews] Stabilizzazione Asu, Schifani “Col mio governo si pone fine al precariato” 27/04/2026 - L'eco del sud",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1121"
-  },
-  {
-   "createdAt": "2026-10-21T10:27:29Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1120,
-   "title": "[GoogleNews] CRUI e GSE, un bando per 35 tirocini nel settore delle rinnovabili 24/11/2021 - L'eco del sud",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1120"
-  },
-  {
-   "createdAt": "2026-10-21T10:27:28Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1119,
-   "title": "[GoogleNews] Parte il concorso per 400 marescialli - Zazoom Social News",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1119"
-  },
-  {
-   "createdAt": "2026-10-21T10:27:28Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1118,
-   "title": "[GoogleNews] Avviso di apertura permanente della finestra straordinaria per nuovi inserimenti in coda alle graduatorie triennali vigenti (profi",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1118"
-  },
-  {
-   "createdAt": "2026-10-21T10:27:27Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1117,
-   "title": "[GoogleNews] Ordine degli architetti: “Il concorso di progettazione per Cittadella dello Sport di Ragusa garantisce qualità, trasparenza e visi",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1117"
-  },
-  {
-   "createdAt": "2026-10-21T10:27:27Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1116,
-   "title": "[GoogleNews] Concorso Agenzia delle Entrate per 622 assistenti: il bando riapre ai cittadini stranieri dopo la sentenza del Tribunale - LiveUni",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1116"
-  },
-  {
-   "createdAt": "2026-10-21T10:27:26Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1115,
-   "title": "[GoogleNews] Messina. Concorso pilotato a Farmacia: il Pm chiede 6 condanne. L'assoluzione per l’ex rettore Tomasello 29/11/2017 - L'eco del su",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1115"
-  },
-  {
-   "createdAt": "2026-10-21T10:27:26Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1114,
-   "title": "[GoogleNews] Concorso Asp per informatici, scade la graduatoria: 13 idonei restano fuori e annunciano battaglia - PalermoToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1114"
-  },
-  {
-   "createdAt": "2026-10-21T10:27:25Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1113,
-   "title": "[GoogleNews] Concorso infanzia e primaria: nuova integrazione graduatoria Sicilia - cemform",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1113"
-  },
-  {
-   "createdAt": "2026-10-20T10:18:19Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1112,
-   "title": "[GoogleNews] Concorso da 41 posti per Oss in Nord Italia | per candidarsi basta la terza media - Zazoom Social News",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1112"
-  },
-  {
-   "createdAt": "2026-10-20T10:18:18Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1111,
-   "title": "[GoogleNews] Calabria, graduatorie dei Centri per l’impiego: Talerico contesta la legge e chiede 24 mesi di proroga - Catanzaro Informa",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1111"
-  },
-  {
-   "createdAt": "2026-10-20T10:18:18Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1110,
-   "title": "[GoogleNews] Sanità Calabria | Graduatorie prorogate e chiamate revocate: Talerico denuncia le contraddizioni della Regione - La Novità Online",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1110"
-  },
-  {
-   "createdAt": "2026-10-20T10:18:18Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1109,
-   "title": "[GoogleNews] Comuni, via libera a 278 assunzioni: 224 a tempo indeterminato, nuovi concorsi pubblici - Concorsi Pubblici",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1109"
-  },
-  {
-   "createdAt": "2026-10-20T10:18:17Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1108,
-   "title": "[GoogleNews] Concorsi pubblici in Calabria, il Comitato PA: “Ripristinare la proposta di legge originaria” - Catanzaro Informa",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1108"
-  },
-  {
-   "createdAt": "2026-10-20T10:18:17Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1107,
-   "title": "[GoogleNews] Concorso Provincia Cosenza Funzionari e Istruttori Amministrativi 2026: 5 posti a tempo indeterminato - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1107"
   }
  ]
 }
