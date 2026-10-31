@@ -1,6 +1,160 @@
 {
- "generated_at": "2026-10-30T11:31:49+00:00",
+ "generated_at": "2026-10-31T11:03:43+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-10-31T11:03:42Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1236,
+   "title": "[GoogleNews] CarlottaxARCHITETTURA 2027: aperto il bando della settima edizione - Ordine degli Architetti di Torino",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1236"
+  },
+  {
+   "createdAt": "2026-10-31T11:03:42Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1235,
+   "title": "[GoogleNews] Concorso ASP Catania Assistenti Amministrativi da 50 posti: Commissione esaminatrice costituita - preparati alle prove - Concorsan",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1235"
+  },
+  {
+   "createdAt": "2026-10-31T11:03:41Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1234,
+   "title": "[GoogleNews] Reggio, ok della Giunta alla stabilizzazione di 8 agenti della Polizia Locale - CityNow",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1234"
+  },
+  {
+   "createdAt": "2026-10-31T11:03:41Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1233,
+   "title": "[GoogleNews] Natale a Reggio Calabria: bando del Comune per i mercatini, cinquanta casette nel cuore della città - ReggioTV",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1233"
+  },
+  {
+   "createdAt": "2026-10-31T11:03:40Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1232,
+   "title": "[GoogleNews] AL VIA OS-KIDS: L'ODISSEA SICILIANA DEI PICCOLI\", IL NUOVO CONCORSO SCOLASTICO PROMOSSO DA SACCNE RETE - ME Style",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1232"
+  },
+  {
+   "createdAt": "2026-10-31T11:03:40Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1231,
+   "title": "[GoogleNews] Rendiconto della Regione, risolto il problema informatico. «Grazie al personale, ora ripartono le assunzioni - La Sicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1231"
+  },
+  {
+   "createdAt": "2026-10-31T11:03:40Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1230,
+   "title": "[GoogleNews] Regione Siciliana, ripartono le assunzioni: 952 contratti da firmare - Free Press Online",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1230"
+  },
+  {
+   "createdAt": "2026-10-31T11:03:39Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1229,
+   "title": "[GoogleNews] Regione Siciliana, ripartono le firme per 952 assunzioni e progressioni verticali - Dedalomultimedia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1229"
+  },
+  {
+   "createdAt": "2026-10-31T11:03:39Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1228,
+   "title": "[GoogleNews] Regione, ripartono le assunzioni dopo lo stop: contratti da firmare anche ad Agrigento per 60 dipendenti - AgrigentoNotizie",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1228"
+  },
+  {
+   "createdAt": "2026-10-31T11:03:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1227,
+   "title": "[GoogleNews] Regione Siciliana, sbloccate 952 assunzioni e progressioni: ripartono le firme dei contratti dopo lo stop - NewSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1227"
+  },
+  {
+   "createdAt": "2026-10-31T11:03:25Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1226,
+   "title": "INPS: Fondo Pensioni Lavoratori Dipendenti: prepensionamento dei giornalisti - Portale Inps",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1226"
+  },
   {
    "createdAt": "2026-10-30T11:31:48Z",
    "labels": [
@@ -1246,160 +1400,6 @@
    "number": 1137,
    "title": "[GoogleNews] Formez PA, selezione per 9 laureati in Sicilia: compensi fino a 29.700 euro - Concorsi Pubblici",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1137"
-  },
-  {
-   "createdAt": "2026-10-23T10:24:16Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1136,
-   "title": "[GoogleNews] La Regione Siciliana torna a ingaggiare impiegati, via a 138 assunzioni - Diretta Sicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1136"
-  },
-  {
-   "createdAt": "2026-10-23T10:24:15Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1135,
-   "title": "[GoogleNews] Regione Siciliana, Rendiconto 2025 con avanzo da 7,36 miliardi: sbloccate 138 assunzioni - NewSicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1135"
-  },
-  {
-   "createdAt": "2026-10-23T10:24:15Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1134,
-   "title": "[GoogleNews] Regione, avanzo da 7,36 miliardi e 138 assunzioni sbloccate - AgrigentoNotizie",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1134"
-  },
-  {
-   "createdAt": "2026-10-22T10:27:22Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1133,
-   "title": "[GoogleNews] Concorso Fotografia Calabria Festival Award 2026, 2mila euro e pubblicazione su Internazionale pagata 1000 euro - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1133"
-  },
-  {
-   "createdAt": "2026-10-22T10:27:22Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1132,
-   "title": "[GoogleNews] Concorsi in Calabria, gli idonei denunciano lo stallo: \"C’è il rischio di sprecare risorse pubbliche\" - La Nuova Calabria",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1132"
-  },
-  {
-   "createdAt": "2026-10-22T10:27:21Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1131,
-   "title": "[GoogleNews] Riaperto il Concorso Agenzia Entrate per 622 posti: ora possono partecipare anche gli stranieri - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1131"
-  },
-  {
-   "createdAt": "2026-10-22T10:27:21Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1130,
-   "title": "[GoogleNews] Università La Sapienza: concorso per 15 collaboratori esperti linguistici CEL, 10 lingue, tempo indeterminato - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1130"
-  },
-  {
-   "createdAt": "2026-10-22T10:27:21Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1129,
-   "title": "[GoogleNews] Concorsi pubblici in scadenza entro fine mese, dal 19 al 31 Ottobre 2026: i Bandi da non perdere - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1129"
-  },
-  {
-   "createdAt": "2026-10-22T10:27:20Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1128,
-   "title": "[GoogleNews] Inps Sicilia, selezione per 30 medici fiscali: domande entro il 6 novembre - Dedalomultimedia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1128"
-  },
-  {
-   "createdAt": "2026-10-22T10:27:20Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1127,
-   "title": "[GoogleNews] Riaperto il concorso da 622 posti per assistenti gestionali all'Agenzia delle Entrate riservato alle categorie protette - Simone C",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1127"
-  },
-  {
-   "createdAt": "2026-10-22T10:27:19Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1126,
-   "title": "[GoogleNews] UniMe supporterà con esaminatori e strutture proprie il concorso per personale tecnico-amministrativo di Iacp Messina - L'eco del ",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1126"
   }
  ]
 }
