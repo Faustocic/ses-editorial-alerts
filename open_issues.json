@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-10-31T11:03:43+00:00",
+ "generated_at": "2026-11-01T11:57:44+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-11-01T11:57:41Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1246,
+   "title": "[GoogleNews] Concorso Ministero della Cultura per 1800 Assistenti diplomati: posti, requisiti, materie, come prepararsi e Bando - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1246"
+  },
+  {
+   "createdAt": "2026-11-01T11:57:41Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1245,
+   "title": "[GoogleNews] CISL: OSS e Ausiliari al “San Giovanni di Dio”, avviate le procedure per aumento orario, stabilizzazioni e concorsi - Giornale Cen",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1245"
+  },
+  {
+   "createdAt": "2026-11-01T11:57:40Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1244,
+   "title": "[GoogleNews] Assunzioni Giovani 2026 per gli Under 35 - La novità principale riguarda i requisiti del lavoratore - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1244"
+  },
+  {
+   "createdAt": "2026-11-01T11:57:40Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1243,
+   "title": "[GoogleNews] Concorso MiC 1.800 Assistenti: le date e il calendario della prova scritta a Catania - LiveUniCT – Notizie su Catania e Università",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1243"
+  },
+  {
+   "createdAt": "2026-11-01T11:57:39Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1242,
+   "title": "[GoogleNews] Concorso Ministero Cultura 2026, tutto sulla prova scritta per 1500 assistenti: date, istruzioni, cosa studiare. La guida completa",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1242"
+  },
+  {
+   "createdAt": "2026-11-01T11:57:39Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1241,
+   "title": "[GoogleNews] Concorso AST, sospetti sull'uso di ChatGPT durante la prova: chieste verifiche sui 73 posti - LiveSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1241"
+  },
+  {
+   "createdAt": "2026-11-01T11:57:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1240,
+   "title": "[GoogleNews] Salute mentale in Sicilia, scatta la fase operativa: sblocco delle assunzioni e tavoli tecnici con l'assessore Caruso - BlogSicili",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1240"
+  },
+  {
+   "createdAt": "2026-11-01T11:57:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1239,
+   "title": "[GoogleNews] Concorso ARNAS Garibaldi Catania Tecnici Laboratorio Biomedico 2026: 9 posti a tempo indeterminato - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1239"
+  },
+  {
+   "createdAt": "2026-11-01T11:57:37Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1238,
+   "title": "[GoogleNews] AVIS Messina lancia un concorso scolastico - Messina Oggi",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1238"
+  },
+  {
+   "createdAt": "2026-11-01T11:57:37Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1237,
+   "title": "[GoogleNews] Avis chiama a raccolta gli studenti di Messina, al via il concorso \"Donare è la risposta\" - MessinaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1237"
+  },
   {
    "createdAt": "2026-10-31T11:03:42Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 1147,
    "title": "[GoogleNews] Sicilia, conti della Regione in positivo per 7,3 miliardi: sbloccate 138 assunzioni e 834 promozioni - StrettoWeb",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1147"
-  },
-  {
-   "createdAt": "2026-10-24T09:43:47Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1146,
-   "title": "[GoogleNews] Sbloccato concorso Forestale, firmano 94 nuovi agenti, verso il maxi-piano da oltre 3.600 assunzioni - BlogSicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1146"
-  },
-  {
-   "createdAt": "2026-10-24T09:43:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1145,
-   "title": "[GoogleNews] Ambiente, si sblocca l'assunzione di 94 agenti forestali della Regione in Sicilia - PalermoToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1145"
-  },
-  {
-   "createdAt": "2026-10-24T09:43:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1144,
-   "title": "[GoogleNews] Approvato il Rendiconto 2025: avanzo di 7,36 miliardi. Adesso via libera a 138 assunzioni - | Regione Siciliana",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1144"
-  },
-  {
-   "createdAt": "2026-10-23T10:24:20Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1143,
-   "title": "[GoogleNews] Reggio Calabria, fino a 15mila euro per le imprese: in scadenza il bando “Premi per l’innovazione”. Chi può partecipare e come - S",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1143"
-  },
-  {
-   "createdAt": "2026-10-23T10:24:19Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1142,
-   "title": "[GoogleNews] Messina. Carenza vigili urbani, Gioveni: “ Il codice della strada consente assunzioni stagionali. Il Comune poteva pensarci\" 02/01",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1142"
-  },
-  {
-   "createdAt": "2026-10-23T10:24:18Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1141,
-   "title": "[GoogleNews] Nuovi Concorsi ordinari per docenti confermati anche con assunzioni da GPS - Zazoom Social News",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1141"
-  },
-  {
-   "createdAt": "2026-10-23T10:24:18Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1140,
-   "title": "[GoogleNews] Carnevale di Sciacca, scaduto il bando per i carri allegorici: 9 le proposte delle associazioni culturali - Risoluto",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1140"
-  },
-  {
-   "createdAt": "2026-10-23T10:24:17Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1139,
-   "title": "[GoogleNews] Madonie, la battaglia contro i rifiuti abbandonati parte dai cittadini: arriva \"Curò\" - Madonie Press",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1139"
-  },
-  {
-   "createdAt": "2026-10-23T10:24:17Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1138,
-   "title": "[GoogleNews] Regione: si sbloccano 138 assunzioni e 834 progressioni verticali - Sicilia ON Press",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1138"
-  },
-  {
-   "createdAt": "2026-10-23T10:24:16Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1137,
-   "title": "[GoogleNews] Formez PA, selezione per 9 laureati in Sicilia: compensi fino a 29.700 euro - Concorsi Pubblici",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1137"
   }
  ]
 }
