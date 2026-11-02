@@ -1,6 +1,160 @@
 {
- "generated_at": "2026-11-01T11:57:44+00:00",
+ "generated_at": "2026-11-02T13:45:11+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-11-02T13:45:10Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1257,
+   "title": "[GoogleNews] Nota idonei Concorso 54 posti Regione Calabria: sviluppi PL 65 - LameziaTerme.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1257"
+  },
+  {
+   "createdAt": "2026-11-02T13:45:09Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1256,
+   "title": "[GoogleNews] Mondello, concorso di idee per i dehors in piazza: un’occasione per coinvolgere la comunità cittadina di architetti - Be Sicily Ma",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1256"
+  },
+  {
+   "createdAt": "2026-11-02T13:45:09Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1255,
+   "title": "[GoogleNews] Nuovo concorso Akrea Crotone per 23 assunzioni nei servizi di igiene urbana: basta la Licenza Media, bando in arrivo - Ti Consigli",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1255"
+  },
+  {
+   "createdAt": "2026-11-02T13:45:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1254,
+   "title": "[GoogleNews] Taglio alle assunzioni al Comune: il piano scende da 42 a soli 12 funzionari tra pensionamenti slittati e pre-dissesto - WLTV",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1254"
+  },
+  {
+   "createdAt": "2026-11-02T13:45:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1253,
+   "title": "[GoogleNews] Avis di Messina lancia il concorso per gli Istituti Superiori: \"Donare è la risposta: la scuola per la vita\" - Tempostretto",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1253"
+  },
+  {
+   "createdAt": "2026-11-02T13:45:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1252,
+   "title": "[GoogleNews] Pubblicato il Bando Erasmus+ per l’assegnazione di borse di mobilità per studio e tirocinio verso paesi extra-europei (KA171) - II",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1252"
+  },
+  {
+   "createdAt": "2026-11-02T13:45:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1251,
+   "title": "[GoogleNews] Palermo, pensioni bloccate al Comune e mancano i risparmi da turn-over: congelate 30 assunzioni di funzionari - La Sicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1251"
+  },
+  {
+   "createdAt": "2026-11-02T13:45:06Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1250,
+   "title": "[GoogleNews] ASP assume 9 persone a tempo indeterminato: OSS, Autisti, Archivista, Elettricista e Magazzinieri - Concorsi Pubblici",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1250"
+  },
+  {
+   "createdAt": "2026-11-02T13:45:06Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1249,
+   "title": "[GoogleNews] L'INPS assume oltre 8mila diplomati e laureati entro il 2028 e programma nuovi concorsi pubblici: aggiornato il PIAO - Ti Consigli",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1249"
+  },
+  {
+   "createdAt": "2026-11-02T13:45:05Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1248,
+   "title": "[GoogleNews] Magma 2026, il cinema breve siciliano parla anche messinese: in concorso \"Antonino\" di Angelo Campolo - MessinaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1248"
+  },
+  {
+   "createdAt": "2026-11-02T13:44:49Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1247,
+   "title": "INPS: Trasformazione AOI in pensione di vecchiaia per madri lavoratrici: principali novità - Portale Inps",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1247"
+  },
   {
    "createdAt": "2026-11-01T11:57:41Z",
    "labels": [
@@ -1246,160 +1400,6 @@
    "number": 1158,
    "title": "[GoogleNews] Concorso INPS 2026 1695 funzionari: le prove dal 27 ottobre - Fisco e Tasse",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1158"
-  },
-  {
-   "createdAt": "2026-10-25T10:00:42Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1157,
-   "title": "[GoogleNews] CREA: concorso per tecnologi in Calabria, Liguria e Sicilia, stipendio 34.705 euro - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1157"
-  },
-  {
-   "createdAt": "2026-10-25T10:00:41Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1156,
-   "title": "[GoogleNews] Comune di Prato: concorso per 6 diplomati tecnici, stipendio oltre 25mila euro - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1156"
-  },
-  {
-   "createdAt": "2026-10-25T10:00:41Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1155,
-   "title": "[GoogleNews] La giunta regionale approva il Rendiconto 2025, avanzo da 7,36 miliardi: via libera a 138 assunzioni - PalermoToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1155"
-  },
-  {
-   "createdAt": "2026-10-25T10:00:25Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1154,
-   "title": "[Scadenzario] #9 Scadenze fiscali — novembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1154"
-  },
-  {
-   "createdAt": "2026-10-24T09:43:51Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1153,
-   "title": "[GoogleNews] Messina. Concorso pilotato: la Corte dei Conti condanna ex rettore e 11 docenti a pagare 55mila euro 12/10/2017 - L'eco del sud",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1153"
-  },
-  {
-   "createdAt": "2026-10-24T09:43:50Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1152,
-   "title": "[GoogleNews] Messina. Il prof. Franco Astone si dimette a seguito delle indagini sui brogli al concorso in magistratura 15/03/2023 - L'eco del ",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1152"
-  },
-  {
-   "createdAt": "2026-10-24T09:43:50Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1151,
-   "title": "[GoogleNews] Università Messina, sul sito dell'Ersu online il nuovo bando per le borse di studio 21/07/2020 - L'eco del sud",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1151"
-  },
-  {
-   "createdAt": "2026-10-24T09:43:49Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1150,
-   "title": "[GoogleNews] Concorso funzionari, collaboratori e operatori Università di Napoli 2026: 9 posti a tempo pieno e indeterminato - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1150"
-  },
-  {
-   "createdAt": "2026-10-24T09:43:48Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1149,
-   "title": "[GoogleNews] Pubblicato il Bando di mobilità Erasmus+ KA171 per attività di docenza (STA), combinata docenza e formazione (STA+STT) e formazion",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1149"
-  },
-  {
-   "createdAt": "2026-10-24T09:43:48Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1148,
-   "title": "[GoogleNews] Scuola, FdI: \"metodo fallimentare per il concorso ordinario\" 29/03/2022 - L'eco del sud",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1148"
-  },
-  {
-   "createdAt": "2026-10-24T09:43:47Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1147,
-   "title": "[GoogleNews] Sicilia, conti della Regione in positivo per 7,3 miliardi: sbloccate 138 assunzioni e 834 promozioni - StrettoWeb",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1147"
   }
  ]
 }
