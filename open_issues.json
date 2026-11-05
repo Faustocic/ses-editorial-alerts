@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-11-04T13:11:54+00:00",
+ "generated_at": "2026-11-05T13:25:14+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-11-05T13:25:13Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1289,
+   "title": "[GoogleNews] Concorsi docenti 2027, slitta al 14 novembre la scadenza del censimento e collaudo delle aule informatizzate: quando uscirà il ban",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1289"
+  },
+  {
+   "createdAt": "2026-11-05T13:25:12Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1288,
+   "title": "[GoogleNews] Scuola, concorso straordinario in Trentino: stabilizzazione per 14 classi di insegnamento - L'Adige",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1288"
+  },
+  {
+   "createdAt": "2026-11-05T13:25:12Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1287,
+   "title": "[GoogleNews] Concorso: “30 Anni di Rappresentanza: costruiamo la Scuola del Futuro (1996-2026)” - Ufficio Scolastico Regionale per il Veneto",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1287"
+  },
+  {
+   "createdAt": "2026-11-05T13:25:11Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1286,
+   "title": "[GoogleNews] Concorsi docenti, proroga al 14 novembre censimento aule informatiche. NOTA - Orizzonte Scuola Notizie",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1286"
+  },
+  {
+   "createdAt": "2026-11-05T13:25:10Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1285,
+   "title": "[GoogleNews] Corso nuovo concorso docenti 2027: ecco quando potrebbe uscire il bando e come prepararsi - Tecnica della Scuola",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1285"
+  },
+  {
+   "createdAt": "2026-11-05T13:25:10Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1284,
+   "title": "[GoogleNews] Concorso docenti 2027: prorogato al 14 novembre il censimento delle aule informatizzate - Simone Concorsi",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1284"
+  },
+  {
+   "createdAt": "2026-11-05T13:25:09Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1283,
+   "title": "[GoogleNews] Scuola: concorso straordinario rivolto al personale docente della scuola secondaria a carattere statale - Ufficio Stampa della Pro",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1283"
+  },
+  {
+   "createdAt": "2026-11-05T13:25:09Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1282,
+   "title": "[GoogleNews] Il concorso Ast e i sospetti sull'uso dell'Ai, graduatorie modificate due volte in 24 ore: \"Si valuti l'annullamento\" - PalermoTod",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1282"
+  },
+  {
+   "createdAt": "2026-11-05T13:25:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1281,
+   "title": "[GoogleNews] Regione Siciliana, la riforma dei dirigenti riaccende lo scontro: nuovi concorsi e maggioranza alla prova - QdS",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1281"
+  },
+  {
+   "createdAt": "2026-11-05T13:25:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1280,
+   "title": "[GoogleNews] Concorso Ast, graduatorie modificate due volte in 24 ore: Lombardo chiede l'annullamento - MessinaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1280"
+  },
   {
    "createdAt": "2026-11-04T13:11:53Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 1190,
    "title": "[GoogleNews] Quiz Concorso ASP Catania Assistenti Amministrativi 2026: Banca dati esercitazione - Concorsando.it",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1190"
-  },
-  {
-   "createdAt": "2026-10-28T11:30:15Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1189,
-   "title": "[GoogleNews] Nuove assunzioni al Comune di Caltagirone, in servizio tre nuovi funzionari - CataniaToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1189"
-  },
-  {
-   "createdAt": "2026-10-28T11:30:15Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1188,
-   "title": "[GoogleNews] Regione, stop temporaneo alle assunzioni: la causa è un guasto tecnico - CataniaToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1188"
-  },
-  {
-   "createdAt": "2026-10-28T11:30:14Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1187,
-   "title": "[GoogleNews] Concorso Beni Culturali Sicilia: in arrivo 400 posti di lavoro? Le novità e cosa sapere - LiveUnict",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1187"
-  },
-  {
-   "createdAt": "2026-10-27T10:47:48Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1186,
-   "title": "[GoogleNews] Scuola, tre nuovi concorsi in Trentino: 46 posti a tempo indeterminato tra amministrativi ed educatori - L'Adige",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1186"
-  },
-  {
-   "createdAt": "2026-10-27T10:47:48Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1185,
-   "title": "[GoogleNews] Concorso Esercito Italiano: aperto il bando per 2.300 Volontari in ferma iniziale - Calabria Diretta News",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1185"
-  },
-  {
-   "createdAt": "2026-10-27T10:47:47Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1184,
-   "title": "[GoogleNews] 160 Mila candidature al maxi concorso ASMEL 2026: +51% under 30 e 63% donne - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1184"
-  },
-  {
-   "createdAt": "2026-10-27T10:47:47Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1183,
-   "title": "[GoogleNews] Docenti idonei: “Basta ricorrere ai supplenti. Ampliamento dell’organico e stabilizzazione” - Il Gazzettino di Sicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1183"
-  },
-  {
-   "createdAt": "2026-10-27T10:47:47Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1182,
-   "title": "[GoogleNews] Assunzioni Rai 2026: bando per 34 Tecnici della produzione, c’è un posto a Catania - LiveUniCT – Notizie su Catania e Università",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1182"
-  },
-  {
-   "createdAt": "2026-10-27T10:47:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1181,
-   "title": "[GoogleNews] Barcellona, Sciotto: «Indetto il concorso per il primario di Medicina» - CanaleSicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1181"
-  },
-  {
-   "createdAt": "2026-10-27T10:47:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1180,
-   "title": "[GoogleNews] Manifestazione di interesse per la selezione di esperti esterni della Commissione comunale per la valutazione delle donazioni di o",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1180"
   }
  ]
 }
