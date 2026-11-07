@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-11-06T13:08:29+00:00",
+ "generated_at": "2026-11-07T11:52:18+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-11-07T11:52:17Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1309,
+   "title": "[GoogleNews] Concorso docenti 2027: dove e per quali classi di concorso si faranno le nuove selezioni - Scuolainforma",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1309"
+  },
+  {
+   "createdAt": "2026-11-07T11:52:16Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1308,
+   "title": "[GoogleNews] Concorsi docenti 2027, nuovi bandi solo dove mancano candidati? Cozzetto (Anief): \"Non abbiamo ancora le tempistiche\". Il Punto - ",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1308"
+  },
+  {
+   "createdAt": "2026-11-07T11:52:16Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1307,
+   "title": "[GoogleNews] Sanità Sicilia, via libera a quasi 3mila assunzioni per case e ospedali di comunità: oltre 1.500 gli infermieri - Nurse Times",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1307"
+  },
+  {
+   "createdAt": "2026-11-07T11:52:15Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1306,
+   "title": "[GoogleNews] Sicilia, 2.917 assunzioni per case e ospedali di comunità: oltre metà sono infermieri. Ora servono i concorsi - Nurse Times",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1306"
+  },
+  {
+   "createdAt": "2026-11-07T11:52:15Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1305,
+   "title": "[GoogleNews] Sanità territoriale a Messina, via al piano da 21 milioni: l’Asp programma 396 assunzioni - https://notiziesicilia.it/",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1305"
+  },
+  {
+   "createdAt": "2026-11-07T11:52:14Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1304,
+   "title": "[GoogleNews] 28 posti di dirigente medico presso l'ASP di Messina - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1304"
+  },
+  {
+   "createdAt": "2026-11-07T11:52:14Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1303,
+   "title": "[GoogleNews] Ospedali, 2.917 assunzioni a tempo indeterminato: impiegati, Ausiliari, infermieri e OSS. Nuovi concorsi in arrivo - Concorsi Pubb",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1303"
+  },
+  {
+   "createdAt": "2026-11-07T11:52:13Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1302,
+   "title": "[GoogleNews] Concorso AST per 73 operatori, Lombardo ne chiede l’annullamento - CanaleSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1302"
+  },
+  {
+   "createdAt": "2026-11-07T11:52:13Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1301,
+   "title": "[GoogleNews] Concorso AST per 73 operatori, Lombardo (ScN) presenta una risoluzione per chiederne l'annullamento - ilSicilia.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1301"
+  },
+  {
+   "createdAt": "2026-11-07T11:52:12Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1300,
+   "title": "[GoogleNews] Concorso Ast, chiesto lo stop alle assunzioni di 73 operatori: cosa contesta Lombardo - LiveSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1300"
+  },
   {
    "createdAt": "2026-11-06T13:08:28Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 1210,
    "title": "[Scadenzario] #4 NASpI — novembre 2026",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1210"
-  },
-  {
-   "createdAt": "2026-10-30T11:31:25Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1209,
-   "title": "INPS: Pensioni di novembre: pagamento dal 2 novembre, conguagli 730 sul cedolino e, dal 2027, notifiche digitali con SEND - Po",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1209"
-  },
-  {
-   "createdAt": "2026-10-30T11:31:24Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1208,
-   "title": "INPS: Pensioni di novembre: pagamento dal 2 novembre, conguagli 730 sul cedolino e, dal 2027, notifiche digitali con SEND - Po",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1208"
-  },
-  {
-   "createdAt": "2026-10-30T11:31:23Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1207,
-   "title": "INPS: Pensionati: il cedolino di pensione di novembre 2026 - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1207"
-  },
-  {
-   "createdAt": "2026-10-29T11:40:28Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1206,
-   "title": "[GoogleNews] Il concorso nazionale \"Scuola strumento di pace\" - osservatoreromano.va",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1206"
-  },
-  {
-   "createdAt": "2026-10-29T11:40:28Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1205,
-   "title": "[GoogleNews] Regione Siciliana, arriva l'alt: niente firme per nuove assunzioni e progressioni verticali - LiveSicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1205"
-  },
-  {
-   "createdAt": "2026-10-29T11:40:27Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1204,
-   "title": "[GoogleNews] Progettare la città. Architettura, Ingegneria e Impresa tra concorso e realizzazione - Università di Catania",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1204"
-  },
-  {
-   "createdAt": "2026-10-29T11:40:26Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1203,
-   "title": "[GoogleNews] Ospedale di Barcellona, concorso per il primario di Medicina Interna: Sciotto rivendica il risultato - 24live.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1203"
-  },
-  {
-   "createdAt": "2026-10-29T11:40:26Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1202,
-   "title": "[GoogleNews] Prove Concorso MIC 1800 assistenti dal 13 al 20 novembre 2026: calendario, sedi, orari e cosa portare - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1202"
-  },
-  {
-   "createdAt": "2026-10-29T11:40:25Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1201,
-   "title": "[GoogleNews] Progettare Catania dai concorsi ai progetti esecutivi: dibattito tra ingegneri, architetti e imprese - Agenparl",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1201"
-  },
-  {
-   "createdAt": "2026-10-29T11:40:25Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1200,
-   "title": "[GoogleNews] Reggio Calabria, svolta sul personale al Comune: la Giunta approva la stabilizzazione di 8 agenti della Polizia Locale - Calabria ",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1200"
   }
  ]
 }
