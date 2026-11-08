@@ -1,6 +1,188 @@
 {
- "generated_at": "2026-11-07T11:52:18+00:00",
+ "generated_at": "2026-11-08T12:05:39+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-11-08T12:05:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1322,
+   "title": "[GoogleNews] Concorso docenti 2027, arriva il nuovo manuale Studio Rapido: normativa aggiornata, lezione simulata e simulatore online incluso -",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1322"
+  },
+  {
+   "createdAt": "2026-11-08T12:05:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1321,
+   "title": "[GoogleNews] Concorsi docenti, Valditara: \"Garantita la cadenza annuale\". E sulle immissioni in ruolo: \"40mila per il prossimo anno\" - Orizzont",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1321"
+  },
+  {
+   "createdAt": "2026-11-08T12:05:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1320,
+   "title": "[GoogleNews] Concorso straordinario docenti Trento 2026/27, approvato il bando per 14 classi di concorso. Requisiti, prova e domande - Orizzont",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1320"
+  },
+  {
+   "createdAt": "2026-11-08T12:05:37Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1319,
+   "title": "[GoogleNews] Nuovo concorso docenti 2027, prorogato termine per censimento aule: ecco quando potrebbe uscire il bando - Tecnica della Scuola",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1319"
+  },
+  {
+   "createdAt": "2026-11-08T12:05:37Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1318,
+   "title": "[GoogleNews] Concorsi a cattedra 2027, si procede a ritmi battenti per consentire la pubblicazione dei bandi entro dicembre - Tecnica della Scu",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1318"
+  },
+  {
+   "createdAt": "2026-11-08T12:05:36Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1317,
+   "title": "[GoogleNews] Asp di Catania, in arrivo 550 nuove assunzioni - in sanitas",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1317"
+  },
+  {
+   "createdAt": "2026-11-08T12:05:36Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1316,
+   "title": "[GoogleNews] Messina. La CISL Fp diffida il centro Neurolesi per la mancata stabilizzazione di 13 OSS Covid 09/09/2023 - L'eco del sud",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1316"
+  },
+  {
+   "createdAt": "2026-11-08T12:05:36Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1315,
+   "title": "[GoogleNews] Sanità siciliana, 2.791 assunzioni in arrivo: ecco le figure richieste. Asp Messina ne assume 396 08/11/2026 - L'eco del sud",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1315"
+  },
+  {
+   "createdAt": "2026-11-08T12:05:35Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1314,
+   "title": "[GoogleNews] Concorsi al Comune di Messina, Gioveni: “Dopo la notizia dei 'furbetti' si valuti la scelta delle prove in presenza\" - L'eco del s",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1314"
+  },
+  {
+   "createdAt": "2026-11-08T12:05:34Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1313,
+   "title": "[GoogleNews] AST, concorso per 73 operatori. Lombardo (Sud chiama Nord): «Troppe irregolarità segnalate e continue rettifiche. Chiediamo la con",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1313"
+  },
+  {
+   "createdAt": "2026-11-08T12:05:20Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1312,
+   "title": "[Scadenzario] #C Refresh di metà mese dell'hub + controllo slittamenti — novembre 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1312"
+  },
+  {
+   "createdAt": "2026-11-08T12:05:20Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1311,
+   "title": "[Scadenzario] #7 Stipendi NoiPA — novembre 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1311"
+  },
+  {
+   "createdAt": "2026-11-08T12:05:19Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1310,
+   "title": "[Scadenzario] #21 ADI: rinnovo e prima mensilità al 50% — novembre 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1310"
+  },
   {
    "createdAt": "2026-11-07T11:52:17Z",
    "labels": [
@@ -1218,188 +1400,6 @@
    "number": 1223,
    "title": "[GoogleNews] Comune di Reggio: via libera alla stabilizzazione di 8 agenti della Polizia Locale - Progetto Touring",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1223"
-  },
-  {
-   "createdAt": "2026-10-30T11:31:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1222,
-   "title": "[GoogleNews] Torrente Annunziata, il Comune di Messina scorrerà la graduatoria per la nuova impresa - Tempostretto",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1222"
-  },
-  {
-   "createdAt": "2026-10-30T11:31:45Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1221,
-   "title": "[GoogleNews] Sicilia. Regione, da stamattina riavviate le procedure di firma dei contratti di assunzione e delle progressioni verticali - il Fa",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1221"
-  },
-  {
-   "createdAt": "2026-10-30T11:31:45Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1220,
-   "title": "[GoogleNews] Rendiconto 2025, Schifani dispone un’indagine interna: bloccate le assunzioni dei vincitori di concorso - Alqamah",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1220"
-  },
-  {
-   "createdAt": "2026-10-30T11:31:44Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1219,
-   "title": "[GoogleNews] Regione Siciliana, sbloccate le assunzioni dopo il guasto informatico: riparte la firma dei contratti - MessinaToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1219"
-  },
-  {
-   "createdAt": "2026-10-30T11:31:43Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1218,
-   "title": "[GoogleNews] Regione Siciliana, assunzioni bloccate per un mancato aggiornamento informatico. Schifani furioso: \"Situazione allucinante, accert",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1218"
-  },
-  {
-   "createdAt": "2026-10-30T11:31:42Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1217,
-   "title": "[GoogleNews] Blocco assunzioni, Schifani: «Dati del rendiconto non caricati, allucinante» - | Regione Siciliana",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1217"
-  },
-  {
-   "createdAt": "2026-10-30T11:31:42Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1216,
-   "title": "[GoogleNews] Regione, avviate 138 nuove assunzioni e progressioni di categoria per 832 dipendenti - | Regione Siciliana",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1216"
-  },
-  {
-   "createdAt": "2026-10-30T11:31:28Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1215,
-   "title": "[Scadenzario] #20 Incentivo stabilizzazione under 35 (reminder finale) — novembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1215"
-  },
-  {
-   "createdAt": "2026-10-30T11:31:28Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1214,
-   "title": "[Scadenzario] #10 Rimborsi 730 — novembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1214"
-  },
-  {
-   "createdAt": "2026-10-30T11:31:27Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1213,
-   "title": "[Scadenzario] #8 SFL — novembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1213"
-  },
-  {
-   "createdAt": "2026-10-30T11:31:27Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1212,
-   "title": "[Scadenzario] #6 ADI — novembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1212"
-  },
-  {
-   "createdAt": "2026-10-30T11:31:26Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1211,
-   "title": "[Scadenzario] #5 Assegno unico — novembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1211"
-  },
-  {
-   "createdAt": "2026-10-30T11:31:25Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1210,
-   "title": "[Scadenzario] #4 NASpI — novembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1210"
   }
  ]
 }
