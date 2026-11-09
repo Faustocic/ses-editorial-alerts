@@ -1,6 +1,160 @@
 {
- "generated_at": "2026-11-08T12:05:39+00:00",
+ "generated_at": "2026-11-09T14:12:13+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-11-09T14:12:12Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1333,
+   "title": "[GoogleNews] \"Open Innovation Sicilia\": a Messina la presentazione del bando per fare impresa - Normanno.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1333"
+  },
+  {
+   "createdAt": "2026-11-09T14:12:11Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1332,
+   "title": "[GoogleNews] Specializzandi medici a 86 anni a spese dello Stato: il paradosso dei fondi pubblici e il caos graduatorie - Open",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1332"
+  },
+  {
+   "createdAt": "2026-11-09T14:12:11Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1331,
+   "title": "[GoogleNews] FFABR UniMe 2026, pubblicato il bando Finanziamento Attività di Base della Ricerca di Ateneo - Università degli Studi di Messina",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1331"
+  },
+  {
+   "createdAt": "2026-11-09T14:12:10Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1330,
+   "title": "[GoogleNews] Poca pubblicità e tempi stretti: stop al bando per i veterinari - La Sicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1330"
+  },
+  {
+   "createdAt": "2026-11-09T14:12:10Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1329,
+   "title": "[GoogleNews] SudPalermo, ASP Palermo, solo sette giorni per candidarsi: il TAR ferma la selezione dei veterinari - SUDPRESS",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1329"
+  },
+  {
+   "createdAt": "2026-11-09T14:12:10Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1328,
+   "title": "[GoogleNews] Siracusa, Catania, Augusta e Pozzallo: quattro concorsi di idee per valorizzare i porti - Siracusa News",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1328"
+  },
+  {
+   "createdAt": "2026-11-09T14:12:09Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1327,
+   "title": "[GoogleNews] Università di Palermo, al via il bando per il Master di I° livello in Europrogettazione e Professioni Europee 10/01/2026 - L'eco d",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1327"
+  },
+  {
+   "createdAt": "2026-11-09T14:12:09Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1326,
+   "title": "[GoogleNews] Mormanno ospita il Concorso regionale \"Salumi di Calabria\": qualità, tradizione e identità della filiera norcina calabrese. - CalN",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1326"
+  },
+  {
+   "createdAt": "2026-11-09T14:12:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1325,
+   "title": "[GoogleNews] Riconoscimento alla scrittrice Maria Assunta Oddi nel Concorso Nazionale di Poesia “Santa Maria di Crepacuore” - Espressione24",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1325"
+  },
+  {
+   "createdAt": "2026-11-09T14:12:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1324,
+   "title": "[GoogleNews] Nuove assunzioni in vista per la sanità siciliana: ecco quante e quali figure richieste - LiveSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1324"
+  },
+  {
+   "createdAt": "2026-11-09T14:11:56Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1323,
+   "title": "INPS: Pagamento pensioni in Brasile: cambio gestore da marzo 2027 - Portale Inps",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1323"
+  },
   {
    "createdAt": "2026-11-08T12:05:38Z",
    "labels": [
@@ -1246,160 +1400,6 @@
    "number": 1234,
    "title": "[GoogleNews] Reggio, ok della Giunta alla stabilizzazione di 8 agenti della Polizia Locale - CityNow",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1234"
-  },
-  {
-   "createdAt": "2026-10-31T11:03:41Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1233,
-   "title": "[GoogleNews] Natale a Reggio Calabria: bando del Comune per i mercatini, cinquanta casette nel cuore della città - ReggioTV",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1233"
-  },
-  {
-   "createdAt": "2026-10-31T11:03:40Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1232,
-   "title": "[GoogleNews] AL VIA OS-KIDS: L'ODISSEA SICILIANA DEI PICCOLI\", IL NUOVO CONCORSO SCOLASTICO PROMOSSO DA SACCNE RETE - ME Style",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1232"
-  },
-  {
-   "createdAt": "2026-10-31T11:03:40Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1231,
-   "title": "[GoogleNews] Rendiconto della Regione, risolto il problema informatico. «Grazie al personale, ora ripartono le assunzioni - La Sicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1231"
-  },
-  {
-   "createdAt": "2026-10-31T11:03:40Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1230,
-   "title": "[GoogleNews] Regione Siciliana, ripartono le assunzioni: 952 contratti da firmare - Free Press Online",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1230"
-  },
-  {
-   "createdAt": "2026-10-31T11:03:39Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1229,
-   "title": "[GoogleNews] Regione Siciliana, ripartono le firme per 952 assunzioni e progressioni verticali - Dedalomultimedia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1229"
-  },
-  {
-   "createdAt": "2026-10-31T11:03:39Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1228,
-   "title": "[GoogleNews] Regione, ripartono le assunzioni dopo lo stop: contratti da firmare anche ad Agrigento per 60 dipendenti - AgrigentoNotizie",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1228"
-  },
-  {
-   "createdAt": "2026-10-31T11:03:38Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1227,
-   "title": "[GoogleNews] Regione Siciliana, sbloccate 952 assunzioni e progressioni: ripartono le firme dei contratti dopo lo stop - NewSicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1227"
-  },
-  {
-   "createdAt": "2026-10-31T11:03:25Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1226,
-   "title": "INPS: Fondo Pensioni Lavoratori Dipendenti: prepensionamento dei giornalisti - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1226"
-  },
-  {
-   "createdAt": "2026-10-30T11:31:48Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1225,
-   "title": "[GoogleNews] Agenti della Polizia di Stato di Messina hanno proceduto all’arresto, in flagranza di reato, di due catanesi rispettivamente class",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1225"
-  },
-  {
-   "createdAt": "2026-10-30T11:31:47Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1224,
-   "title": "[GoogleNews] AMAT Palermo S.p.A. – Selezione Pubblica per n. 1 Dirigente preposto alla Direzione Affari Generali e Consulenza Legale – Città di",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1224"
-  },
-  {
-   "createdAt": "2026-10-30T11:31:47Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1223,
-   "title": "[GoogleNews] Comune di Reggio: via libera alla stabilizzazione di 8 agenti della Polizia Locale - Progetto Touring",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1223"
   }
  ]
 }
