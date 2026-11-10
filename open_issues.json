@@ -1,6 +1,174 @@
 {
- "generated_at": "2026-11-09T14:12:13+00:00",
+ "generated_at": "2026-11-10T13:41:41+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-11-10T13:41:39Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1345,
+   "title": "[GoogleNews] Mafia, assolto l’ex sindaco di San Biagio Platani dall’accusa di concorso esterno - GrandangoloAgrigento",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1345"
+  },
+  {
+   "createdAt": "2026-11-10T13:41:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1344,
+   "title": "[GoogleNews] Mafia, assolto ex sindaco dell’Agrigentino per concorso esterno - Meridionews",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1344"
+  },
+  {
+   "createdAt": "2026-11-10T13:41:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1343,
+   "title": "[GoogleNews] Ribaltone in Appello, assolto l’ex sindaco Sabella: cancellata l’accusa di concorso esterno - SiciliaTv.org",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1343"
+  },
+  {
+   "createdAt": "2026-11-10T13:41:37Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1342,
+   "title": "[GoogleNews] Napoli cerca le nuove voci della lirica: dal 10 novembre torna il Concorso internazionale Maria Malibran - Corriere Del Mezzogiorn",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1342"
+  },
+  {
+   "createdAt": "2026-11-10T13:41:36Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1341,
+   "title": "[GoogleNews] Mormanno celebra i Salumi di Calabria: arriva il concorso regionale - CosenzaOk",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1341"
+  },
+  {
+   "createdAt": "2026-11-10T13:41:35Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1340,
+   "title": "[GoogleNews] Concorso pubblico a Enna per l’assunzione di due agenti di polizia locale - Diretta Sicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1340"
+  },
+  {
+   "createdAt": "2026-11-10T13:41:34Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1339,
+   "title": "[GoogleNews] Asp Catania: al via concorso per 190 posti di dirigente medico e 10 posti da primario - Sanità in Sicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1339"
+  },
+  {
+   "createdAt": "2026-11-10T13:41:34Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1338,
+   "title": "[GoogleNews] Carenza di medici in diverse unità operative a villa Sofia – Cervello: via libera al bando di concorso - Sanità in Sicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1338"
+  },
+  {
+   "createdAt": "2026-11-10T13:41:33Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1337,
+   "title": "[GoogleNews] La resa di Titì | Concorso Peppe Nasca - Targa Abbate - Comune di Caltanissetta",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1337"
+  },
+  {
+   "createdAt": "2026-11-10T13:41:33Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1336,
+   "title": "[GoogleNews] In arrivo 2917 assunzioni nella sanità in Sicilia: occasioni per infermieri, OSS, medici, amministrativi e tecnici - Simone Concor",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1336"
+  },
+  {
+   "createdAt": "2026-11-10T13:41:18Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1335,
+   "title": "INPS: Somma non imponibile sulle prestazioni non pensionistiche: indicazioni - Portale Inps",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1335"
+  },
+  {
+   "createdAt": "2026-11-10T13:41:18Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1334,
+   "title": "INPS: Il Casellario delle pensioni: patrimonio strategico per il Paese - Portale Inps",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1334"
+  },
   {
    "createdAt": "2026-11-09T14:12:12Z",
    "labels": [
@@ -1232,174 +1400,6 @@
    "number": 1246,
    "title": "[GoogleNews] Concorso Ministero della Cultura per 1800 Assistenti diplomati: posti, requisiti, materie, come prepararsi e Bando - Ti Consiglio",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1246"
-  },
-  {
-   "createdAt": "2026-11-01T11:57:41Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1245,
-   "title": "[GoogleNews] CISL: OSS e Ausiliari al “San Giovanni di Dio”, avviate le procedure per aumento orario, stabilizzazioni e concorsi - Giornale Cen",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1245"
-  },
-  {
-   "createdAt": "2026-11-01T11:57:40Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1244,
-   "title": "[GoogleNews] Assunzioni Giovani 2026 per gli Under 35 - La novità principale riguarda i requisiti del lavoratore - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1244"
-  },
-  {
-   "createdAt": "2026-11-01T11:57:40Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1243,
-   "title": "[GoogleNews] Concorso MiC 1.800 Assistenti: le date e il calendario della prova scritta a Catania - LiveUniCT – Notizie su Catania e Università",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1243"
-  },
-  {
-   "createdAt": "2026-11-01T11:57:39Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1242,
-   "title": "[GoogleNews] Concorso Ministero Cultura 2026, tutto sulla prova scritta per 1500 assistenti: date, istruzioni, cosa studiare. La guida completa",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1242"
-  },
-  {
-   "createdAt": "2026-11-01T11:57:39Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1241,
-   "title": "[GoogleNews] Concorso AST, sospetti sull'uso di ChatGPT durante la prova: chieste verifiche sui 73 posti - LiveSicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1241"
-  },
-  {
-   "createdAt": "2026-11-01T11:57:38Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1240,
-   "title": "[GoogleNews] Salute mentale in Sicilia, scatta la fase operativa: sblocco delle assunzioni e tavoli tecnici con l'assessore Caruso - BlogSicili",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1240"
-  },
-  {
-   "createdAt": "2026-11-01T11:57:38Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1239,
-   "title": "[GoogleNews] Concorso ARNAS Garibaldi Catania Tecnici Laboratorio Biomedico 2026: 9 posti a tempo indeterminato - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1239"
-  },
-  {
-   "createdAt": "2026-11-01T11:57:37Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1238,
-   "title": "[GoogleNews] AVIS Messina lancia un concorso scolastico - Messina Oggi",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1238"
-  },
-  {
-   "createdAt": "2026-11-01T11:57:37Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1237,
-   "title": "[GoogleNews] Avis chiama a raccolta gli studenti di Messina, al via il concorso \"Donare è la risposta\" - MessinaToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1237"
-  },
-  {
-   "createdAt": "2026-10-31T11:03:42Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1236,
-   "title": "[GoogleNews] CarlottaxARCHITETTURA 2027: aperto il bando della settima edizione - Ordine degli Architetti di Torino",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1236"
-  },
-  {
-   "createdAt": "2026-10-31T11:03:42Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1235,
-   "title": "[GoogleNews] Concorso ASP Catania Assistenti Amministrativi da 50 posti: Commissione esaminatrice costituita - preparati alle prove - Concorsan",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1235"
-  },
-  {
-   "createdAt": "2026-10-31T11:03:41Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1234,
-   "title": "[GoogleNews] Reggio, ok della Giunta alla stabilizzazione di 8 agenti della Polizia Locale - CityNow",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1234"
   }
  ]
 }
