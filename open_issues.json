@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-11-10T13:41:41+00:00",
+ "generated_at": "2026-11-11T12:53:27+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-11-11T12:53:26Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1355,
+   "title": "[GoogleNews] Concorsi MIMIT 2026-2028, c’è il piano assunzioni: in arrivo 887 posti - LiveUnict",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1355"
+  },
+  {
+   "createdAt": "2026-11-11T12:53:25Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1354,
+   "title": "[GoogleNews] Regione Siciliana, approvata la riforma dei dirigenti: la modifica che sblocca le assunzioni - Istituto Impariamo",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1354"
+  },
+  {
+   "createdAt": "2026-11-11T12:53:25Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1353,
+   "title": "[GoogleNews] La Regione Siciliana approva la riforma della dirigenza: via a 229 assunzioni - Diretta Sicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1353"
+  },
+  {
+   "createdAt": "2026-11-11T12:53:24Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1352,
+   "title": "[GoogleNews] Riforma dei dirigenti in Sicilia rivoluzione al via con 229 posti a concorso Cambia il sistema delle nomine - Zazoom Social News",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1352"
+  },
+  {
+   "createdAt": "2026-11-11T12:53:23Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1351,
+   "title": "[GoogleNews] Sanità in Sicilia, maxi piano di assunzioni: 2917 posti a tempo indeterminato. - AssoCareNews.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1351"
+  },
+  {
+   "createdAt": "2026-11-11T12:53:23Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1350,
+   "title": "[GoogleNews] Regione Siciliana, riforma della dirigenza: via la terza fascia e concorsi per 229 posti - Quotidiano di Palermo",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1350"
+  },
+  {
+   "createdAt": "2026-11-11T12:53:23Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1349,
+   "title": "[GoogleNews] Sicilia, approvata la riforma della dirigenza regionale: via ai concorsi per 229 nuovi dirigenti - StrettoWeb",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1349"
+  },
+  {
+   "createdAt": "2026-11-11T12:53:22Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1348,
+   "title": "[GoogleNews] SI-SHUB, prorogato al 23 Novembre il bando per le startup innovative siciliane - ilSicilia.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1348"
+  },
+  {
+   "createdAt": "2026-11-11T12:53:22Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1347,
+   "title": "[GoogleNews] Riforma della dirigenza regionale, Giuffrida: \"Il governo bandisca subito i concorsi\" - Iene Sicule",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1347"
+  },
+  {
+   "createdAt": "2026-11-11T12:53:21Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1346,
+   "title": "[GoogleNews] La riforma della dirigenza regionale è legge, addio terza fascia: ora i concorsi - LiveSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1346"
+  },
   {
    "createdAt": "2026-11-10T13:41:39Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 1256,
    "title": "[GoogleNews] Mondello, concorso di idee per i dehors in piazza: un’occasione per coinvolgere la comunità cittadina di architetti - Be Sicily Ma",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1256"
-  },
-  {
-   "createdAt": "2026-11-02T13:45:09Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1255,
-   "title": "[GoogleNews] Nuovo concorso Akrea Crotone per 23 assunzioni nei servizi di igiene urbana: basta la Licenza Media, bando in arrivo - Ti Consigli",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1255"
-  },
-  {
-   "createdAt": "2026-11-02T13:45:08Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1254,
-   "title": "[GoogleNews] Taglio alle assunzioni al Comune: il piano scende da 42 a soli 12 funzionari tra pensionamenti slittati e pre-dissesto - WLTV",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1254"
-  },
-  {
-   "createdAt": "2026-11-02T13:45:08Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1253,
-   "title": "[GoogleNews] Avis di Messina lancia il concorso per gli Istituti Superiori: \"Donare è la risposta: la scuola per la vita\" - Tempostretto",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1253"
-  },
-  {
-   "createdAt": "2026-11-02T13:45:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1252,
-   "title": "[GoogleNews] Pubblicato il Bando Erasmus+ per l’assegnazione di borse di mobilità per studio e tirocinio verso paesi extra-europei (KA171) - II",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1252"
-  },
-  {
-   "createdAt": "2026-11-02T13:45:07Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1251,
-   "title": "[GoogleNews] Palermo, pensioni bloccate al Comune e mancano i risparmi da turn-over: congelate 30 assunzioni di funzionari - La Sicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1251"
-  },
-  {
-   "createdAt": "2026-11-02T13:45:06Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1250,
-   "title": "[GoogleNews] ASP assume 9 persone a tempo indeterminato: OSS, Autisti, Archivista, Elettricista e Magazzinieri - Concorsi Pubblici",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1250"
-  },
-  {
-   "createdAt": "2026-11-02T13:45:06Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1249,
-   "title": "[GoogleNews] L'INPS assume oltre 8mila diplomati e laureati entro il 2028 e programma nuovi concorsi pubblici: aggiornato il PIAO - Ti Consigli",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1249"
-  },
-  {
-   "createdAt": "2026-11-02T13:45:05Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1248,
-   "title": "[GoogleNews] Magma 2026, il cinema breve siciliano parla anche messinese: in concorso \"Antonino\" di Angelo Campolo - MessinaToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1248"
-  },
-  {
-   "createdAt": "2026-11-02T13:44:49Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1247,
-   "title": "INPS: Trasformazione AOI in pensione di vecchiaia per madri lavoratrici: principali novità - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1247"
-  },
-  {
-   "createdAt": "2026-11-01T11:57:41Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1246,
-   "title": "[GoogleNews] Concorso Ministero della Cultura per 1800 Assistenti diplomati: posti, requisiti, materie, come prepararsi e Bando - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1246"
   }
  ]
 }
