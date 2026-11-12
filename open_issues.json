@@ -1,6 +1,174 @@
 {
- "generated_at": "2026-11-11T12:53:27+00:00",
+ "generated_at": "2026-11-12T13:55:56+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-11-12T13:55:54Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1367,
+   "title": "[GoogleNews] Bando di selezione per lavorare sulle navi nei servizi di supporto ai passeggeri 09/11/2026 - L'eco del sud",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1367"
+  },
+  {
+   "createdAt": "2026-11-12T13:55:54Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1366,
+   "title": "[GoogleNews] Sanità a Lipari, Razza: “Presto bandi per nuove assunzioni e attivazione di nuovi servizi” - Sanità in Sicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1366"
+  },
+  {
+   "createdAt": "2026-11-12T13:55:53Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1365,
+   "title": "[GoogleNews] Auto abbandonate. Dichiarazione di Natale Puma - Comune di Palermo",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1365"
+  },
+  {
+   "createdAt": "2026-11-12T13:55:53Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1364,
+   "title": "[GoogleNews] Al via il 15° Catania Film Fest: il programma dei film in concorso e il calendario delle serate evento - GLOBUS Magazine",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1364"
+  },
+  {
+   "createdAt": "2026-11-12T13:55:52Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1363,
+   "title": "[GoogleNews] Bonus affitti: online sul sito della Regione il bando locazioni per l'anno 2025 » Notizie - Comune di Catania",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1363"
+  },
+  {
+   "createdAt": "2026-11-12T13:55:52Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1362,
+   "title": "[GoogleNews] Comune di Reggio Calabria – Notizie – Pubbl. graduatorie provvisorie - Gazzetta di Reggio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1362"
+  },
+  {
+   "createdAt": "2026-11-12T13:55:51Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1361,
+   "title": "[GoogleNews] Regione, la Cisl promuove la riforma della dirigenza: \"Svolta epocale, ora subito i concorsi\" - La Sicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1361"
+  },
+  {
+   "createdAt": "2026-11-12T13:55:51Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1360,
+   "title": "[GoogleNews] Bandi Regionali, in arrivo 1.000 nuovi Operai Forestali: stanziati 10 milioni e previste 28 giornate di lavoro in più - Concorsi P",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1360"
+  },
+  {
+   "createdAt": "2026-11-12T13:55:50Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1359,
+   "title": "[GoogleNews] Arrivano 300 assunzioni alla Regione: \"E fra pochi mesi 200 nuovi dirigenti\" - RaiNews",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1359"
+  },
+  {
+   "createdAt": "2026-11-12T13:55:50Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1358,
+   "title": "[GoogleNews] Dirigenti regionali, rivoluzione al via con 229 posti a concorso - Giornale di Sicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1358"
+  },
+  {
+   "createdAt": "2026-11-12T13:55:36Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1357,
+   "title": "INPS: Assegno unico e universale: Osservatorio con i dati di settembre 2026 - Portale Inps",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1357"
+  },
+  {
+   "createdAt": "2026-11-12T13:55:36Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1356,
+   "title": "INPS: Pensioni: perequazione da gennaio, aumento subito nel cedolino - Portale Inps",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1356"
+  },
   {
    "createdAt": "2026-11-11T12:53:26Z",
    "labels": [
@@ -1232,174 +1400,6 @@
    "number": 1268,
    "title": "[GoogleNews] Duomo di Catanzaro, ombre su incarichi e concorsi: indagata la direttrice della Soprintendenza - Calabria Diretta News",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1268"
-  },
-  {
-   "createdAt": "2026-11-03T12:56:56Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1267,
-   "title": "[GoogleNews] Concorso Esercito 2026: 37 posti sanitari, 22 per infermieri - Nurse Times",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1267"
-  },
-  {
-   "createdAt": "2026-11-03T12:56:56Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1266,
-   "title": "[GoogleNews] «Vincono il concorso a tempo indeterminato ma Fincalabra propone l’assunzione a tempo determinato». Scatta la diffida - Corriere d",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1266"
-  },
-  {
-   "createdAt": "2026-11-03T12:56:55Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1265,
-   "title": "[GoogleNews] Cosfel approva 204 assunzioni nei Comuni, anche al Sud - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1265"
-  },
-  {
-   "createdAt": "2026-11-03T12:56:55Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1264,
-   "title": "[GoogleNews] Date dei Concorsi RIPAM: le prove scritte dei grandi bandi sono quasi tutte alle spalle - MIC Assistenti 1.800 va in aula dal 13 a",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1264"
-  },
-  {
-   "createdAt": "2026-11-03T12:56:54Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1263,
-   "title": "[GoogleNews] Concorsi truccati all’Università di Catania: indagato il rettore e altri 40 docenti di vari atenei. Anche di Messina - L'eco del s",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1263"
-  },
-  {
-   "createdAt": "2026-11-03T12:56:53Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1262,
-   "title": "[GoogleNews] Sicilia, AMA Spa Paternò cerca diplomati e laureati, assunzioni come impiegati e quadri, stipendi fra 2.352 e 3.639 euro - Ti Cons",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1262"
-  },
-  {
-   "createdAt": "2026-11-03T12:56:53Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1261,
-   "title": "[GoogleNews] Sassofonista Angelo Papazzo di Caulonia ammesso a concorso XIII Andorra International Competition - Ntacalabria.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1261"
-  },
-  {
-   "createdAt": "2026-11-03T12:56:52Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1260,
-   "title": "[GoogleNews] MAGMA 25 - Da Catania, Messina, Palermo, Gela: ecco i registi in concorso a Insula - Cinema italiano.info",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1260"
-  },
-  {
-   "createdAt": "2026-11-03T12:56:35Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1259,
-   "title": "[Scadenzario] #D Sessione D — revisione Search Console — novembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1259"
-  },
-  {
-   "createdAt": "2026-11-03T12:56:34Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1258,
-   "title": "INPS: Cessione del quinto della pensione: le nuove indicazioni - INPS",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1258"
-  },
-  {
-   "createdAt": "2026-11-02T13:45:10Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1257,
-   "title": "[GoogleNews] Nota idonei Concorso 54 posti Regione Calabria: sviluppi PL 65 - LameziaTerme.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1257"
-  },
-  {
-   "createdAt": "2026-11-02T13:45:09Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1256,
-   "title": "[GoogleNews] Mondello, concorso di idee per i dehors in piazza: un’occasione per coinvolgere la comunità cittadina di architetti - Be Sicily Ma",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1256"
   }
  ]
 }
