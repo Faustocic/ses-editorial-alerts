@@ -1,6 +1,160 @@
 {
- "generated_at": "2026-11-12T13:55:56+00:00",
+ "generated_at": "2026-11-13T13:20:33+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-11-13T13:20:29Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1378,
+   "title": "[GoogleNews] Sicilia: via al bando regionale per i condizionatori nelle aule - News Istruzione",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1378"
+  },
+  {
+   "createdAt": "2026-11-13T13:20:29Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1377,
+   "title": "[GoogleNews] Concorsi Regione Siciliana, 252 vincitori e altre 120 assunzioni previste - CanaleSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1377"
+  },
+  {
+   "createdAt": "2026-11-13T13:20:29Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1376,
+   "title": "[GoogleNews] Regione, sì alla riforma della dirigenza. Schifani: « Si modernizza l'amministrazione, ora i concorsi - | Regione Siciliana",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1376"
+  },
+  {
+   "createdAt": "2026-11-13T13:20:28Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1375,
+   "title": "[GoogleNews] ASP Palermo, Giambona chiede la stabilizzazione dei precari ex Covid: ''Non ci sono più scuse, bisogna assumere'' - Palermomania.i",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1375"
+  },
+  {
+   "createdAt": "2026-11-13T13:20:28Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1374,
+   "title": "[GoogleNews] Annullato il bando per i veterinari, pubblicato solo sul sito dell'Asp di Palermo - TP24.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1374"
+  },
+  {
+   "createdAt": "2026-11-13T13:20:27Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1373,
+   "title": "[GoogleNews] Nuove assunzioni all'Asp di Palermo, i sindacati frenano: \"Prima serve stabilizzare i precari Covid\" - PalermoToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1373"
+  },
+  {
+   "createdAt": "2026-11-13T13:20:27Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1372,
+   "title": "[GoogleNews] «All’Asp di Palermo prima delle nuove assunzioni siano stabilizzati i precari Covid» - in sanitas",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1372"
+  },
+  {
+   "createdAt": "2026-11-13T13:20:27Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1371,
+   "title": "[GoogleNews] Agevolazioni Tari, approvata la graduatoria comunale: quasi 3400 le famiglie ammesse - MessinaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1371"
+  },
+  {
+   "createdAt": "2026-11-13T13:20:26Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1370,
+   "title": "[GoogleNews] Sicilia: 1000 assunzioni di operai forestali con il turn over, lo prevede il DDL Stabilità approvato dalla Regione - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1370"
+  },
+  {
+   "createdAt": "2026-11-13T13:20:26Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1369,
+   "title": "[GoogleNews] Concorsi, pubblicate le graduatorie dei vincitori di tre bandi regionali - | Regione Siciliana",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1369"
+  },
+  {
+   "createdAt": "2026-11-13T13:20:16Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1368,
+   "title": "INPS: Assegno di Inclusione: arriva la video guida personalizzata - Portale Inps",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1368"
+  },
   {
    "createdAt": "2026-11-12T13:55:54Z",
    "labels": [
@@ -1246,160 +1400,6 @@
    "number": 1279,
    "title": "[GoogleNews] Assunzione di agenti di polizia municipale, pioggia di fondi per tutti i Comuni - Diretta Sicilia",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1279"
-  },
-  {
-   "createdAt": "2026-11-04T13:11:52Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1278,
-   "title": "[GoogleNews] Concorso INPS per 1695 funzionari PECS: posti, requisiti, materie, titoli, come prepararsi e Bando - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1278"
-  },
-  {
-   "createdAt": "2026-11-04T13:11:51Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1277,
-   "title": "[GoogleNews] Potenza, Comune di Avigliano: concorso per diplomati, ruolo amministrativi, stipendio 23.138 euro - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1277"
-  },
-  {
-   "createdAt": "2026-11-04T13:11:51Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1276,
-   "title": "[GoogleNews] Università di Genova: concorso per laureati, ruolo amministrativi gestionali, non serve esperienza - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1276"
-  },
-  {
-   "createdAt": "2026-11-04T13:11:50Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1275,
-   "title": "[GoogleNews] INAF Padova: concorso per tecnologi all’Osservatorio astronomico, stipendio 34.705 euro - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1275"
-  },
-  {
-   "createdAt": "2026-11-04T13:11:50Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1274,
-   "title": "[GoogleNews] Siracusa, Catania, Augusta e Pozzallo: quattro concorsi di idee per valorizzare i porti - Sicilianews",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1274"
-  },
-  {
-   "createdAt": "2026-11-04T13:11:49Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1273,
-   "title": "[GoogleNews] Ex Silos di Messina, dopo anni di abbandono e progetti ripartono le demolizioni: l’area portuale cambia volto - L'eco del sud",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1273"
-  },
-  {
-   "createdAt": "2026-11-04T13:11:48Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1272,
-   "title": "[GoogleNews] Conclusa la riunione con ASP Messina si procede alla stabilizzazione di tutti i precari ASU 29/11/2021 - L'eco del sud",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1272"
-  },
-  {
-   "createdAt": "2026-11-04T13:11:48Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1271,
-   "title": "[GoogleNews] Proroga bando per assegnazione dei 31 stalli all’interno del mercato coperto di Ballarò. Dichiarazione consiglieri prima Circoscri",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1271"
-  },
-  {
-   "createdAt": "2026-11-04T13:11:47Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1270,
-   "title": "[GoogleNews] Concorso Ast, sospetti sulle prove: Figuccia chiede chiarezza all’Ars - LiveSicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1270"
-  },
-  {
-   "createdAt": "2026-11-03T12:56:57Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1269,
-   "title": "[GoogleNews] Sanità: nuove assunzioni in Calabria. Idonei chiedono il recupero delle graduatorie - CN24TV",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1269"
-  },
-  {
-   "createdAt": "2026-11-03T12:56:57Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1268,
-   "title": "[GoogleNews] Duomo di Catanzaro, ombre su incarichi e concorsi: indagata la direttrice della Soprintendenza - Calabria Diretta News",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1268"
   }
  ]
 }
