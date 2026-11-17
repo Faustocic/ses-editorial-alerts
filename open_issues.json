@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-11-16T13:54:28+00:00",
+ "generated_at": "2026-11-17T14:46:52+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-11-17T14:46:51Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1418,
+   "title": "[GoogleNews] Lavoro Sicilia, in arrivo 1.000 assunzioni di operai forestali - LiveUniCT – Notizie su Catania e Università",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1418"
+  },
+  {
+   "createdAt": "2026-11-17T14:46:50Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1417,
+   "title": "[GoogleNews] Seconda edizione del Concorso nazionale per Istituti alberghieri “I Gusti dei mieli nella cucina d’autore” - Ufficio Scolastico Re",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1417"
+  },
+  {
+   "createdAt": "2026-11-17T14:46:49Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1416,
+   "title": "[GoogleNews] Ospedale Sant’Antonio Abate di Trapani: pubblicato il bando per la Radioterapia da circa 33 milioni di euro - Sanità in Sicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1416"
+  },
+  {
+   "createdAt": "2026-11-17T14:46:49Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1415,
+   "title": "[GoogleNews] Comune assume Assistente Sociale a tempo indeterminato: bastano 24 ore settimanali, ammessa la laurea triennale - Concorsi Pubblic",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1415"
+  },
+  {
+   "createdAt": "2026-11-17T14:46:48Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1414,
+   "title": "[GoogleNews] Ast, Figuccia (Lega): \"Garantire parità di accesso al concorso, tutti i candidati siano ammessi alla prova pratica” - PalermoToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1414"
+  },
+  {
+   "createdAt": "2026-11-17T14:46:48Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1413,
+   "title": "[GoogleNews] Mormanno celebra i salumi calabresi: 27 aziende al primo concorso regionale - CosenzaOk",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1413"
+  },
+  {
+   "createdAt": "2026-11-17T14:46:47Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1412,
+   "title": "[GoogleNews] Reggio, concerti di Natale: il centrosinistra chiede la proroga dei termini dell’avviso - CityNow",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1412"
+  },
+  {
+   "createdAt": "2026-11-17T14:46:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1411,
+   "title": "[GoogleNews] Messina, pubblicate le graduatorie per esenzioni e riduzioni TARI 2026 / Comunicati / Novità / Homepage - Città di Messina",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1411"
+  },
+  {
+   "createdAt": "2026-11-17T14:46:46Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1410,
+   "title": "[GoogleNews] La Regione Siciliana ha assunto 10 archeologici, altri 10 assunzioni nei prossimi giorni - Diretta Sicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1410"
+  },
+  {
+   "createdAt": "2026-11-17T14:46:45Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1409,
+   "title": "[GoogleNews] Selezione per autisti Ast, i candidati diffidano l'azienda per presunte irregolarità: \"Annullate il concorso\" - PalermoToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1409"
+  },
   {
    "createdAt": "2026-11-16T13:54:27Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 1319,
    "title": "[GoogleNews] Nuovo concorso docenti 2027, prorogato termine per censimento aule: ecco quando potrebbe uscire il bando - Tecnica della Scuola",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1319"
-  },
-  {
-   "createdAt": "2026-11-08T12:05:37Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1318,
-   "title": "[GoogleNews] Concorsi a cattedra 2027, si procede a ritmi battenti per consentire la pubblicazione dei bandi entro dicembre - Tecnica della Scu",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1318"
-  },
-  {
-   "createdAt": "2026-11-08T12:05:36Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1317,
-   "title": "[GoogleNews] Asp di Catania, in arrivo 550 nuove assunzioni - in sanitas",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1317"
-  },
-  {
-   "createdAt": "2026-11-08T12:05:36Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1316,
-   "title": "[GoogleNews] Messina. La CISL Fp diffida il centro Neurolesi per la mancata stabilizzazione di 13 OSS Covid 09/09/2023 - L'eco del sud",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1316"
-  },
-  {
-   "createdAt": "2026-11-08T12:05:36Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1315,
-   "title": "[GoogleNews] Sanità siciliana, 2.791 assunzioni in arrivo: ecco le figure richieste. Asp Messina ne assume 396 08/11/2026 - L'eco del sud",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1315"
-  },
-  {
-   "createdAt": "2026-11-08T12:05:35Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1314,
-   "title": "[GoogleNews] Concorsi al Comune di Messina, Gioveni: “Dopo la notizia dei 'furbetti' si valuti la scelta delle prove in presenza\" - L'eco del s",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1314"
-  },
-  {
-   "createdAt": "2026-11-08T12:05:34Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1313,
-   "title": "[GoogleNews] AST, concorso per 73 operatori. Lombardo (Sud chiama Nord): «Troppe irregolarità segnalate e continue rettifiche. Chiediamo la con",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1313"
-  },
-  {
-   "createdAt": "2026-11-08T12:05:20Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1312,
-   "title": "[Scadenzario] #C Refresh di metà mese dell'hub + controllo slittamenti — novembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1312"
-  },
-  {
-   "createdAt": "2026-11-08T12:05:20Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1311,
-   "title": "[Scadenzario] #7 Stipendi NoiPA — novembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1311"
-  },
-  {
-   "createdAt": "2026-11-08T12:05:19Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1310,
-   "title": "[Scadenzario] #21 ADI: rinnovo e prima mensilità al 50% — novembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1310"
-  },
-  {
-   "createdAt": "2026-11-07T11:52:17Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1309,
-   "title": "[GoogleNews] Concorso docenti 2027: dove e per quali classi di concorso si faranno le nuove selezioni - Scuolainforma",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1309"
   }
  ]
 }
