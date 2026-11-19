@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-11-18T14:27:01+00:00",
+ "generated_at": "2026-11-19T14:37:34+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-11-19T14:37:33Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1440,
+   "title": "[GoogleNews] Concorsi Regione Calabria, 629 idonei rischiano di perdere il posto in graduatoria - NoiDiCalabria",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1440"
+  },
+  {
+   "createdAt": "2026-11-19T14:37:33Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1439,
+   "title": "[GoogleNews] Concorsi per laureati in Scienze Chimiche (LM-54) - Bandi e guide sulla partecipazione e la preparazione - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1439"
+  },
+  {
+   "createdAt": "2026-11-19T14:37:32Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1438,
+   "title": "[GoogleNews] Aou Renato Dulbecco, il Si Cobas Calabria chiede la stabilizzazione dei precari e la mobilità interna - Calabria Diretta News",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1438"
+  },
+  {
+   "createdAt": "2026-11-19T14:37:32Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1437,
+   "title": "[GoogleNews] Concorso Comune Catanzaro Istruttori e Funzionari 2026: 7 posti a tempo indeterminato - Concorsando.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1437"
+  },
+  {
+   "createdAt": "2026-11-19T14:37:31Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1436,
+   "title": "[GoogleNews] Prova scritta 4 Dicembre 2026 per Concorso RIPAM Coesione 882 posti: sedi, orari e cosa portare - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1436"
+  },
+  {
+   "createdAt": "2026-11-19T14:37:31Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1435,
+   "title": "[GoogleNews] Sanità in Sicilia: quante assunzioni servono davvero, i numeri tra fabbisogno e turnover - Risoluto",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1435"
+  },
+  {
+   "createdAt": "2026-11-19T14:37:30Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1434,
+   "title": "[GoogleNews] Sanità, concorsi e incarichi non sono \"gare\": archiviata l'inchiesta per Ruggero Razza e altri 11 indagati - BlogSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1434"
+  },
+  {
+   "createdAt": "2026-11-19T14:37:30Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1433,
+   "title": "[GoogleNews] Reggio Calabria, il 24 novembre la cerimonia di premiazione del Concorso “Gonfia la Rete, Vinci sul Web” - StrettoWeb",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1433"
+  },
+  {
+   "createdAt": "2026-11-19T14:37:29Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1432,
+   "title": "[GoogleNews] Selezione autisti AST, i candidati diffidano l’azienda: “Annullate il concorso” - BlogSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1432"
+  },
+  {
+   "createdAt": "2026-11-19T14:37:29Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1431,
+   "title": "[GoogleNews] Indennizzi pesca, bando da 10,8 milioni dalla Regione - SiciliaOnPress",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1431"
+  },
   {
    "createdAt": "2026-11-18T14:26:58Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 1341,
    "title": "[GoogleNews] Mormanno celebra i Salumi di Calabria: arriva il concorso regionale - CosenzaOk",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1341"
-  },
-  {
-   "createdAt": "2026-11-10T13:41:35Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1340,
-   "title": "[GoogleNews] Concorso pubblico a Enna per l’assunzione di due agenti di polizia locale - Diretta Sicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1340"
-  },
-  {
-   "createdAt": "2026-11-10T13:41:34Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1339,
-   "title": "[GoogleNews] Asp Catania: al via concorso per 190 posti di dirigente medico e 10 posti da primario - Sanità in Sicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1339"
-  },
-  {
-   "createdAt": "2026-11-10T13:41:34Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1338,
-   "title": "[GoogleNews] Carenza di medici in diverse unità operative a villa Sofia – Cervello: via libera al bando di concorso - Sanità in Sicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1338"
-  },
-  {
-   "createdAt": "2026-11-10T13:41:33Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1337,
-   "title": "[GoogleNews] La resa di Titì | Concorso Peppe Nasca - Targa Abbate - Comune di Caltanissetta",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1337"
-  },
-  {
-   "createdAt": "2026-11-10T13:41:33Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1336,
-   "title": "[GoogleNews] In arrivo 2917 assunzioni nella sanità in Sicilia: occasioni per infermieri, OSS, medici, amministrativi e tecnici - Simone Concor",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1336"
-  },
-  {
-   "createdAt": "2026-11-10T13:41:18Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1335,
-   "title": "INPS: Somma non imponibile sulle prestazioni non pensionistiche: indicazioni - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1335"
-  },
-  {
-   "createdAt": "2026-11-10T13:41:18Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1334,
-   "title": "INPS: Il Casellario delle pensioni: patrimonio strategico per il Paese - Portale Inps",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1334"
-  },
-  {
-   "createdAt": "2026-11-09T14:12:12Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1333,
-   "title": "[GoogleNews] \"Open Innovation Sicilia\": a Messina la presentazione del bando per fare impresa - Normanno.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1333"
-  },
-  {
-   "createdAt": "2026-11-09T14:12:11Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1332,
-   "title": "[GoogleNews] Specializzandi medici a 86 anni a spese dello Stato: il paradosso dei fondi pubblici e il caos graduatorie - Open",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1332"
-  },
-  {
-   "createdAt": "2026-11-09T14:12:11Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1331,
-   "title": "[GoogleNews] FFABR UniMe 2026, pubblicato il bando Finanziamento Attività di Base della Ricerca di Ateneo - Università degli Studi di Messina",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1331"
   }
  ]
 }
