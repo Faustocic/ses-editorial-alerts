@@ -1,6 +1,160 @@
 {
- "generated_at": "2026-11-19T14:37:34+00:00",
+ "generated_at": "2026-11-20T14:15:46+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-11-20T14:15:42Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1451,
+   "title": "[GoogleNews] Graduatoria beneficiari Carta “Dedicata a te” erogata dall’INPS - www.halleyweb.com",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1451"
+  },
+  {
+   "createdAt": "2026-11-20T14:15:42Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1450,
+   "title": "[GoogleNews] Il Seguenza di Messina vince il Concorso nazionale di Filosofia: primo posto alla 4A con un video su Spinoza - Gazzetta del Sud",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1450"
+  },
+  {
+   "createdAt": "2026-11-20T14:15:41Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1449,
+   "title": "[GoogleNews] “Pelorias – Lettura e voci del territorio”: lunedì 23 novembre ore 11.00 la Sala Ovale del Comune di Messina ospita la presentazio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1449"
+  },
+  {
+   "createdAt": "2026-11-20T14:15:41Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1448,
+   "title": "[GoogleNews] Concorso Nazionale Video di Filosofia: vince Messina, 3ª Caltanissetta - Il Mediterraneo 24",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1448"
+  },
+  {
+   "createdAt": "2026-11-20T14:15:40Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1447,
+   "title": "[GoogleNews] Spinoza e le inquietudini dei giovani: da Messina a Milano, l’Italia dei licei si racconta al Concorso Nazionale Video di Filosofi",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1447"
+  },
+  {
+   "createdAt": "2026-11-20T14:15:40Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1446,
+   "title": "[GoogleNews] Concorso AST, i candidati contestano la preselezione: chiesto annullamento - Quotidiano di Palermo",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1446"
+  },
+  {
+   "createdAt": "2026-11-20T14:15:39Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1445,
+   "title": "[GoogleNews] AST, FIGUCCIA (LEGA): “GARANTIRE PARITÀ DI ACCESSO AL CONCORSO. TUTTI I CANDIDATI AMMESSI ALLA PROVA PRATICA” - BlogSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1445"
+  },
+  {
+   "createdAt": "2026-11-20T14:15:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1444,
+   "title": "[GoogleNews] Beni culturali, entrano in servizio dieci nuovi archeologi. Scarpinato: \"Dopo trent’anni nuova stagione di concorsi in Sicilia\" - ",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1444"
+  },
+  {
+   "createdAt": "2026-11-20T14:15:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1443,
+   "title": "[GoogleNews] Pesca in Sicilia, bando per gli indennizzi ai marittimi: 10,8 milioni per i cicloni Harry e Oriana - Siracusa Press",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1443"
+  },
+  {
+   "createdAt": "2026-11-20T14:15:37Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1442,
+   "title": "[GoogleNews] Concorsi Regione Siciliana: pubblicate le graduatorie dei vincitori - Televallo",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1442"
+  },
+  {
+   "createdAt": "2026-11-20T14:15:27Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1441,
+   "title": "INPS: Roma, 12 novembre 2026 ASSEGNO UNICO UNIVERSALE: nei primi nove mesi del 2026 erogati 15 miliardi euro, con riferimento ",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1441"
+  },
   {
    "createdAt": "2026-11-19T14:37:33Z",
    "labels": [
@@ -1246,160 +1400,6 @@
    "number": 1352,
    "title": "[GoogleNews] Riforma dei dirigenti in Sicilia rivoluzione al via con 229 posti a concorso Cambia il sistema delle nomine - Zazoom Social News",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1352"
-  },
-  {
-   "createdAt": "2026-11-11T12:53:23Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1351,
-   "title": "[GoogleNews] Sanità in Sicilia, maxi piano di assunzioni: 2917 posti a tempo indeterminato. - AssoCareNews.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1351"
-  },
-  {
-   "createdAt": "2026-11-11T12:53:23Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1350,
-   "title": "[GoogleNews] Regione Siciliana, riforma della dirigenza: via la terza fascia e concorsi per 229 posti - Quotidiano di Palermo",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1350"
-  },
-  {
-   "createdAt": "2026-11-11T12:53:23Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1349,
-   "title": "[GoogleNews] Sicilia, approvata la riforma della dirigenza regionale: via ai concorsi per 229 nuovi dirigenti - StrettoWeb",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1349"
-  },
-  {
-   "createdAt": "2026-11-11T12:53:22Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1348,
-   "title": "[GoogleNews] SI-SHUB, prorogato al 23 Novembre il bando per le startup innovative siciliane - ilSicilia.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1348"
-  },
-  {
-   "createdAt": "2026-11-11T12:53:22Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1347,
-   "title": "[GoogleNews] Riforma della dirigenza regionale, Giuffrida: \"Il governo bandisca subito i concorsi\" - Iene Sicule",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1347"
-  },
-  {
-   "createdAt": "2026-11-11T12:53:21Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1346,
-   "title": "[GoogleNews] La riforma della dirigenza regionale è legge, addio terza fascia: ora i concorsi - LiveSicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1346"
-  },
-  {
-   "createdAt": "2026-11-10T13:41:39Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1345,
-   "title": "[GoogleNews] Mafia, assolto l’ex sindaco di San Biagio Platani dall’accusa di concorso esterno - GrandangoloAgrigento",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1345"
-  },
-  {
-   "createdAt": "2026-11-10T13:41:38Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1344,
-   "title": "[GoogleNews] Mafia, assolto ex sindaco dell’Agrigentino per concorso esterno - Meridionews",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1344"
-  },
-  {
-   "createdAt": "2026-11-10T13:41:38Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1343,
-   "title": "[GoogleNews] Ribaltone in Appello, assolto l’ex sindaco Sabella: cancellata l’accusa di concorso esterno - SiciliaTv.org",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1343"
-  },
-  {
-   "createdAt": "2026-11-10T13:41:37Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1342,
-   "title": "[GoogleNews] Napoli cerca le nuove voci della lirica: dal 10 novembre torna il Concorso internazionale Maria Malibran - Corriere Del Mezzogiorn",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1342"
-  },
-  {
-   "createdAt": "2026-11-10T13:41:36Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1341,
-   "title": "[GoogleNews] Mormanno celebra i Salumi di Calabria: arriva il concorso regionale - CosenzaOk",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1341"
   }
  ]
 }
