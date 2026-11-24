@@ -1,6 +1,174 @@
 {
- "generated_at": "2026-11-23T16:20:55+00:00",
+ "generated_at": "2026-11-24T16:10:01+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-11-24T16:09:58Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1495,
+   "title": "[GoogleNews] Fertility, la Messina Social City riapre il bando da 201 mila euro dopo le polemiche - Messina in diretta",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1495"
+  },
+  {
+   "createdAt": "2026-11-24T16:09:56Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1494,
+   "title": "[GoogleNews] Ali Terme, gli studenti contro la violenza sulle donne: premiati i lavori della 14ª edizione del concorso - MessinaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1494"
+  },
+  {
+   "createdAt": "2026-11-24T16:09:56Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1493,
+   "title": "[GoogleNews] Siracusa, Asp: Concorso pubblico per 34 posti di dirigente medico in diverse discipline e per direttori di Radiologia per gli ospe",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1493"
+  },
+  {
+   "createdAt": "2026-11-24T16:09:55Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1492,
+   "title": "[GoogleNews] D.D. n. 17260 del 20/11/2026 – Approvazione graduatorie provvisorie quarto elenco A.S. 2026/2027 (ASACOM) - Portale Scuola Palermo",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1492"
+  },
+  {
+   "createdAt": "2026-11-24T16:09:54Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1491,
+   "title": "[GoogleNews] Rifiuti: in due settimane 7 denunce penali con ritiro della patente e 65 verbali per abbandono illecito grazie alla videosorveglia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1491"
+  },
+  {
+   "createdAt": "2026-11-24T16:09:53Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1490,
+   "title": "[GoogleNews] Premio per i maturandi con 100 e lode: bando a Sarsina - News Istruzione",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1490"
+  },
+  {
+   "createdAt": "2026-11-24T16:09:53Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1489,
+   "title": "[GoogleNews] RiusaME, dai mobili abbandonati a una nuova casa: a Messina nasce il circuito del riuso gratuito - MessinaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1489"
+  },
+  {
+   "createdAt": "2026-11-24T16:09:52Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1488,
+   "title": "[GoogleNews] Messina, presentato “Pelorias: letture e voci del territorio”, il progetto da 70 mila euro finanziato dal bando “Città che legge” ",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1488"
+  },
+  {
+   "createdAt": "2026-11-24T16:09:51Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1487,
+   "title": "[GoogleNews] Pesca, al via il bando su indennizzi per mancato reddito dei marittimi - Corriere di Sciacca",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1487"
+  },
+  {
+   "createdAt": "2026-11-24T16:09:50Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1486,
+   "title": "[GoogleNews] Concorso docenti 2027, requisiti e partecipazione con riserva - Risoluto",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1486"
+  },
+  {
+   "createdAt": "2026-11-24T16:09:33Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1485,
+   "title": "[Scadenzario] #13 Tredicesima dipendenti — dicembre 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1485"
+  },
+  {
+   "createdAt": "2026-11-24T16:09:32Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1484,
+   "title": "INPS: 52685 - ASSEGNO UNICO UNIVERSALE: nei primi nove mesi del 2026 erogati 15 miliardi euro, con riferimento a 9,7 milioni d",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1484"
+  },
   {
    "createdAt": "2026-11-23T16:20:53Z",
    "labels": [
@@ -1232,174 +1400,6 @@
    "number": 1396,
    "title": "[GU 4ª serie] GU n. 87: ISTITUTO PER LE RISORSE BIOLOGICHE E LE BIOTECNOLOGIE MARINE DI ANCONA — CONCORSO (scad. 25 novembre 2026) — Conferiment",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1396"
-  },
-  {
-   "createdAt": "2026-11-15T13:00:18Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1395,
-   "title": "[GU 4ª serie] GU n. 87: TUTO DI TECNOLOGIE AVANZATE PER L'ENERGIA «NICOLA GIORDANO» DI MESSINA — CONCORSO (scad. 25 novembre 2026) — Conferiment",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1395"
-  },
-  {
-   "createdAt": "2026-11-15T13:00:18Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1394,
-   "title": "[GU 4ª serie] GU n. 87: MINISTERO DELLA SALUTE — CONCORSO (scad. 10 dicembre 2026) — Bando per la selezione dei candidati alla direzione scienti",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1394"
-  },
-  {
-   "createdAt": "2026-11-15T13:00:17Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1393,
-   "title": "[GU 4ª serie] GU n. 87: oncorso?\". Sommario AMMINISTRAZIONI CENTRALI MINISTERO DELLA GIUSTIZIA — CONCORSO (scad. 10 dicembre 2026) — Concorso, p",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1393"
-  },
-  {
-   "createdAt": "2026-11-15T13:00:17Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1392,
-   "title": "[GU 4ª serie] GU n. 88: AZIENDA SANITARIA PROVINCIALE - AGRIGENTO — CONCORSO (scad. 13 dicembre 2026) — Concorso pubblico, per titoli ed esami, ",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1392"
-  },
-  {
-   "createdAt": "2026-11-15T13:00:17Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1391,
-   "title": "[GU 4ª serie] GU n. 88: AZIENDA OSPEDALIERA «PAPARDO» DI MESSINA — CONCORSO (scad. 13 dicembre 2026) — Conferimento, per titoli e colloquio, del",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1391"
-  },
-  {
-   "createdAt": "2026-11-15T13:00:16Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1390,
-   "title": "[GU 4ª serie] GU n. 88: UNIVERSITA' DI MESSINA — AVVISO — Approvazione atti della selezione pubblica, per esami, per la copertura di quattro pos",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1390"
-  },
-  {
-   "createdAt": "2026-11-15T13:00:16Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1389,
-   "title": "[GU 4ª serie] GU n. 88: RALI CONSIGLIO NAZIONALE FORENSE - PRESSO IL MINISTERO DELLA GIUSTIZIA — CONCORSO (scad. 15 dicembre 2026) — Bando per l",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1389"
-  },
-  {
-   "createdAt": "2026-11-14T12:24:52Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1388,
-   "title": "[GoogleNews] Concorsi alla Regione, ecco i vincitori: \"In arrivo 200 funzionari per i Centri per l'impiego e 52 ispettori del lavoro\" - Palermo",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1388"
-  },
-  {
-   "createdAt": "2026-11-14T12:24:52Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1387,
-   "title": "[GoogleNews] Concorso Dirigenti MASAF da 6 posti: Graduatorie finali approvate - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1387"
-  },
-  {
-   "createdAt": "2026-11-14T12:24:52Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1386,
-   "title": "[GoogleNews] Comune di Reggio Calabria – Notizie – Bando – Progetto “Reggio guarda avanti - www.gazzettadireggio.com",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1386"
-  },
-  {
-   "createdAt": "2026-11-14T12:24:51Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1385,
-   "title": "[GoogleNews] Vicenza, Casa di Riposo Michelazzo: concorso per 5 infermieri, stipendio 25.114 euro - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1385"
-  },
-  {
-   "createdAt": "2026-11-14T12:24:51Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1384,
-   "title": "[GoogleNews] Concorsi Regione Siciliana, pubblicate le graduatorie: 252 vincitori, in arrivo altri 120 posti - LiveSicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1384"
   }
  ]
 }
