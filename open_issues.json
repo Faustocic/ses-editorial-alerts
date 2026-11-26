@@ -1,6 +1,188 @@
 {
- "generated_at": "2026-11-25T15:56:42+00:00",
+ "generated_at": "2026-11-26T15:36:32+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-11-26T15:36:31Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1520,
+   "title": "[GoogleNews] Aggiudicato il concorso per la nuova stazione marittima di Siracusa - Shipping Italy",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1520"
+  },
+  {
+   "createdAt": "2026-11-26T15:36:30Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1519,
+   "title": "[GoogleNews] Dal Canada a Catania. Il rientro e le domande rimaste senza risposta per il concorso di professore di prima fascia anestesista Pol",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1519"
+  },
+  {
+   "createdAt": "2026-11-26T15:36:30Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1518,
+   "title": "[GoogleNews] Cosfel approva 175 assunzioni nei Comuni: via libera in Calabria, Campania, Puglia e Lazio - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1518"
+  },
+  {
+   "createdAt": "2026-11-26T15:36:29Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1517,
+   "title": "[GoogleNews] Accademia Belle Arti Reggio Calabria cerca docenti in varie discipline, selezione per soli titoli - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1517"
+  },
+  {
+   "createdAt": "2026-11-26T15:36:28Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1516,
+   "title": "[GoogleNews] PA riforma dei concorsi per dirigenti | psicologo in commissione competenze digitali e nuove regole per gli avanzamenti interni - ",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1516"
+  },
+  {
+   "createdAt": "2026-11-26T15:36:28Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1515,
+   "title": "[GoogleNews] Bando indennizzi pesca gambero rosso, 4,3 milioni ai marittimi - Risoluto",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1515"
+  },
+  {
+   "createdAt": "2026-11-26T15:36:27Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1514,
+   "title": "[GoogleNews] Assunzioni docenti 2027/28, 37 mila posti in tre canali - Risoluto",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1514"
+  },
+  {
+   "createdAt": "2026-11-26T15:36:26Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1513,
+   "title": "[GoogleNews] Concorsi Pubblici Dicembre 2026: oltre 4200 assunzioni, bandi e scadenze - Ti Consiglio",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1513"
+  },
+  {
+   "createdAt": "2026-11-26T15:36:26Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1512,
+   "title": "[GoogleNews] Torna Miglior Sommelier dell’Etna, il concorso di Ais Sicilia che premia il più bravo tastevin dei vini vulcanici - Siciliafan",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1512"
+  },
+  {
+   "createdAt": "2026-11-26T15:36:25Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1511,
+   "title": "[GoogleNews] Concorsi scuola 2026/2027, i bandi in arrivo e le scadenze: la guida completa - LiveUniCT – Notizie su Catania e Università",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1511"
+  },
+  {
+   "createdAt": "2026-11-26T15:36:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1510,
+   "title": "[Scadenzario] #1 Pagamenti INPS (hub) — dicembre 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1510"
+  },
+  {
+   "createdAt": "2026-11-26T15:36:08Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
+     "name": "scadenzario",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1509,
+   "title": "[Scadenzario] #2 Pensioni — dicembre 2026",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1509"
+  },
+  {
+   "createdAt": "2026-11-26T15:36:07Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
+     "name": "inps-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1508,
+   "title": "INPS: Pensioni: aggiornate le domande per il cumulo dei periodi assicurativi - INPS",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1508"
+  },
   {
    "createdAt": "2026-11-25T15:56:39Z",
    "labels": [
@@ -1218,188 +1400,6 @@
    "number": 1421,
    "title": "[GoogleNews] Beni culturali, entrano in servizio dieci nuovi archeologi. Scarpinato: \"Dopo trent'anni si è aperta una nuova stagione di concors",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1421"
-  },
-  {
-   "createdAt": "2026-11-18T14:26:45Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1420,
-   "title": "[Scadenzario] #11b Quattordicesima pensionati (richiamo di dicembre) — dicembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1420"
-  },
-  {
-   "createdAt": "2026-11-18T14:26:45Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqKG-A",
-     "name": "scadenzario",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1419,
-   "title": "[Scadenzario] #3 Cedolino pensione — dicembre 2026",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1419"
-  },
-  {
-   "createdAt": "2026-11-17T14:46:51Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1418,
-   "title": "[GoogleNews] Lavoro Sicilia, in arrivo 1.000 assunzioni di operai forestali - LiveUniCT – Notizie su Catania e Università",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1418"
-  },
-  {
-   "createdAt": "2026-11-17T14:46:50Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1417,
-   "title": "[GoogleNews] Seconda edizione del Concorso nazionale per Istituti alberghieri “I Gusti dei mieli nella cucina d’autore” - Ufficio Scolastico Re",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1417"
-  },
-  {
-   "createdAt": "2026-11-17T14:46:49Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1416,
-   "title": "[GoogleNews] Ospedale Sant’Antonio Abate di Trapani: pubblicato il bando per la Radioterapia da circa 33 milioni di euro - Sanità in Sicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1416"
-  },
-  {
-   "createdAt": "2026-11-17T14:46:49Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1415,
-   "title": "[GoogleNews] Comune assume Assistente Sociale a tempo indeterminato: bastano 24 ore settimanali, ammessa la laurea triennale - Concorsi Pubblic",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1415"
-  },
-  {
-   "createdAt": "2026-11-17T14:46:48Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1414,
-   "title": "[GoogleNews] Ast, Figuccia (Lega): \"Garantire parità di accesso al concorso, tutti i candidati siano ammessi alla prova pratica” - PalermoToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1414"
-  },
-  {
-   "createdAt": "2026-11-17T14:46:48Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1413,
-   "title": "[GoogleNews] Mormanno celebra i salumi calabresi: 27 aziende al primo concorso regionale - CosenzaOk",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1413"
-  },
-  {
-   "createdAt": "2026-11-17T14:46:47Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1412,
-   "title": "[GoogleNews] Reggio, concerti di Natale: il centrosinistra chiede la proroga dei termini dell’avviso - CityNow",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1412"
-  },
-  {
-   "createdAt": "2026-11-17T14:46:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1411,
-   "title": "[GoogleNews] Messina, pubblicate le graduatorie per esenzioni e riduzioni TARI 2026 / Comunicati / Novità / Homepage - Città di Messina",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1411"
-  },
-  {
-   "createdAt": "2026-11-17T14:46:46Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1410,
-   "title": "[GoogleNews] La Regione Siciliana ha assunto 10 archeologici, altri 10 assunzioni nei prossimi giorni - Diretta Sicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1410"
-  },
-  {
-   "createdAt": "2026-11-17T14:46:45Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1409,
-   "title": "[GoogleNews] Selezione per autisti Ast, i candidati diffidano l'azienda per presunte irregolarità: \"Annullate il concorso\" - PalermoToday",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1409"
-  },
-  {
-   "createdAt": "2026-11-16T13:54:27Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1408,
-   "title": "[GoogleNews] A Sant’Agata Di Militello, si è tenuta la premiazione del Concorso Artistico Culturale edizione 2026, promosso dalle Associazioni ",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1408"
   }
  ]
 }
