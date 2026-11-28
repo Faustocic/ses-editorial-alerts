@@ -1,6 +1,146 @@
 {
- "generated_at": "2026-11-27T15:27:37+00:00",
+ "generated_at": "2026-11-28T14:26:39+00:00",
  "open_issues": [
+  {
+   "createdAt": "2026-11-28T14:26:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1541,
+   "title": "[GoogleNews] Università per stranieri, al via i concorsi pubblici per tre nuovi posti: come partecipare - ReggioToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1541"
+  },
+  {
+   "createdAt": "2026-11-28T14:26:38Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1540,
+   "title": "[GoogleNews] Concorsi pubblici università stranieri Reggio Calabria - Ntacalabria.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1540"
+  },
+  {
+   "createdAt": "2026-11-28T14:26:37Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1539,
+   "title": "[GoogleNews] I Comuni non assumono i vincitori del loro concorso, Zangrillo li striglia: \"Rischiate le cause\" - Il Fatto Quotidiano",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1539"
+  },
+  {
+   "createdAt": "2026-11-28T14:26:37Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1538,
+   "title": "[GoogleNews] Concorso docenti 2027: 13.868 posti, ecco requisiti e prove - SiciliaTv.org",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1538"
+  },
+  {
+   "createdAt": "2026-11-28T14:26:36Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1537,
+   "title": "[GoogleNews] Rispunta la corsia preferenziale per l'assunzione dei dirigenti alla Regione - LiveSicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1537"
+  },
+  {
+   "createdAt": "2026-11-28T14:26:35Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1536,
+   "title": "[GoogleNews] Assunzioni Polizia locale nel Palermitano, comune apre nuovo concorso - Diretta Sicilia",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1536"
+  },
+  {
+   "createdAt": "2026-11-28T14:26:35Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1535,
+   "title": "[GoogleNews] \"Cultura della legalità e libertà di informazione, al via la sesta edizione del concorso della Prefettura nelle scuole - Assostamp",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1535"
+  },
+  {
+   "createdAt": "2026-11-28T14:26:34Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1534,
+   "title": "[GoogleNews] Stabilizzazioni all'Asp di Catania, Cantone (M5S) interroga il governo: \"Servono tempi certi\" - CataniaToday",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1534"
+  },
+  {
+   "createdAt": "2026-11-28T14:26:33Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1533,
+   "title": "[GoogleNews] [RISERVA FFAA] Concorso 1 posto istruttore amministrativo — Comune di Rosarno (scad. 28/12/2026) - www.grnet.it",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1533"
+  },
+  {
+   "createdAt": "2026-11-28T14:26:33Z",
+   "labels": [
+    {
+     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
+     "name": "concorsi-alert",
+     "description": "",
+     "color": "ededed"
+    }
+   ],
+   "number": 1532,
+   "title": "[GoogleNews] Comune, via al bando per nuovi tirocini a 600 euro - Messina Oggi",
+   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1532"
+  },
   {
    "createdAt": "2026-11-27T15:27:35Z",
    "labels": [
@@ -1260,146 +1400,6 @@
    "number": 1442,
    "title": "[GoogleNews] Concorsi Regione Siciliana: pubblicate le graduatorie dei vincitori - Televallo",
    "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1442"
-  },
-  {
-   "createdAt": "2026-11-20T14:15:27Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrs-MUg",
-     "name": "inps-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1441,
-   "title": "INPS: Roma, 12 novembre 2026 ASSEGNO UNICO UNIVERSALE: nei primi nove mesi del 2026 erogati 15 miliardi euro, con riferimento ",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1441"
-  },
-  {
-   "createdAt": "2026-11-19T14:37:33Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1440,
-   "title": "[GoogleNews] Concorsi Regione Calabria, 629 idonei rischiano di perdere il posto in graduatoria - NoiDiCalabria",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1440"
-  },
-  {
-   "createdAt": "2026-11-19T14:37:33Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1439,
-   "title": "[GoogleNews] Concorsi per laureati in Scienze Chimiche (LM-54) - Bandi e guide sulla partecipazione e la preparazione - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1439"
-  },
-  {
-   "createdAt": "2026-11-19T14:37:32Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1438,
-   "title": "[GoogleNews] Aou Renato Dulbecco, il Si Cobas Calabria chiede la stabilizzazione dei precari e la mobilità interna - Calabria Diretta News",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1438"
-  },
-  {
-   "createdAt": "2026-11-19T14:37:32Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1437,
-   "title": "[GoogleNews] Concorso Comune Catanzaro Istruttori e Funzionari 2026: 7 posti a tempo indeterminato - Concorsando.it",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1437"
-  },
-  {
-   "createdAt": "2026-11-19T14:37:31Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1436,
-   "title": "[GoogleNews] Prova scritta 4 Dicembre 2026 per Concorso RIPAM Coesione 882 posti: sedi, orari e cosa portare - Ti Consiglio",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1436"
-  },
-  {
-   "createdAt": "2026-11-19T14:37:31Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1435,
-   "title": "[GoogleNews] Sanità in Sicilia: quante assunzioni servono davvero, i numeri tra fabbisogno e turnover - Risoluto",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1435"
-  },
-  {
-   "createdAt": "2026-11-19T14:37:30Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1434,
-   "title": "[GoogleNews] Sanità, concorsi e incarichi non sono \"gare\": archiviata l'inchiesta per Ruggero Razza e altri 11 indagati - BlogSicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1434"
-  },
-  {
-   "createdAt": "2026-11-19T14:37:30Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1433,
-   "title": "[GoogleNews] Reggio Calabria, il 24 novembre la cerimonia di premiazione del Concorso “Gonfia la Rete, Vinci sul Web” - StrettoWeb",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1433"
-  },
-  {
-   "createdAt": "2026-11-19T14:37:29Z",
-   "labels": [
-    {
-     "id": "LA_kwDOTYHnPM8AAAACrqGEzA",
-     "name": "concorsi-alert",
-     "description": "",
-     "color": "ededed"
-    }
-   ],
-   "number": 1432,
-   "title": "[GoogleNews] Selezione autisti AST, i candidati diffidano l’azienda: “Annullate il concorso” - BlogSicilia",
-   "url": "https://github.com/Faustocic/ses-editorial-alerts/issues/1432"
   }
  ]
 }
